@@ -1,0 +1,55 @@
+backend:
+  name: github
+  repo: YOUR_GITHUB_USERNAME/speedwayhub  # UPDATE THIS to your GitHub repo
+  branch: main
+
+# For local testing, uncomment and run: npx decap-server
+# local_backend: true
+
+media_folder: public/photos
+public_folder: /photos
+
+site_url: https://speedwayhub.nz
+display_url: https://speedwayhub.nz
+logo_url: https://speedwayhub.nz/logo.svg
+
+slug:
+  encoding: ascii
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  # ==================== NEWS (Works perfectly with Decap) ====================
+  - name: news
+    label: "News Articles"
+    label_singular: "Article"
+    folder: "src/news"
+    create: true
+    delete: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    extension: md
+    format: frontmatter
+    summary: "{{title}} ({{date}})"
+    sortable_fields: ['date', 'title']
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: date, label: Date, widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { name: slug, label: URL Slug, widget: string, hint: "Used in the URL, e.g. my-article-title" }
+      - { name: excerpt, label: Excerpt, widget: text, required: false, hint: "Short summary shown in previews" }
+      - { name: image, label: Featured Image, widget: image, required: false }
+      - { name: body, label: Content, widget: markdown }
+
+  # ==================== SITE SETTINGS ====================
+  - name: settings
+    label: "Settings"
+    files:
+      - name: site
+        label: "Site Settings"
+        file: "src/data/settings.json"
+        fields:
+          - { name: siteName, label: Site Name, widget: string, default: "SpeedwayHub NZ" }
+          - { name: siteDescription, label: Site Description, widget: text }
+          - { name: contactEmail, label: Contact Email, widget: string }
+          - { name: facebookUrl, label: Facebook URL, widget: string, required: false }
+          - { name: announcementBanner, label: Announcement Banner, widget: string, required: false, hint: "Leave empty to hide" }
+          - { name: showBanner, label: Show Banner, widget: boolean, default: true }

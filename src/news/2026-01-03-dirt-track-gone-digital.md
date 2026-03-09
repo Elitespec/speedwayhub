@@ -1,0 +1,7 @@
+Contrary to its grassroots, hands-on image, New Zealand speedway has undergone a significant digital transformation to modernize its operations and expand its reach. The old world of paper forms and localized audiences has been replaced by a streamlined, app-driven ecosystem.
+
+* **Digital Licensing:** The days of paper logbooks are over. Competitors now use a dedicated Speedway NZ App and the Sporty online platform for everything from getting their season license to signing in at the track on race night.
+* **Professional Live Streaming:** A company called "The Pits TV" operates state-of-the-art digital broadcast vehicles that travel the country, providing professional, multi-camera live streams of major events.
+* **Live Timing in Your Pocket:** The sport has fully integrated the MYLAPS Speedhive system. This technology uses transponders on every vehicle to deliver real-time data directly to an app on your phone, letting fans follow live leaderboards, see individual lap times, and track position changes as they happen.
+
+This digital shift is about more than just efficiency; it's fundamentally reshaping the sport's culture. It democratizes the competition, giving a regional driver from Invercargill the same national visibility as a star from Auckland. It connects a geographically dispersed community in real-time and professionalizes the grassroots, attracting a new generation of fans and sponsors who expect a modern, accessible sporting experience.

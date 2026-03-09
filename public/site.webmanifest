@@ -1,0 +1,25 @@
+{
+  "name": "SpeedwayHub NZ",
+  "short_name": "SpeedwayHub",
+  "description": "Find every speedway track, race night, driver, and event across New Zealand",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#DC2626",
+  "background_color": "#0F172A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "/",
+  "categories": ["sports", "entertainment", "news"]
+}

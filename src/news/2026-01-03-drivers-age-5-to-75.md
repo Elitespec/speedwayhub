@@ -1,0 +1,5 @@
+Speedway is arguably one of New Zealand's most demographically diverse sports. The national scene includes around 2,600 licensed competitors, with an incredible age range spanning from five to seventy-five. This isn't an accident, but the result of a cultural phenomenon: a structured youth system that serves as a multi-generational rite of passage.
+
+The journey can begin in the "Peewee Solos" class for 5-8 year olds on motocross bikes before progressing to the primary training ground, the "Youth Ministocks" class for 12-16 year olds. These are miniature stockcars running under strict non-contact rules, allowing young drivers to learn essential race craft. This pathway does more than just build skills; it cements speedway's status as a core family and community institution.
+
+It's this framework that makes it common to see grandparents, parents, and grandchildren all competing on the same night in their respective classes. It's a true family affair where the culture, knowledge, and passion for the sport are passed down through active participation, a rarity that few other sports can claim.

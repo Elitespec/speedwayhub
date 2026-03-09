@@ -1,0 +1,37 @@
+# SpeedwayHub NZ
+
+> The ultimate directory for New Zealand Speedway.
+
+## Project Summary
+SpeedwayHub NZ (speedwayhub.nz) is a comprehensive digital directory and news source for the New Zealand speedway community. It aggregates information about tracks, race schedules, and results into a single, modern interface.
+
+## Core Features
+
+### 1. Track Directory
+- **Endpoint**: `/tracks`
+- **Description**: Detailed profiles for all major NZ speedway tracks (e.g., Western Springs, Palmerston North, Woodford Glen).
+- **Data Points**: Location (Coords), Racing Classes, Facilities, Admission Prices, Contact Info.
+
+### 2. Event Calendar
+- **Endpoint**: `/events`
+- **Description**: A searchable, filterable calendar of upcoming race meetings and past results.
+- **Filters**: By Region, Track, Racing Class, or "This Weekend".
+- **Status Types**: Upcoming, Completed, Postponed, Live.
+
+### 3. News & Coverage
+- **Endpoint**: `/news`
+- **Description**: Editorial content, race reports, and season updates.
+- **Format**: Markdown-based articles with hero images and structured metadata.
+
+### 4. Live Timing
+- **Endpoint**: `/live-timing`
+- **Description**: Integration/links to real-time race data (Race Monitor/MyLaps).
+
+## Technical Context
+- **Stack**: React (Vite), TypeScript, Tailwind CSS.
+- **Data Source**: Static JSON files (`/public/api/tracks.json`, `/public/api/events.json`) serve as the database.
+- **Routing**: Client-side routing via React Router.
+
+## Key Terminology
+- **Classes**: The different types of vehicles racing (e.g., *Superstocks*, *Sprintcars*, *Midgets*, *Streetstocks*).
+- **Meet/Meeting**: A single scheduled racing event (usually one night).

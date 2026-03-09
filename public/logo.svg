@@ -1,0 +1,85 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer glow effect -->
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#DC2626;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#DC2626;stop-opacity:0" />
+    </radialGradient>
+    <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EF4444" />
+      <stop offset="100%" style="stop-color:#DC2626" />
+    </linearGradient>
+  </defs>
+
+  <!-- Glow background -->
+  <circle cx="200" cy="200" r="180" fill="url(#glow)"/>
+
+  <!-- Outer ring (track) -->
+  <circle cx="200" cy="200" r="170" fill="none" stroke="#1E293B" stroke-width="8"/>
+  <circle cx="200" cy="200" r="170" fill="none" stroke="url(#redGradient)" stroke-width="4"/>
+
+  <!-- Speed motion blur lines (dynamic) -->
+  <g opacity="0.4">
+    <path d="M 60 200 L 120 200" stroke="#DC2626" stroke-width="6" stroke-linecap="round"/>
+    <path d="M 70 180 L 125 180" stroke="#DC2626" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 70 220 L 125 220" stroke="#DC2626" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 80 160 L 130 160" stroke="#DC2626" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 80 240 L 130 240" stroke="#DC2626" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Checkered flag pattern (subtle) -->
+  <g opacity="0.15">
+    <rect x="140" y="100" width="20" height="20" fill="#ffffff"/>
+    <rect x="160" y="120" width="20" height="20" fill="#ffffff"/>
+    <rect x="240" y="100" width="20" height="20" fill="#ffffff"/>
+    <rect x="260" y="120" width="20" height="20" fill="#ffffff"/>
+  </g>
+
+  <!-- Main "SPEEDWAY" text - bold and angular -->
+  <text x="200" y="160"
+        font-family="Arial Black, Arial, sans-serif"
+        font-size="42"
+        font-weight="900"
+        fill="url(#redGradient)"
+        text-anchor="middle"
+        letter-spacing="2">SPEEDWAY</text>
+
+  <!-- "HUB" text - larger and prominent -->
+  <text x="200" y="215"
+        font-family="Arial Black, Arial, sans-serif"
+        font-size="56"
+        font-weight="900"
+        fill="#E2E8F0"
+        text-anchor="middle"
+        letter-spacing="8">HUB</text>
+
+  <!-- "NEW ZEALAND" subtitle -->
+  <text x="200" y="245"
+        font-family="Arial, sans-serif"
+        font-size="16"
+        font-weight="600"
+        fill="#94A3B8"
+        text-anchor="middle"
+        letter-spacing="6">NEW ZEALAND</text>
+
+  <!-- NZ Badge - more prominent -->
+  <circle cx="280" cy="120" r="28" fill="#DC2626"/>
+  <circle cx="280" cy="120" r="24" fill="#0F172A"/>
+  <text x="280" y="130"
+        font-family="Arial Black, sans-serif"
+        font-size="20"
+        font-weight="900"
+        fill="#DC2626"
+        text-anchor="middle">NZ</text>
+
+  <!-- Racing tire track marks (bottom) -->
+  <g opacity="0.2">
+    <rect x="150" y="270" width="30" height="4" rx="2" fill="#DC2626"/>
+    <rect x="185" y="270" width="30" height="4" rx="2" fill="#DC2626"/>
+    <rect x="220" y="270" width="30" height="4" rx="2" fill="#DC2626"/>
+  </g>
+
+  <!-- Decorative accent lines -->
+  <line x1="100" y1="200" x2="130" y2="200" stroke="#DC2626" stroke-width="3" stroke-linecap="round"/>
+  <line x1="270" y1="200" x2="300" y2="200" stroke="#DC2626" stroke-width="3" stroke-linecap="round"/>
+</svg>

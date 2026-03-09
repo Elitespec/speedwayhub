@@ -1,0 +1,1101 @@
+[
+  {
+    "id": 5,
+    "slug": "war-of-the-wings-ruapuna-speedway-2025-12-13",
+    "title": "Shearings Earthmoving Hydraulink War of the Wings",
+    "date": "2025-12-13",
+    "trackSlug": "ruapuna-speedway",
+    "summary": "War of the Wings featuring USA drivers, Ryan Stone TQ Memorial, and Midget Super Series. Classes: 1/4 Midgets, TQ Midgets, V6 Wingless Sprints, Midgets, Sprintcars.",
+    "url": "https://rjptv.co.nz/videos/45141",
+    "status": "completed",
+    "startTime": "5:15 PM",
+    "gateOpenTime": "4:00 PM",
+    "streamUrl": "https://rjptv.co.nz/videos/45141",
+    "classes": [
+      "1/4 Midgets",
+      "TQ Midgets",
+      "V6 Wingless Sprints",
+      "Midgets",
+      "Sprintcars"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "opening-night-lucas-oil-auckland-speedway-2025-12-13",
+    "title": "Opening Night & Fireworks",
+    "date": "2025-12-13",
+    "trackSlug": "waikaraka-park-speedway",
+    "summary": "Lucas Oil Auckland Speedway opening night featuring Sprintcars, Midgets, TQ Midgets, Quarter Midgets, and fireworks display.",
+    "url": "https://waikarakafamilyspeedway.co.nz",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Sprintcars",
+      "Midgets",
+      "TQ Midgets",
+      "Quarter Midgets"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "stockcar-teams-invasion-palmerston-north-speedway-2025-12-13",
+    "title": "Machinery Specialists Stockcar Teams Invasion",
+    "date": "2025-12-13",
+    "trackSlug": "palmerston-north-speedway",
+    "summary": "Stockcar Teams Invasion at Robertson Prestige International Speedway. Preparatory event for NZ Stockcar Teams in Rotorua (March).",
+    "url": "https://www.facebook.com/pnspeedway",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Stockcars",
+      "Midgets",
+      "Sidecars",
+      "Superstocks",
+      "Youth Ministocks"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "remembrance-champs-eastern-states-speedway-2025-12-13",
+    "title": "Remembrance Champs",
+    "date": "2025-12-13",
+    "trackSlug": "eastern-states-speedway",
+    "summary": "Remembrance Champs including Streetstock Gerald Flintoft Trophy. Supporting classes: Historics, Productions, Stockcars/Super Stocks, Saloons/Super Saloons, Streetstocks, Youth Ministocks.",
+    "url": "https://www.easternstatesspeedway.net.nz",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Historics",
+      "Productions",
+      "Stockcars",
+      "Superstocks",
+      "Saloons",
+      "Super Saloons",
+      "Streetstocks",
+      "Youth Ministocks"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "south-island-teams-night-woodford-glen-speedway-2025-12-13",
+    "title": "South Island Teams Night",
+    "date": "2025-12-13",
+    "trackSlug": "woodford-glen-speedway",
+    "summary": "Woodford Glen (Canterbury).",
+    "url": "https://www.facebook.com/woodfordglen",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM"
+  },
+  {
+    "id": 12,
+    "slug": "best-pairs-night-huntly-speedway-2025-12-13",
+    "title": "Hill Country Fencing Best Pairs Night & Stockcar Turf Wars",
+    "date": "2025-12-13",
+    "trackSlug": "huntly-speedway",
+    "summary": "Best Pairs Night featuring Ministocks, Modifieds, Production Saloons, and Stockcars. Racing starts 6 PM.",
+    "url": "https://huntlyspeedway.co.nz/event/best-pairs-night/",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "ticketUrl": "https://huntlyspeedway.flicket.co.nz/events/4a8cdec8-2de6-4fef-a1b5-5c59e6758f76",
+    "classes": [
+      "Ministocks",
+      "Modifieds",
+      "Production Saloons",
+      "Stockcars"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "taranaki-modified-champs-stratford-speedway-2025-12-13",
+    "title": "Taranaki Modified Champs",
+    "date": "2025-12-13",
+    "trackSlug": "stratford-speedway",
+    "summary": "Taranaki Modified Championship at Stratford Speedway. Racing starts 6:30 PM.",
+    "url": "https://stratford-speedway.co.nz",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "ticketUrl": "https://stratford-speedway.flicket.co.nz/events/7a04d282-43a1-4097-9d22-02eafbf92fd4",
+    "classes": [
+      "Modifieds"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "auckland-solo-junior-champs-rosebank-speedway-2025-12-14",
+    "title": "Hydro Vision NZ Auckland Solo and Junior Champs",
+    "date": "2025-12-14",
+    "trackSlug": "rosebank-speedway",
+    "summary": "Auckland Solo and Junior Championships at Rosebank Speedway. Support from Sidecars, Classic Sidecars, Flat Trackers, and Kiwikidz Quarter Midgets.",
+    "url": "https://rosebankspeedway.kiwi.nz",
+    "status": "completed",
+    "startTime": "2:00 PM",
+    "gateOpenTime": "1:00 PM",
+    "classes": [
+      "Solo Bikes",
+      "Sidecars",
+      "Classic Sidecars",
+      "Flat Trackers",
+      "Quarter Midgets"
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "caravan-boat-demolition-derby-palmerston-north-speedway-2025-12-27",
+    "title": "Caravan & Boat Demolition Derby",
+    "date": "2025-12-27",
+    "trackSlug": "palmerston-north-speedway",
+    "summary": "Caravan & Boat Demolition Derby plus Manawatu Super Saloon & Minisprint Championships. A crowd favorite event to end 2025.",
+    "url": "https://www.pnspeedway.co.nz",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Minisprints",
+      "Stockcars",
+      "Super Saloons",
+      "Superstocks",
+      "Youth Ministocks"
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "north-island-saloon-champs-palmerston-north-speedway-2026-01-03",
+    "title": "North Island Saloon Champs",
+    "date": "2026-01-03",
+    "trackSlug": "palmerston-north-speedway",
+    "summary": "Lucas Oils North Island Saloon Championship. Bradley Korff claimed the title in a field of 28 top drivers.",
+    "url": "https://www.pnspeedway.co.nz",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "results": {
+      "winner": "Bradley Korff",
+      "highlights": "Bradley Korff wins the North Island Saloon Title."
+    },
+    "classes": [
+      "Adult Ministocks",
+      "Saloons",
+      "Stockcars",
+      "Superstocks"
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "nz-streetstock-champs-nelson-speedway-2026-01-10",
+    "title": "New Zealand Streetstock Champs",
+    "date": "2026-01-10",
+    "trackSlug": "top-of-the-south-speedway",
+    "summary": "New Zealand Streetstock Championship at Nelson Speedway. A massive weekend of racing to decide the 1NZ Streetstock title.",
+    "url": "https://nelsonspeedway.co.nz",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "classes": [
+      "Streetstocks",
+      "Superstocks",
+      "Stockcars",
+      "Productions",
+      "Youth Ministocks"
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "nz-superstock-gp-stratford-speedway-2026-01-10",
+    "title": "New Zealand Superstock Grand Prix",
+    "date": "2026-01-10",
+    "trackSlug": "stratford-speedway",
+    "summary": "Mountain Motors New Zealand Superstock Grand Prix. 24 Finalists battling for the GP title.",
+    "url": "https://stratford-speedway.co.nz",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "4:00 PM",
+    "classes": [
+      "Superstocks",
+      "Stockcars"
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "nz-superstock-champs-qualifying-wellington-speedway-2026-01-16",
+    "title": "FH Group New Zealand Superstock Championship - Qualifying",
+    "date": "2026-01-17",
+    "trackSlug": "wellington-family-speedway",
+    "summary": "**[POSTPONED FROM FRIDAY]** The biggest event on the Speedway New Zealand calendar! First of two action-packed nights for the FH Group New Zealand Superstock title. Cars from across the country battle for a spot in the finals field and a chance to compete for the prestigious 1NZ title. Moved to Saturday @ 5:00 PM.",
+    "url": "https://wellingtonspeedway.co.nz",
+    "status": "completed",
+    "startTime": "5:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "ticketUrl": "https://wellingtonspeedway.co.nz",
+    "classes": [
+      "Superstocks",
+      "Classic Stockcars"
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "nz-superstock-champs-finals-wellington-speedway-2026-01-17",
+    "title": "FH Group New Zealand Superstock Championship - Finals",
+    "date": "2026-01-18",
+    "trackSlug": "wellington-family-speedway",
+    "summary": "**[POSTPONED FROM SATURDAY]** The moment everyone's been waiting for — the FH Group New Zealand Superstock Championship Finals! The country's top drivers go all out to crown the new 1NZ champion. This is where legends are made and history is written! Moved to Sunday @ 3:00 PM.",
+    "url": "https://wellingtonspeedway.co.nz",
+    "status": "completed",
+    "startTime": "3:00 PM",
+    "gateOpenTime": "1:30 PM",
+    "ticketUrl": "https://wellingtonspeedway.co.nz",
+    "results": {
+      "winner": "Brad Uhlenberg",
+      "highlights": "Brad Uhlenberg from Oceanview Speedway wins the NZ Superstock Championship."
+    },
+    "classes": [
+      "Superstocks",
+      "TQ Midgets"
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "nz-midget-champs-baypark-speedway-2026-01-17",
+    "title": "New Zealand Midget Championship",
+    "date": "2026-01-17",
+    "trackSlug": "baypark-speedway",
+    "summary": "The prestigious New Zealand Midget Championship. Two nights of racing (Jan 16-17) to crown the 1NZ.",
+    "url": "https://mercurybaypark.co.nz",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "results": {
+      "winner": "Aaron Hodgson (35M)",
+      "podium": ["Aaron Hodgson (35M)", "Brad Mosen (10A)", "Ben Morrison (97A)"],
+      "highlights": "Aaron Hodgson charged from the 3rd row to win by 1.3 seconds. Teenage star Alec Insley was top qualifier."
+    },
+    "classes": [
+      "Midgets",
+      "Sprintcars",
+      "F2 Midgets"
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "nz-saloon-gp-waikaraka-speedway-2026-01-17",
+    "title": "New Zealand Saloon Grand Prix",
+    "date": "2026-01-17",
+    "trackSlug": "waikaraka-park-speedway",
+    "summary": "New Zealand Saloon Grand Prix at Waikaraka Family Speedway. Top saloon drivers from around the country converge on Auckland.",
+    "url": "https://waikarakafamilyspeedway.co.nz",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "4:00 PM",
+    "classes": [
+      "Saloons",
+      "Stockcars",
+      "Six Shooters"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "north-island-minisprint-champs-palmerston-north-speedway-2026-01-24",
+    "title": "North Island Minisprint Champs",
+    "date": "2026-01-24",
+    "trackSlug": "palmerston-north-speedway",
+    "summary": "North Island Minisprint Championship and Manawatu Youth Ministock Championship. Classes: Minisprints, Saloons, Stockcars, Youth Ministocks.",
+    "url": "https://www.pnspeedway.co.nz",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Minisprints",
+      "Saloons",
+      "Stockcars",
+      "Youth Ministocks"
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "nz-tq-midget-champs-waikaraka-speedway-2026-01-24",
+    "title": "New Zealand TQ Midget Championship",
+    "date": "2026-01-24",
+    "trackSlug": "waikaraka-park-speedway",
+    "summary": "Two nights (Jan 23-24) to decide the New Zealand TQ Midget Champion.",
+    "url": "https://waikarakafamilyspeedway.co.nz",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "4:00 PM",
+    "classes": [
+      "TQ Midgets"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "nz-streetstock-gp-eastern-states-speedway-2026-01-16",
+    "title": "New Zealand Streetstock GP",
+    "date": "2026-01-16",
+    "trackSlug": "eastern-states-speedway",
+    "summary": "New Zealand Streetstock Grand Prix at Eastern States Speedway. Two-day event (Jan 16-17). Classes: Productions, Saloons/Super Saloons, Streetstocks, Stockcars/Superstocks, Youth Ministocks.",
+    "url": "https://www.easternstatesspeedway.net.nz",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Productions",
+      "Saloons",
+      "Super Saloons",
+      "Streetstocks",
+      "Stockcars",
+      "Superstocks",
+      "Youth Ministocks"
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "nz-sidecar-champs-kihikihi-speedway-2026-01-31",
+    "title": "New Zealand Sidecar Champs",
+    "date": "2026-01-31",
+    "trackSlug": "kihikihi-speedway",
+    "summary": "New Zealand Sidecar Championship at Kihikihi Speedway. Racing starts 4:30 PM.",
+    "url": "https://www.kihikihispeedway.co.nz",
+    "status": "completed",
+    "startTime": "4:30 PM",
+    "gateOpenTime": "3:00 PM",
+    "results": {
+      "winner": "Aaron Rose & Nigel Sturgeon",
+      "highlights": "Aaron Rose and Nigel Sturgeon from Wanganui win the NZ Sidecar Championship."
+    },
+    "classes": [
+      "Sidecars"
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "wellington-ministock-champs-wellington-speedway-2026-01-31",
+    "title": "Bike the Track + Black Sheep Construction Wellington Ministock Champs + Dykstra Modified Challenge + Tri-Series Teams",
+    "date": "2026-01-31",
+    "trackSlug": "wellington-family-speedway",
+    "summary": "Community event with Bike the Track for kids 16 and under. Features Black Sheep Construction Wellington Ministock Champs and Dykstra Modified Challenge. May include Stockcar Teams racing. An evening full of racing and fun for all ages!",
+    "url": "https://wellingtonspeedway.co.nz",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Youth Ministocks",
+      "Modifieds",
+      "Superstocks",
+      "Streetstocks",
+      "Stockcar Teams"
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "stockcar-open-champs-eastern-states-speedway-2026-01-31",
+    "title": "Stockcar Open Champs + Streetstocks Bragging Rights",
+    "date": "2026-01-31",
+    "trackSlug": "eastern-states-speedway",
+    "summary": "Stockcar Open Championship and Streetstocks Bragging Rights. Also featuring TQ's Triple Crown Round 2 and Streetcars Round 2. Classes: Streetstocks, Stockcars, Productions, Youth Ministocks, Saloons, Super Saloons, Historics, Streetcars, TQ's.",
+    "url": "https://www.easternstatesspeedway.net.nz",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Streetstocks",
+      "Stockcars",
+      "Productions",
+      "Youth Ministocks",
+      "Saloons",
+      "Super Saloons",
+      "Historics",
+      "Streetcars",
+      "TQ Midgets"
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "superstock-teams-champs-palmerston-north-speedway-2026-02-07",
+    "title": "ENZED/Dewtec Superstock Teams Champs - Qualifying",
+    "date": "2026-02-07",
+    "trackSlug": "palmerston-north-speedway",
+    "summary": "ENZED/Dewtec Superstock Teams Championship qualifying. Racing starts 6 PM. Classes: Historic Stockcars, International Super Saloons.",
+    "url": "https://www.pnspeedway.co.nz",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Historic Stockcars",
+      "International Super Saloons",
+      "Superstocks"
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "superstock-teams-champs-finals-palmerston-north-speedway-2026-02-08",
+    "title": "ENZED/Dewtec Superstock Teams Champs - Finals",
+    "date": "2026-02-08",
+    "trackSlug": "palmerston-north-speedway",
+    "summary": "ENZED/Dewtec Superstock Teams Championship finals. Racing starts 6 PM. Classes: International Super Saloons.",
+    "url": "https://www.pnspeedway.co.nz",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "International Super Saloons",
+      "Superstocks"
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "war-of-the-wings-eastern-states-speedway-2026-02-13",
+    "title": "War of the Wings",
+    "date": "2026-02-13",
+    "trackSlug": "eastern-states-speedway",
+    "summary": "War of the Wings at Eastern States Speedway. Classes: Sprintcars, Stockcars/Superstocks, Productions, Youth Ministocks, Modified Sprints, Quarter Midgets.",
+    "url": "https://www.easternstatesspeedway.net.nz",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Sprintcars",
+      "Stockcars",
+      "Superstocks",
+      "Productions",
+      "Youth Ministocks",
+      "Modified Sprints",
+      "Quarter Midgets"
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "ni-super-saloons-wellington-tq-champs-wellington-speedway-2026-02-14",
+    "title": "Black Sheep Construction North Island Super Saloons + Skylight Specialists Wellington TQ Champs",
+    "date": "2026-02-14",
+    "trackSlug": "wellington-family-speedway",
+    "summary": "Black Sheep Construction North Island Super Saloons bring big horsepower and serious speed in one of the premier meetings of the season. Paired with the Skylight Specialists Wellington TQ Champs for fast, competitive racing from start to finish.",
+    "url": "https://wellingtonspeedway.co.nz",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Super Saloons",
+      "Production Saloons",
+      "Stockcars",
+      "Saloons",
+      "Streetstocks",
+      "TQ Midgets"
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "nz-midget-grand-prix-palmerston-north-speedway-2026-02-21",
+    "title": "Superstock 248 Global Challenge + NZ Midget Grand Prix",
+    "date": "2026-02-21",
+    "trackSlug": "palmerston-north-speedway",
+    "summary": "Superstock 248 Global Challenge and New Zealand Midget Grand Prix. Classes: Midgets, Sidecars, Superstocks, Youth Ministocks.",
+    "url": "https://www.pnspeedway.co.nz",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Midgets",
+      "Sidecars",
+      "Superstocks",
+      "Youth Ministocks"
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "nz-stockcar-gp-eastern-states-speedway-2026-02-27",
+    "title": "New Zealand Stockcar GP",
+    "date": "2026-02-27",
+    "trackSlug": "eastern-states-speedway",
+    "summary": "New Zealand Stockcar Grand Prix at Eastern States Speedway. Two-day event (Feb 27-28). Classes: Productions, Saloons/Super Saloons, Streetstocks, Stockcars/Superstocks, Youth Ministocks. Historics running Feb 28.",
+    "url": "https://www.easternstatesspeedway.net.nz",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Productions",
+      "Saloons",
+      "Super Saloons",
+      "Streetstocks",
+      "Stockcars",
+      "Superstocks",
+      "Youth Ministocks",
+      "Historics"
+    ]
+  },
+  {
+    "id": 35,
+    "slug": "demolition-derby-ministock-cup-wellington-speedway-2026-02-28",
+    "title": "Kiwi Car Removals Demolition Derby + Ministock Capital City Cup + AVKiwi Wellington Production Saloon Champs",
+    "date": "2026-02-28",
+    "trackSlug": "wellington-family-speedway",
+    "summary": "Future stars take the spotlight in the Ministock Capital City Cup. Joined by the AVKiwi Wellington Production Saloon Champs and the epic Kiwi Car Removals Demolition Derby! A true night of entertainment for the whole family.",
+    "url": "https://wellingtonspeedway.co.nz",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Production Saloons",
+      "Youth Ministocks",
+      "Superstocks",
+      "Streetstocks",
+      "Demolition Derby"
+    ]
+  },
+  {
+    "id": 36,
+    "slug": "wellington-stockcar-champs-wellington-speedway-2026-03-14",
+    "title": "Capital Pools & Spas Wellington Stockcar Champs + A&K Plumbing Production Saloon Autumn Champs",
+    "date": "2026-03-14",
+    "trackSlug": "wellington-family-speedway",
+    "summary": "The battle for Wellington's Stockcar crown is on. Expect full grids, fierce racing, and bumper-to-bumper action. Paired with the A&K Plumbing and Drainage Production Saloon Autumn Champs. A must-see night for fans of hard-hitting Speedway.",
+    "url": "https://wellingtonspeedway.co.nz",
+    "status": "upcoming",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Stockcars",
+      "Superstocks",
+      "Saloons",
+      "Modifieds",
+      "Production Saloons",
+      "TQ Midgets"
+    ]
+  },
+  {
+    "id": 37,
+    "slug": "bill-moffat-memorial-wellington-speedway-2026-03-28",
+    "title": "Bill Moffat Memorial & Racetech Tony Durney Stockcar Teams",
+    "date": "2026-03-28",
+    "trackSlug": "wellington-family-speedway",
+    "summary": "Two special memorial events honouring club legends. Bill Moffat Super Saloon Memorial brings high-powered Super Saloons, while Racetech Tony Durney Stockcar Teams gives new drivers a shot at teams racing. A meaningful night with great racing and local pride!",
+    "url": "https://wellingtonspeedway.co.nz",
+    "status": "upcoming",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Super Saloons",
+      "Stockcar Teams",
+      "Youth Ministocks",
+      "Streetstocks",
+      "TQ Midgets"
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "wellington-saloon-champs-wellington-speedway-2026-04-11",
+    "title": "FDM Construction Wellington Saloon Champs + Custom Paintworks Stockcar Eliminator + Flat Track Bikes",
+    "date": "2026-04-11",
+    "trackSlug": "wellington-family-speedway",
+    "summary": "FDM Construction Wellington Saloon Champs return! Custom Paintworks Stockcar Eliminator brings a unique 12-lap final where the last car standing wins. Plus Flat Track Bikes return as a fan favourite! A night full of action you won't want to miss!",
+    "url": "https://wellingtonspeedway.co.nz",
+    "status": "upcoming",
+    "startTime": "5:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "classes": [
+      "Flat Track Bikes",
+      "Stockcars",
+      "Superstocks",
+      "Youth Ministocks",
+      "Saloons",
+      "Production Saloons"
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "wellington-season-finale-wellington-speedway-2026-04-18",
+    "title": "Wellington Speedway Season Grand Finale",
+    "date": "2026-04-18",
+    "trackSlug": "wellington-family-speedway",
+    "summary": "The final night of the season! All classes hit the track for one last run, with drivers giving it everything in their final hit-out. Expect big grids, big effort, and the perfect way to close out another massive year at Wellington Family Speedway.",
+    "url": "https://wellingtonspeedway.co.nz",
+    "status": "upcoming",
+    "startTime": "5:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "classes": [
+      "Superstocks",
+      "Stockcars",
+      "Youth Ministocks",
+      "Super Saloons",
+      "Saloons",
+      "Production Saloons",
+      "Modifieds",
+      "Streetstocks",
+      "TQ Midgets"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "superstocks-champs-palmerston-north-speedway-2025-12-06",
+    "title": "Superstocks Champs",
+    "date": "2025-12-06",
+    "trackSlug": "palmerston-north-speedway",
+    "summary": "Palmerston North Speedway (Manawatū-Whanganui).",
+    "url": "https://www.facebook.com/pnspeedway",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Superstocks"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "sprintcar-shootout-western-springs-2025-11-15",
+    "title": "Sprintcar Shootout",
+    "date": "2025-11-15",
+    "trackSlug": "waikaraka-park-speedway",
+    "summary": "Sprintcar Shootout at Waikaraka Park Speedway (Auckland).",
+    "url": "https://www.facebook.com/westernspringsspeedway",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": [
+      "Sprintcars"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "season-opener-huntly-speedway-2025-10-25",
+    "title": "Season Opener",
+    "date": "2025-10-25",
+    "trackSlug": "huntly-speedway",
+    "summary": "Huntly International Speedway (Waikato).",
+    "url": "https://www.facebook.com/huntlyspeedway",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "4:00 PM"
+  },
+  {
+    "id": 1,
+    "slug": "super-stock-rumble-baypark-speedway-2025-03-30",
+    "title": "Super Stock Rumble",
+    "date": "2025-03-30",
+    "trackSlug": "baypark-speedway",
+    "summary": "Annual Super Stock Rumble at Baypark Speedway. Todd Hemingway (NZ1) won with 75 points from a field of 27 cars.",
+    "url": "https://www.facebook.com/bayparkspeedway",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "results": {
+      "winner": "Todd Hemingway (NZ1)",
+      "podium": [
+        "Todd Hemingway (NZ1)",
+        "Quin Ryan",
+        "Ross Ashby"
+      ],
+      "highlights": "Todd Hemingway won with 75 points from a field of 27 cars.",
+      "resultsUrl": "https://www.facebook.com/bayparkspeedway"
+    },
+    "classes": [
+      "Superstocks"
+    ]
+  },
+  {
+    "id": 40,
+    "slug": "2j-engineering-stockcar-teams-invitation-huntly-2026-01-17",
+    "title": "2J Engineering Stockcar Teams Invitation",
+    "date": "2026-01-17",
+    "trackSlug": "huntly-speedway",
+    "summary": "Stockcar Teams Invitation at Huntly International Speedway. Adults $35, Family $70.",
+    "url": "https://huntlyspeedway.co.nz/",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "pitGateTime": "2:00 PM",
+    "ticketUrl": "https://huntlyspeedway.flicket.co.nz/",
+    "classes": [
+      "Stockcars"
+    ]
+  },
+  {
+    "id": 41,
+    "slug": "central-metals-open-wheel-night-huntly-2026-01-31",
+    "title": "Central Metals Open Wheel Night & TWS Saloon Masters",
+    "date": "2026-01-31",
+    "trackSlug": "huntly-speedway",
+    "summary": "Open Wheel Night featuring TWS Saloon Masters at Huntly International Speedway. Adults $30, Family $60.",
+    "url": "https://huntlyspeedway.co.nz/",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "pitGateTime": "2:00 PM",
+    "ticketUrl": "https://huntlyspeedway.flicket.co.nz/",
+    "classes": [
+      "Saloons",
+      "Midgets",
+      "TQ Midgets"
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "porter-group-show-down-huntly-2026-02-14",
+    "title": "Porter Group Show Down & Hazelton Stock Car Memorial",
+    "date": "2026-02-14",
+    "trackSlug": "huntly-speedway",
+    "summary": "Porter Group Show Down and Hazelton Stock Car Memorial. Adults $30, Family $60.",
+    "url": "https://huntlyspeedway.co.nz/",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "pitGateTime": "2:00 PM",
+    "ticketUrl": "https://huntlyspeedway.flicket.co.nz/",
+    "classes": [
+      "Golden Oldies",
+      "Ministocks",
+      "Modifieds",
+      "Stockcars"
+    ]
+  },
+  {
+    "id": 43,
+    "slug": "waikato-superstocks-championship-huntly-2026-02-28",
+    "title": "Waikato Superstocks Championship, Dirtona 4 & Waikato Ministock Championship",
+    "date": "2026-02-28",
+    "trackSlug": "huntly-speedway",
+    "summary": "Waikato Superstocks Championship, Dirtona 4 and Waikato Ministock Championship. Adults $30, Family $60.",
+    "url": "https://huntlyspeedway.co.nz/",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "pitGateTime": "2:00 PM",
+    "ticketUrl": "https://huntlyspeedway.flicket.co.nz/",
+    "classes": [
+      "Ministocks",
+      "Production Saloons",
+      "Streetstocks",
+      "Superstocks"
+    ]
+  },
+  {
+    "id": 44,
+    "slug": "ni-modified-championship-huntly-2026-03-07",
+    "title": "Addis Containers North Island Modified Championship",
+    "date": "2026-03-07",
+    "trackSlug": "huntly-speedway",
+    "summary": "North Island Modified Championship at Huntly International Speedway. Adults $30, Family $60.",
+    "url": "https://huntlyspeedway.co.nz/",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "pitGateTime": "2:00 PM",
+    "ticketUrl": "https://huntlyspeedway.flicket.co.nz/",
+    "classes": [
+      "Golden Oldies",
+      "Ministocks",
+      "Modifieds"
+    ]
+  },
+  {
+    "id": 45,
+    "slug": "future-of-speedway-huntly-2026-03-14",
+    "title": "Future of Speedway",
+    "date": "2026-03-14",
+    "trackSlug": "huntly-speedway",
+    "summary": "Future of Speedway night featuring Kiwi Kids, Ladies Stockcars, Ministocks and Youth Stockcars.",
+    "url": "https://huntlyspeedway.co.nz/",
+    "status": "upcoming",
+    "startTime": "6:00 PM",
+    "ticketUrl": "https://huntlyspeedway.flicket.co.nz/",
+    "classes": [
+      "Kiwi Kids",
+      "Ladies Stockcars",
+      "Ministocks",
+      "Youth Stockcars"
+    ]
+  },
+  {
+    "id": 46,
+    "slug": "open-wheel-spectacular-2-huntly-2026-03-28",
+    "title": "Open Wheel Spectacular Part 2 & Waikato TQ Midget Championship",
+    "date": "2026-03-28",
+    "trackSlug": "huntly-speedway",
+    "summary": "Open Wheel Spectacular Part 2 and Waikato TQ Midget Championship. F2 Midgets, Kiwi Kids, Midgets, Modifieds, TQ Midgets.",
+    "url": "https://huntlyspeedway.co.nz/",
+    "status": "upcoming",
+    "startTime": "6:00 PM",
+    "ticketUrl": "https://huntlyspeedway.flicket.co.nz/",
+    "classes": [
+      "F2 Midgets",
+      "Kiwi Kids",
+      "Midgets",
+      "Modifieds",
+      "TQ Midgets"
+    ]
+  },
+  {
+    "id": 47,
+    "slug": "stockcar-carby-cup-huntly-2026-04-11",
+    "title": "Stockcar Carby Cup",
+    "date": "2026-04-11",
+    "trackSlug": "huntly-speedway",
+    "summary": "Stockcar Carby Cup at Huntly International Speedway. Adults $30, Family $60.",
+    "url": "https://huntlyspeedway.co.nz/",
+    "status": "upcoming",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "pitGateTime": "2:00 PM",
+    "ticketUrl": "https://huntlyspeedway.flicket.co.nz/",
+    "classes": [
+      "F2 Midgets",
+      "Golden Oldies",
+      "Ministocks",
+      "Modifieds",
+      "Stockcars"
+    ]
+  },
+  {
+    "id": 48,
+    "slug": "double-points-finale-huntly-2026-04-18",
+    "title": "Huntly Quarries Double Points Finale & Demo Derby",
+    "date": "2026-04-18",
+    "trackSlug": "huntly-speedway",
+    "summary": "Season finale with double points and Demo Derby at Huntly International Speedway. Adults $30, Family $60.",
+    "url": "https://huntlyspeedway.co.nz/",
+    "status": "upcoming",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "pitGateTime": "2:00 PM",
+    "ticketUrl": "https://huntlyspeedway.flicket.co.nz/",
+    "classes": [
+      "Demo Derby",
+      "Ministocks",
+      "Modifieds",
+      "Production Saloons",
+      "Stockcars"
+    ]
+  },
+  {
+    "id": 49,
+    "slug": "nz-sprintcar-champs-central-motor-2026-01-10",
+    "title": "New Zealand Sprintcar Championship",
+    "date": "2026-01-10",
+    "trackSlug": "central-motor-speedway",
+    "summary": "The New Zealand Sprintcar Championship at Central Motor Speedway, Cromwell. Daniel Thomas led all 25 laps to win the title.",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "classes": ["Sprintcars"],
+    "results": {
+      "winner": "Daniel Thomas (2NZ)",
+      "podium": ["Daniel Thomas (2NZ)", "Joey Myers Jr (3NZ)", "Kaleb Montgomery (95US)"],
+      "highlights": "Daniel Thomas led all 25 laps against a strong field including American challengers Joey Myers Jr and Kaleb Montgomery."
+    }
+  },
+  {
+    "id": 50,
+    "slug": "nz-stockcar-champs-woodford-glen-2026-02-22",
+    "title": "New Zealand Stockcar Championship",
+    "date": "2026-02-22",
+    "trackSlug": "woodford-glen-speedway",
+    "summary": "The New Zealand Stockcar Championship at Woodford Glen. Caleb Ireland made history with back-to-back titles.",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "classes": ["Stockcars"],
+    "results": {
+      "winner": "Caleb Ireland",
+      "podium": ["Caleb Ireland (82 pts)", "Harley Robb (81 pts)", "Riley Eathorne (78 pts)"],
+      "highlights": "Caleb Ireland became only the second driver to win back-to-back NZ Stockcar titles, after Peter Rees in 2012-13. Won by just 1 point."
+    }
+  },
+  {
+    "id": 51,
+    "slug": "nz-super-saloon-champs-meeanee-2026-03-01",
+    "title": "New Zealand Super Saloon Championship",
+    "date": "2026-03-01",
+    "trackSlug": "meeanee-speedway",
+    "summary": "The New Zealand Super Saloon Championship at Meeanee Speedway, Napier.",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "classes": ["Super Saloons"],
+    "results": {
+      "winner": "Chris Cowling",
+      "highlights": "Chris Cowling claims his third NZ Super Saloon crown in a thriller at Meeanee Speedway."
+    }
+  },
+  {
+    "id": 52,
+    "slug": "nz-superstock-teams-champs-rpis-2026-02-07",
+    "title": "ENZED NZ Superstock Teams Championship",
+    "date": "2026-02-08",
+    "trackSlug": "palmerston-north-speedway",
+    "summary": "ENZED NZ Superstock Teams Championship at Robertson Prestige International Speedway.",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": ["Superstocks"],
+    "results": {
+      "winner": "Gisborne Giants",
+      "highlights": "Gisborne Giants win their first Superstock Teams title in 10 years since reforming."
+    }
+  },
+  {
+    "id": 53,
+    "slug": "nz-stockcar-teams-champs-rotorua-2026-03-08",
+    "title": "New Zealand Stockcar Teams Championship",
+    "date": "2026-03-08",
+    "trackSlug": "paradise-valley-speedway",
+    "summary": "NZ Stockcar Teams Championship at Paradise Valley Speedway, Rotorua.",
+    "status": "completed",
+    "startTime": "6:00 PM",
+    "gateOpenTime": "4:00 PM",
+    "classes": ["Stockcars"],
+    "results": {
+      "winner": "Canterbury Crushers",
+      "highlights": "Canterbury Crushers take the Stockcar Teams title south, denying the Rotorua Rascals a rare three-peat."
+    }
+  },
+  {
+    "id": 54,
+    "slug": "nz-solo-champs-oreti-park-2026-02-23",
+    "title": "New Zealand Solo Championship",
+    "date": "2026-02-23",
+    "trackSlug": "oreti-park-speedway",
+    "summary": "The New Zealand Solo Championship at Oreti Park Speedway, Invercargill.",
+    "status": "completed",
+    "startTime": "2:00 PM",
+    "gateOpenTime": "12:00 PM",
+    "classes": ["Solo Bikes"],
+    "results": {
+      "winner": "Congreve",
+      "highlights": "Congreve wins an epic NZ Solo Championship at Oreti Park."
+    }
+  },
+  {
+    "id": 55,
+    "slug": "nz-saloon-champs-stratford-2026-02-21",
+    "title": "New Zealand Saloon Championship",
+    "date": "2026-02-21",
+    "trackSlug": "stratford-speedway",
+    "summary": "The New Zealand Saloon Championship at Stratford Speedway. Two days of racing (Feb 20-21).",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": ["Saloons"]
+  },
+  {
+    "id": 56,
+    "slug": "nz-super-saloon-gp-rpis-2026-03-07",
+    "title": "New Zealand Super Saloon Grand Prix",
+    "date": "2026-03-07",
+    "trackSlug": "palmerston-north-speedway",
+    "summary": "New Zealand Super Saloon Grand Prix at Robertson Prestige International Speedway.",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": ["Super Saloons", "Stockcars", "Superstocks", "Youth Ministocks"]
+  },
+  {
+    "id": 57,
+    "slug": "bay-showdown-baypark-2026-03-14",
+    "title": "Bay Showdown - BOP Championships",
+    "date": "2026-03-14",
+    "trackSlug": "baypark-speedway",
+    "summary": "Bay of Plenty Championships across all classes. Featuring Sprintcars, F2 Midgets, Stockcars, and Six Shooters.",
+    "status": "upcoming",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": ["Sprintcars", "F2 Midgets", "Stockcars", "Six Shooters", "Superstocks"]
+  },
+  {
+    "id": 58,
+    "slug": "bay-rumble-baypark-2026-03-21",
+    "title": "Bay Rumble",
+    "date": "2026-03-21",
+    "trackSlug": "baypark-speedway",
+    "summary": "Sprintcars, Superstock Rumble, Midgets, and Stockcars at Baypark Speedway.",
+    "status": "upcoming",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": ["Sprintcars", "Superstocks", "Midgets", "Stockcars"]
+  },
+  {
+    "id": 59,
+    "slug": "demo-der-bay-baypark-2026-04-04",
+    "title": "Demo Der-Bay - Season Finale",
+    "date": "2026-04-04",
+    "trackSlug": "baypark-speedway",
+    "summary": "Baypark season finale featuring Stockcars, Sprintcars, F2 Midgets, Ministocks, and the Demo Derby.",
+    "status": "upcoming",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": ["Stockcars", "Sprintcars", "F2 Midgets", "Youth Ministocks", "Demo Derby"]
+  },
+  {
+    "id": 60,
+    "slug": "ni-minisprint-champs-rpis-2026-03-14",
+    "title": "NI Minisprint Champs + Saloon King of Arena",
+    "date": "2026-03-14",
+    "trackSlug": "palmerston-north-speedway",
+    "summary": "North Island Minisprint Championship and Saloon King of Arena at RPIS.",
+    "status": "upcoming",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": ["Minisprints", "Saloons", "Sidecars", "Stockcars"]
+  },
+  {
+    "id": 61,
+    "slug": "peter-barry-memorial-rpis-2026-03-21",
+    "title": "Peter Barry Memorial Derby Teams",
+    "date": "2026-03-21",
+    "trackSlug": "palmerston-north-speedway",
+    "summary": "Peter Barry Memorial Derby Teams at RPIS.",
+    "status": "upcoming",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": ["Adult Ministocks", "Demo Derby", "Minisprints", "Stockcars", "Streetstocks"]
+  },
+  {
+    "id": 62,
+    "slug": "rpis-season-finale-2026-04-04",
+    "title": "Stockcar King of the Arena + Season Finale",
+    "date": "2026-04-04",
+    "trackSlug": "palmerston-north-speedway",
+    "summary": "Stockcar King of the Arena and Season Finale at RPIS. Two nights (Apr 3-4).",
+    "status": "upcoming",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": ["Midgets", "Stockcars", "Streetstocks", "Super Saloons", "Superstocks"]
+  },
+  {
+    "id": 63,
+    "slug": "rpis-grand-finale-2026-04-11",
+    "title": "RPIS Grand Finale",
+    "date": "2026-04-11",
+    "trackSlug": "palmerston-north-speedway",
+    "summary": "Grand Finale at Robertson Prestige International Speedway.",
+    "status": "upcoming",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "5:00 PM",
+    "classes": ["Sidecars", "Stockcars", "Super Saloons", "Superstocks"]
+  },
+  {
+    "id": 64,
+    "slug": "ni-sprintcar-champs-waikaraka-2026-03-07",
+    "title": "North Island Sprintcar Championship",
+    "date": "2026-03-07",
+    "trackSlug": "waikaraka-park-speedway",
+    "summary": "North Island Sprintcar Championship at Lucas Oil Waikaraka Family Speedway.",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "4:00 PM",
+    "classes": ["Sprintcars"]
+  },
+  {
+    "id": 65,
+    "slug": "king-of-the-park-waikaraka-2026-05-02",
+    "title": "King of the Park Grand Final",
+    "date": "2026-05-02",
+    "trackSlug": "waikaraka-park-speedway",
+    "summary": "King of the Park Grand Final - season closer at Lucas Oil Waikaraka Family Speedway.",
+    "status": "upcoming",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "4:00 PM",
+    "classes": ["Sprintcars", "Midgets", "TQ Midgets", "Stockcars", "Super Saloons", "Modifieds"]
+  }
+]

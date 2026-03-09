@@ -1,0 +1,62 @@
+<svg width="320" height="80" viewBox="0 0 320 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#EF4444" />
+      <stop offset="100%" style="stop-color:#DC2626" />
+    </linearGradient>
+  </defs>
+
+  <!-- Icon circle -->
+  <circle cx="40" cy="40" r="38" fill="none" stroke="#1E293B" stroke-width="2"/>
+  <circle cx="40" cy="40" r="36" fill="none" stroke="url(#logoGradient)" stroke-width="1.5"/>
+
+  <!-- Speed lines in icon -->
+  <g opacity="0.4">
+    <line x1="12" y1="40" x2="24" y2="40" stroke="#DC2626" stroke-width="3" stroke-linecap="round"/>
+    <line x1="14" y1="33" x2="24" y2="33" stroke="#DC2626" stroke-width="2" stroke-linecap="round"/>
+    <line x1="14" y1="47" x2="24" y2="47" stroke="#DC2626" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- "S" "H" in circle -->
+  <text x="40" y="35"
+        font-family="Arial Black, sans-serif"
+        font-size="18"
+        font-weight="900"
+        fill="url(#logoGradient)"
+        text-anchor="middle">S</text>
+  <text x="40" y="52"
+        font-family="Arial Black, sans-serif"
+        font-size="16"
+        font-weight="900"
+        fill="#E2E8F0"
+        text-anchor="middle">H</text>
+
+  <!-- "SPEEDWAY" text -->
+  <text x="95" y="36"
+        font-family="Arial Black, Arial, sans-serif"
+        font-size="24"
+        font-weight="900"
+        fill="url(#logoGradient)"
+        letter-spacing="1.5">SPEEDWAY</text>
+
+  <!-- "HUB" text -->
+  <text x="95" y="58"
+        font-family="Arial Black, Arial, sans-serif"
+        font-size="24"
+        font-weight="900"
+        fill="#E2E8F0"
+        letter-spacing="4">HUB</text>
+
+  <!-- "NZ" badge -->
+  <circle cx="290" cy="40" r="24" fill="#DC2626"/>
+  <circle cx="290" cy="40" r="20" fill="#0F172A"/>
+  <text x="290" y="48"
+        font-family="Arial Black, sans-serif"
+        font-size="16"
+        font-weight="900"
+        fill="#DC2626"
+        text-anchor="middle">NZ</text>
+
+  <!-- Accent line under text -->
+  <line x1="95" y1="65" x2="260" y2="65" stroke="#DC2626" stroke-width="2" stroke-linecap="round" opacity="0.3"/>
+</svg>

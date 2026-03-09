@@ -1,0 +1,1389 @@
+[
+  {
+    "id": 1,
+    "name": "Peter Rees",
+    "number": "10G",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "palmerston-north-speedway",
+    "region": "Manawatū-Whanganui",
+    "team": "Rees Race Team",
+    "sponsors": [
+      "Rees Race Cars"
+    ],
+    "facebook": "https://www.facebook.com/pnspeedway/",
+    "car": "Superstock",
+    "championships": [
+      "TWS World 240s Runner-up (Jan 2026)",
+      "RPIS Superstocks Points Leader (40 pts)"
+    ],
+    "slug": "peter-rees",
+    "bio": null,
+    "carMake": "Superstock",
+    "carModel": null,
+    "carYear": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 2,
+    "name": "Michael Pickens",
+    "number": "54A",
+    "classes": [
+      "Midgets",
+      "Sprintcars"
+    ],
+    "homeTrack": "waikaraka-park-speedway",
+    "region": "Auckland",
+    "sponsors": [
+      "CRC"
+    ],
+    "facebook": "https://www.facebook.com/westernspringsspeedway1929/",
+    "car": "Midget",
+    "championships": [
+      "Western Springs Midget Derby Winner (Boxing Night 2025)",
+      "Western Springs Sprintcar Feature Winner (Boxing Night 2025)",
+      "Baypark Bay Superstars Winner (2025)",
+      "Waikaraka Park New Year Feature Winner (2026)",
+      "NZ Midget Championship 6th (Jan 2026)"
+    ],
+    "slug": "michael-pickens",
+    "bio": "New Zealand speedway legend. Multiple championship winner across Midgets and Sprintcars. Now based at Waikaraka Park following the closure of Western Springs.",
+    "carMake": "Midget",
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 3,
+    "name": "Jayden Ward",
+    "number": "971p",
+    "classes": [
+      "Stockcars"
+    ],
+    "homeTrack": "palmerston-north-speedway",
+    "region": "Manawatū-Whanganui",
+    "team": "Team Ward",
+    "sponsors": [
+      "Local partners"
+    ],
+    "facebook": "https://www.facebook.com/pnspeedway/",
+    "car": "Stockcar",
+    "slug": "jayden-ward",
+    "bio": null,
+    "carMake": "Stockcar",
+    "carModel": null,
+    "carYear": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "championships": [],
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ethan Rees",
+    "number": "127G",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "awapuni-speedway",
+    "region": "Gisborne",
+    "championships": [
+      "TWS World 240s Champion (Jan 2026)"
+    ],
+    "slug": "ethan-rees",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": "Rees Race Team",
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 5,
+    "name": "Brad Lane",
+    "number": "TBC",
+    "classes": [
+      "Modifieds"
+    ],
+    "homeTrack": "wellington-family-speedway",
+    "region": "Wellington",
+    "championships": [
+      "NZ Modified Champion 2025/26 (4th career title)"
+    ],
+    "slug": "brad-lane",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 6,
+    "name": "Scott Tennant",
+    "number": "808C",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "kihikihi-speedway",
+    "region": "Waikato",
+    "championships": [
+      "North Island Superstock Champion (Dec 2025)"
+    ],
+    "slug": "scott-tennant",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 7,
+    "name": "Todd Hemingway",
+    "number": "1NZ",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "baypark-speedway",
+    "region": "Bay of Plenty",
+    "championships": [
+      "Former NZ Superstock Champion",
+      "Baypark Feature Winner (Oct/Nov 2025)"
+    ],
+    "slug": "todd-hemingway",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 8,
+    "name": "Sam Hughes",
+    "number": "77G",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "TBC",
+    "region": "TBC",
+    "championships": [
+      "North Island Superstock Championship 3rd (Dec 2025)"
+    ],
+    "slug": "sam-hughes",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 9,
+    "name": "Ben Morrison",
+    "number": "97A",
+    "classes": [
+      "Midgets"
+    ],
+    "homeTrack": "baypark-speedway",
+    "region": "Bay of Plenty",
+    "championships": [
+      "Baypark Bay Superstars 2nd (2025)",
+      "NZ Midget Championship 3rd Place (Jan 2026)"
+    ],
+    "slug": "ben-morrison",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 10,
+    "name": "Alec Insley",
+    "number": "71A",
+    "classes": [
+      "Midgets"
+    ],
+    "homeTrack": "baypark-speedway",
+    "region": "Bay of Plenty",
+    "championships": [
+      "Baypark Bay Superstars 3rd (2025)",
+      "NZ Midget Championship Top Qualifier (Jan 2026)"
+    ],
+    "slug": "alec-insley",
+    "bio": "Rising teenage star in NZ Midgets. Top qualifier at the 83rd NZ Midget Championship.",
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 11,
+    "name": "Daniel Thomas",
+    "number": "2NZ",
+    "classes": [
+      "Sprintcars"
+    ],
+    "homeTrack": "baypark-speedway",
+    "region": "Bay of Plenty",
+    "championships": [
+      "Baypark Season Opener Winner (Oct 2025)",
+      "Baypark Feature Winner (Nov 8 2025)",
+      "NZ Sprintcar Champion 2025/26"
+    ],
+    "slug": "daniel-thomas",
+    "bio": "One of New Zealand's premier Sprintcar drivers. Won the 2025/26 NZ Sprintcar Championship at Central Motor Speedway, leading all 25 laps against a strong field including American challengers.",
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 12,
+    "name": "Chris Cowling",
+    "number": "1NZ",
+    "classes": [
+      "Super Saloons"
+    ],
+    "homeTrack": "baypark-speedway",
+    "region": "Bay of Plenty",
+    "car": "CB2 Chassis",
+    "championships": [
+      "NZ Super Saloon Champion 2025/26 (3rd title)",
+      "5x South Pacific Super Saloon Champion",
+      "Baypark Opening Night Clean Sweep (Oct 2025)"
+    ],
+    "slug": "chris-cowling",
+    "bio": "Dominant force in New Zealand Super Saloons. Three-time NZ Champion and five-time South Pacific Champion, racing a CB2 Chassis out of Baypark.",
+    "carMake": "CB2 Chassis",
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 13,
+    "name": "Mitch Fabish",
+    "number": "95K",
+    "classes": [
+      "Midgets"
+    ],
+    "homeTrack": "palmerston-north-speedway",
+    "region": "Manawatū-Whanganui",
+    "championships": [
+      "Baypark Season Opener Winner (Oct 2025)",
+      "RPIS Midgets Points Leader (43 pts)"
+    ],
+    "slug": "mitch-fabish",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 14,
+    "name": "Brad Mosen",
+    "number": "10A",
+    "classes": [
+      "Midgets"
+    ],
+    "homeTrack": "baypark-speedway",
+    "region": "Bay of Plenty",
+    "championships": [
+      "Bill Buckley Midget Car Classic Winner (Nov 8 2025)",
+      "NZ Midget Championship 2nd Place (Jan 2026)"
+    ],
+    "slug": "brad-mosen",
+    "bio": "Experienced Midget racer, six-time NZ Midget Championship runner-up.",
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 15,
+    "name": "Josh Buchanan",
+    "number": "TBC",
+    "classes": [
+      "Sprintcars"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 1st (Sprintcars)"
+    ],
+    "slug": "josh-buchanan",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 16,
+    "name": "Steve Scoles",
+    "number": "TBC",
+    "classes": [
+      "Sprintcars"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 2nd (Sprintcars)"
+    ],
+    "slug": "steve-scoles",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 17,
+    "name": "Shanarrah Stronach",
+    "number": "TBC",
+    "classes": [
+      "Sprintcars"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 3rd (Sprintcars)"
+    ],
+    "slug": "shanarrah-stronach",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 18,
+    "name": "Luke Fallow",
+    "number": "TBC",
+    "classes": [
+      "Stockcars"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 1st (Stockcars)"
+    ],
+    "slug": "luke-fallow",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 19,
+    "name": "Jacob Boulton",
+    "number": "TBC",
+    "classes": [
+      "Stockcars"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 2nd (Stockcars)"
+    ],
+    "slug": "jacob-boulton",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 20,
+    "name": "Luke Molloy",
+    "number": "TBC",
+    "classes": [
+      "Stockcars"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 3rd (Stockcars)"
+    ],
+    "slug": "luke-molloy",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 21,
+    "name": "Ben Jenkins",
+    "number": "TBC",
+    "classes": [
+      "Streetstocks"
+    ],
+    "homeTrack": "TBC",
+    "region": "South Island",
+    "championships": [
+      "Streetstock Tri-Series Champion (198 pts)"
+    ],
+    "slug": "ben-jenkins",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 22,
+    "name": "Ryan Musgrove",
+    "number": "TBC",
+    "classes": [
+      "Streetstocks"
+    ],
+    "homeTrack": "TBC",
+    "region": "South Island",
+    "championships": [
+      "Streetstock Tri-Series Runner-up (195 pts)"
+    ],
+    "slug": "ryan-musgrove",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 23,
+    "name": "Daniel Burmeister",
+    "number": "172P",
+    "classes": [
+      "Stockcars"
+    ],
+    "homeTrack": "palmerston-north-speedway",
+    "region": "Manawatū-Whanganui",
+    "championships": [
+      "RPIS Stockcars Points Leader (77 pts)"
+    ],
+    "slug": "daniel-burmeister",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 24,
+    "name": "Grant Flynn",
+    "number": "6B",
+    "classes": [
+      "Super Saloons"
+    ],
+    "homeTrack": "palmerston-north-speedway",
+    "region": "Bay of Plenty",
+    "championships": [
+      "RPIS Super Saloons Points Leader (51 pts)"
+    ],
+    "slug": "grant-flynn",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 25,
+    "name": "Ashleigh King",
+    "number": "242P",
+    "classes": [
+      "Saloons"
+    ],
+    "homeTrack": "palmerston-north-speedway",
+    "region": "Manawatū-Whanganui",
+    "championships": [
+      "RPIS Saloons Points Leader (50 pts)"
+    ],
+    "slug": "ashleigh-king",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 26,
+    "name": "Glen McCutcheon",
+    "number": "2NZP",
+    "classes": [
+      "Minisprints"
+    ],
+    "homeTrack": "palmerston-north-speedway",
+    "region": "Manawatū-Whanganui",
+    "championships": [
+      "RPIS Minisprints Points Leader (65 pts)"
+    ],
+    "slug": "glen-mccutcheon",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 27,
+    "name": "Boston Joblin",
+    "number": "52P",
+    "classes": [
+      "Youth Ministocks"
+    ],
+    "homeTrack": "palmerston-north-speedway",
+    "region": "Manawatū-Whanganui",
+    "championships": [
+      "RPIS Youth Ministocks Points Leader (105 pts)"
+    ],
+    "slug": "boston-joblin",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 28,
+    "name": "Adam Evans",
+    "number": "TBC",
+    "classes": [
+      "Six Shooters"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 1st (Six Shooters)"
+    ],
+    "slug": "adam-evans",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 29,
+    "name": "Mason Whelan",
+    "number": "TBC",
+    "classes": [
+      "Six Shooters"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 2nd (Six Shooters)"
+    ],
+    "slug": "mason-whelan",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 30,
+    "name": "Brian Ellison",
+    "number": "TBC",
+    "classes": [
+      "Six Shooters"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 3rd (Six Shooters)"
+    ],
+    "slug": "brian-ellison",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 31,
+    "name": "Olly Stephen",
+    "number": "TBC",
+    "classes": [
+      "Youth Ministocks"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 1st (Youth Ministocks)"
+    ],
+    "slug": "olly-stephen",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 32,
+    "name": "Lucee Scott",
+    "number": "TBC",
+    "classes": [
+      "Youth Ministocks"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 2nd (Youth Ministocks)"
+    ],
+    "slug": "lucee-scott",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 33,
+    "name": "Ryder Harris",
+    "number": "TBC",
+    "classes": [
+      "Youth Ministocks"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 3rd (Youth Ministocks)"
+    ],
+    "slug": "ryder-harris",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 34,
+    "name": "Buddy Kofoid",
+    "number": "USA",
+    "classes": [
+      "Midgets"
+    ],
+    "homeTrack": "international",
+    "region": "International",
+    "championships": [
+      "Baypark Bay 51 Winner (2025)"
+    ],
+    "bio": "American midget racing star competing in the New Zealand Midget World Series",
+    "slug": "buddy-kofoid",
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 35,
+    "name": "Frankie Wainman Jr",
+    "number": "515GB",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "international",
+    "region": "International",
+    "championships": [
+      "TWS World 240s 3rd Place (Jan 2026)"
+    ],
+    "bio": "International stock car racing legend from Great Britain",
+    "slug": "frankie-wainman-jr",
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 36,
+    "name": "Bradley Korff",
+    "number": "86S",
+    "classes": [
+      "Saloons"
+    ],
+    "homeTrack": "stratford-speedway",
+    "region": "Taranaki",
+    "championships": [
+      "North Island Saloon Champion (Jan 2026)"
+    ],
+    "slug": "bradley-korff",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 37,
+    "name": "Jareb Verdoner",
+    "number": "1NZ",
+    "classes": [
+      "Streetstocks"
+    ],
+    "homeTrack": "top-of-the-south-speedway",
+    "region": "Tasman",
+    "championships": [
+      "NZ Streetstock Champion 2024/25"
+    ],
+    "slug": "jareb-verdoner",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 38,
+    "name": "Asher Rees",
+    "number": "126G",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "awapuni-speedway",
+    "region": "Gisborne",
+    "team": "Rees Race Team",
+    "championships": [
+      "Former 1NZ Superstock Champion"
+    ],
+    "slug": "asher-rees",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 39,
+    "name": "Jamie Larsen",
+    "number": "82P",
+    "classes": [
+      "Sprintcars"
+    ],
+    "homeTrack": "palmerston-north-speedway",
+    "region": "Manawatū-Whanganui",
+    "championships": [
+      "Former 1NZ Sprintcar Champion"
+    ],
+    "slug": "jamie-larsen",
+    "bio": null,
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 40,
+    "name": "Brad Uhlenberg",
+    "number": "1NZ",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "oceanview-speedway",
+    "region": "Manawatū-Whanganui",
+    "championships": [
+      "NZ Superstock Champion 2025/26"
+    ],
+    "slug": "brad-uhlenberg",
+    "bio": "The reigning NZ Superstock Champion. Won the 2025/26 title at Wellington Speedway, representing Oceanview Speedway in Whanganui.",
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": 1,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 41,
+    "name": "Aaron Hodgson",
+    "number": "35M",
+    "classes": [
+      "Midgets"
+    ],
+    "homeTrack": "baypark-speedway",
+    "region": "Bay of Plenty",
+    "championships": [
+      "NZ Midget Champion 2025/26 (83rd Championship)"
+    ],
+    "slug": "aaron-hodgson",
+    "bio": "Winner of the 83rd NZ Midget Championship at Baypark Speedway, charging from the 3rd row to win by 1.3 seconds.",
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": 1,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 42,
+    "name": "Caleb Ireland",
+    "number": "1NZ",
+    "classes": [
+      "Stockcars"
+    ],
+    "homeTrack": "meeanee-speedway",
+    "region": "Hawke's Bay",
+    "championships": [
+      "NZ Stockcar Champion 2025/26 (back-to-back)",
+      "NZ Stockcar Champion 2024/25"
+    ],
+    "slug": "caleb-ireland",
+    "bio": "Historic back-to-back NZ Stockcar Champion. Only the second driver ever to achieve consecutive titles after Peter Rees in 2012-13. Won at Woodford Glen with 82 points, just 1 point ahead of Harley Robb.",
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": 2,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 43,
+    "name": "Sam Wright",
+    "number": "94A",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "waikaraka-park-speedway",
+    "region": "Auckland",
+    "championships": [
+      "North Island Superstock Champion 2025/26"
+    ],
+    "slug": "sam-wright",
+    "bio": "North Island Superstock Champion for the 2025/26 season.",
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 44,
+    "name": "Casey McEwan",
+    "number": "16T",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "South Island Superstock Champion 2025/26"
+    ],
+    "slug": "casey-mcewan",
+    "bio": "South Island Superstock Champion for the 2025/26 season.",
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 45,
+    "name": "Harley Robb",
+    "number": "TBC",
+    "classes": [
+      "Stockcars"
+    ],
+    "homeTrack": "woodford-glen-speedway",
+    "region": "Canterbury",
+    "championships": [
+      "NZ Stockcar Championship 2nd (2025/26, 81 pts)"
+    ],
+    "slug": "harley-robb",
+    "bio": "Runner-up at the 2025/26 NZ Stockcar Championship with 81 points, just 1 point behind champion Caleb Ireland.",
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 46,
+    "name": "Riley Eathorne",
+    "number": "TBC",
+    "classes": [
+      "Stockcars"
+    ],
+    "homeTrack": "top-of-the-south-speedway",
+    "region": "Tasman",
+    "championships": [
+      "NZ Stockcar Championship 3rd (2025/26, 78 pts)"
+    ],
+    "slug": "riley-eathorne",
+    "bio": "Third place at the 2025/26 NZ Stockcar Championship at Woodford Glen.",
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": null,
+      "yearsRacing": null
+    }
+  },
+  {
+    "id": 47,
+    "name": "Hayden Brookland",
+    "number": "TBC",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "waikaraka-park-speedway",
+    "region": "Auckland",
+    "championships": [
+      "U21 NZ Superstock Champion 2025/26"
+    ],
+    "slug": "hayden-brookland",
+    "bio": "Under-21 NZ Superstock Champion for the 2025/26 season.",
+    "carMake": null,
+    "carModel": null,
+    "carYear": null,
+    "team": null,
+    "sponsors": [],
+    "facebook": null,
+    "instagram": null,
+    "website": null,
+    "photo": null,
+    "careerStats": {
+      "totalWins": null,
+      "nationalTitles": 1,
+      "yearsRacing": null
+    }
+  }
+]

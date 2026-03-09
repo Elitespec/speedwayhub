@@ -1,0 +1,9 @@
+# robots.txt for SpeedwayHub NZ
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://speedwayhub.nz/sitemap.xml
+
+# Crawl-delay for good citizenship
+Crawl-delay: 1

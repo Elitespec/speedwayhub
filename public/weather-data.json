@@ -1,0 +1,674 @@
+{
+  "western-springs": {
+    "current": {
+      "temp": 21,
+      "description": "moderate rain",
+      "icon": "10d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 18,
+        "description": "few clouds",
+        "icon": "02n"
+      },
+      {
+        "date": "Sat",
+        "temp": 19,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sun",
+        "temp": 16,
+        "description": "light rain",
+        "icon": "10n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:25:57.391Z"
+  },
+  "huntly-speedway": {
+    "current": {
+      "temp": 21,
+      "description": "scattered clouds",
+      "icon": "03d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 16,
+        "description": "clear sky",
+        "icon": "01n"
+      },
+      {
+        "date": "Sat",
+        "temp": 17,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sun",
+        "temp": 14,
+        "description": "light rain",
+        "icon": "10n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:25:58.042Z"
+  },
+  "kihikihi-speedway": {
+    "current": {
+      "temp": 22,
+      "description": "light rain",
+      "icon": "10d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 16,
+        "description": "clear sky",
+        "icon": "01n"
+      },
+      {
+        "date": "Sat",
+        "temp": 15,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sun",
+        "temp": 15,
+        "description": "light rain",
+        "icon": "10n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:25:58.693Z"
+  },
+  "palmerston-north-speedway": {
+    "current": {
+      "temp": 18,
+      "description": "overcast clouds",
+      "icon": "04d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 15,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sat",
+        "temp": 13,
+        "description": "few clouds",
+        "icon": "02n"
+      },
+      {
+        "date": "Sun",
+        "temp": 13,
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:25:59.336Z"
+  },
+  "oceanview-speedway": {
+    "current": {
+      "temp": 19,
+      "description": "light rain",
+      "icon": "10d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 17,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sat",
+        "temp": 15,
+        "description": "few clouds",
+        "icon": "02n"
+      },
+      {
+        "date": "Sun",
+        "temp": 14,
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:00.014Z"
+  },
+  "stratford-speedway": {
+    "current": {
+      "temp": 17,
+      "description": "light rain",
+      "icon": "10d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 14,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sat",
+        "temp": 13,
+        "description": "overcast clouds",
+        "icon": "04n"
+      },
+      {
+        "date": "Sun",
+        "temp": 14,
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:00.653Z"
+  },
+  "meeanee-speedway": {
+    "current": {
+      "temp": 19,
+      "description": "light rain",
+      "icon": "10d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 17,
+        "description": "overcast clouds",
+        "icon": "04n"
+      },
+      {
+        "date": "Sat",
+        "temp": 15,
+        "description": "overcast clouds",
+        "icon": "04n"
+      },
+      {
+        "date": "Sun",
+        "temp": 15,
+        "description": "light rain",
+        "icon": "10n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:01.314Z"
+  },
+  "baypark-speedway": {
+    "current": {
+      "temp": 22,
+      "description": "heavy intensity rain",
+      "icon": "10d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 19,
+        "description": "clear sky",
+        "icon": "01n"
+      },
+      {
+        "date": "Sat",
+        "temp": 16,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sun",
+        "temp": 14,
+        "description": "light rain",
+        "icon": "10n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:01.951Z"
+  },
+  "woodford-glen-speedway": {
+    "current": {
+      "temp": 14,
+      "description": "light rain",
+      "icon": "10d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 12,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sat",
+        "temp": 13,
+        "description": "scattered clouds",
+        "icon": "03n"
+      },
+      {
+        "date": "Sun",
+        "temp": 13,
+        "description": "clear sky",
+        "icon": "01n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:02.600Z"
+  },
+  "ruapuna-speedway": {
+    "current": {
+      "temp": 14,
+      "description": "light rain",
+      "icon": "10d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 11,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sat",
+        "temp": 11,
+        "description": "scattered clouds",
+        "icon": "03n"
+      },
+      {
+        "date": "Sun",
+        "temp": 10,
+        "description": "scattered clouds",
+        "icon": "03n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:03.247Z"
+  },
+  "riverside-speedway": {
+    "current": {
+      "temp": 15,
+      "description": "overcast clouds",
+      "icon": "04d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 10,
+        "description": "overcast clouds",
+        "icon": "04n"
+      },
+      {
+        "date": "Sat",
+        "temp": 10,
+        "description": "overcast clouds",
+        "icon": "04n"
+      },
+      {
+        "date": "Sun",
+        "temp": 12,
+        "description": "clear sky",
+        "icon": "01n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:03.907Z"
+  },
+  "greenstone-park-speedway": {
+    "current": {
+      "temp": 17,
+      "description": "overcast clouds",
+      "icon": "04d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 15,
+        "description": "scattered clouds",
+        "icon": "03n"
+      },
+      {
+        "date": "Sat",
+        "temp": 15,
+        "description": "overcast clouds",
+        "icon": "04n"
+      },
+      {
+        "date": "Sun",
+        "temp": 14,
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:04.552Z"
+  },
+  "waikaraka-park-speedway": {
+    "current": {
+      "temp": 21,
+      "description": "moderate rain",
+      "icon": "10d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 19,
+        "description": "few clouds",
+        "icon": "02n"
+      },
+      {
+        "date": "Sat",
+        "temp": 20,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sun",
+        "temp": 16,
+        "description": "light rain",
+        "icon": "10n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:05.203Z"
+  },
+  "wellington-family-speedway": {
+    "current": {
+      "temp": 17,
+      "description": "overcast clouds",
+      "icon": "04d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 13,
+        "description": "broken clouds",
+        "icon": "04n"
+      },
+      {
+        "date": "Sat",
+        "temp": 10,
+        "description": "broken clouds",
+        "icon": "04n"
+      },
+      {
+        "date": "Sun",
+        "temp": 10,
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:05.719Z"
+  },
+  "awapuni-speedway": {
+    "current": {
+      "temp": 21,
+      "description": "overcast clouds",
+      "icon": "04d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 19,
+        "description": "clear sky",
+        "icon": "01n"
+      },
+      {
+        "date": "Sat",
+        "temp": 16,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sun",
+        "temp": 17,
+        "description": "light rain",
+        "icon": "10n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:06.218Z"
+  },
+  "ferndene-park-speedway": {
+    "current": {
+      "temp": 19,
+      "description": "overcast clouds",
+      "icon": "04d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 15,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sat",
+        "temp": 14,
+        "description": "overcast clouds",
+        "icon": "04n"
+      },
+      {
+        "date": "Sun",
+        "temp": 14,
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:06.732Z"
+  },
+  "paradise-valley-speedway": {
+    "current": {
+      "temp": 18,
+      "description": "moderate rain",
+      "icon": "10d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 15,
+        "description": "clear sky",
+        "icon": "01n"
+      },
+      {
+        "date": "Sat",
+        "temp": 12,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sun",
+        "temp": 11,
+        "description": "light rain",
+        "icon": "10n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:07.237Z"
+  },
+  "rosebank-speedway": {
+    "current": {
+      "temp": 21,
+      "description": "light rain",
+      "icon": "10d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 18,
+        "description": "few clouds",
+        "icon": "02n"
+      },
+      {
+        "date": "Sat",
+        "temp": 19,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sun",
+        "temp": 15,
+        "description": "light rain",
+        "icon": "10n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:07.883Z"
+  },
+  "auckland-vintage-speedway": {
+    "current": {
+      "temp": 21,
+      "description": "moderate rain",
+      "icon": "10d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 18,
+        "description": "few clouds",
+        "icon": "02n"
+      },
+      {
+        "date": "Sat",
+        "temp": 19,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sun",
+        "temp": 15,
+        "description": "light rain",
+        "icon": "10n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:08.406Z"
+  },
+  "eastern-states-speedway": {
+    "current": {
+      "temp": 17,
+      "description": "overcast clouds",
+      "icon": "04d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 14,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sat",
+        "temp": 12,
+        "description": "broken clouds",
+        "icon": "04n"
+      },
+      {
+        "date": "Sun",
+        "temp": 12,
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:09.055Z"
+  },
+  "central-motor-speedway": {
+    "current": {
+      "temp": 13,
+      "description": "overcast clouds",
+      "icon": "04d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 10,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sat",
+        "temp": 12,
+        "description": "overcast clouds",
+        "icon": "04n"
+      },
+      {
+        "date": "Sun",
+        "temp": 13,
+        "description": "clear sky",
+        "icon": "01n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:09.708Z"
+  },
+  "top-of-the-south-speedway": {
+    "current": {
+      "temp": 16,
+      "description": "overcast clouds",
+      "icon": "04d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 15,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sat",
+        "temp": 13,
+        "description": "overcast clouds",
+        "icon": "04n"
+      },
+      {
+        "date": "Sun",
+        "temp": 12,
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:10.368Z"
+  },
+  "ashburton-speedway": {
+    "current": {
+      "temp": 12,
+      "description": "light rain",
+      "icon": "10d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 11,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sat",
+        "temp": 11,
+        "description": "overcast clouds",
+        "icon": "04n"
+      },
+      {
+        "date": "Sun",
+        "temp": 10,
+        "description": "few clouds",
+        "icon": "02n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:10.878Z"
+  },
+  "beachlands-speedway": {
+    "current": {
+      "temp": 14,
+      "description": "overcast clouds",
+      "icon": "04d"
+    },
+    "forecast": [
+      {
+        "date": "Fri",
+        "temp": 11,
+        "description": "light rain",
+        "icon": "10n"
+      },
+      {
+        "date": "Sat",
+        "temp": 12,
+        "description": "overcast clouds",
+        "icon": "04n"
+      },
+      {
+        "date": "Sun",
+        "temp": 11,
+        "description": "clear sky",
+        "icon": "01n"
+      }
+    ],
+    "updatedAt": "2026-01-15T07:26:11.390Z"
+  }
+}

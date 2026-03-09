@@ -1,0 +1,5 @@
+In almost every international motorsport, from Formula 1 to NASCAR, deliberate contact is a cardinal sin resulting in harsh penalties. In New Zealand speedway, for certain classes, it's the entire point. The sport's "bash and crash" culture is a defining feature that sets it apart on the world stage.
+
+This is most evident in the "contact grades." The premier class, known as Superstocks, is the sport's glamour division. These are not modified road cars; they are purpose-built machines with powerful 4.0-litre engines and chassis engineered to both deliver and withstand major, high-speed impacts.
+
+The most populous class is the Stockcar division. Operating under stricter technical rules to control costs, these cars still engage in the same brutal ballet of tactical aggression. This culminates in the iconic Teams Racing format, where squadrons of cars work in brutal, choreographed concert to block, impede, and "spin" opponents out of contention to help a teammate secure a win. In these grades, a well-executed tactical block can draw a roar from the crowd as loud as any chequered flag.

@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "slug": "western-springs",
+    "name": "Western Springs Speedway",
+    "logo": "/logos/western-springs.svg",
+    "photo": "/photos/western-spring.webp",
+    "island": "North",
+    "region": "Auckland",
+    "city": "Auckland",
+    "coords": [
+      -36.86438,
+      174.72649
+    ],
+    "classes": [
+      "Quarter Midgets",
+      "TQ Midgets",
+      "Midgets",
+      "F2 Midgets",
+      "Sprintcars"
+    ],
+    "website": "https://saveourspeedway.co.nz/",
+    "facebook": "https://www.facebook.com/soswesternsprings",
+    "openingMonths": "Oct–Apr",
+    "description": "Auckland Stock & Saloon Car Club based in Auckland. Runs Sprintcars, Midgets, TQ, F2. Season Oct–Apr.",
+    "facilities": []
+  },
+  {
+    "id": 2,
+    "slug": "huntly-speedway",
+    "name": "Huntly International Speedway",
+    "logo": "/photos/huntly-speedway-logo.webp",
+    "photo": "/photos/Huntly International Speedway.webp",
+    "island": "North",
+    "region": "Waikato",
+    "city": "Huntly",
+    "coords": [
+      -37.5583996,
+      175.1588322
+    ],
+    "classes": [
+      "Superstocks",
+      "Stockcars",
+      "Modifieds",
+      "Youth Ministocks",
+      "Production Saloons",
+      "Saloons",
+      "Golden Oldies",
+      "Midgets"
+    ],
+    "website": "https://huntlyspeedway.co.nz/",
+    "facebook": "https://www.facebook.com/huntlyspeedway",
+    "openingMonths": "Oct–Apr",
+    "description": "Waikato Stock & Saloon Car Club based in Huntly. Runs Stockcars, Superstocks, Saloons, Ministocks. Season Oct–Apr.",
+    "facilities": []
+  },
+  {
+    "id": 3,
+    "slug": "kihikihi-speedway",
+    "name": "Kihikihi Speedway",
+    "logo": "/photos/kihikihi-speedway-logo.webp",
+    "photo": "/photos/kihikihi-speedway-photo.webp",
+    "island": "North",
+    "region": "Waikato",
+    "city": "Kihikihi",
+    "coords": [
+      -38.03805,
+      175.35749
+    ],
+    "classes": [
+      "Saloons",
+      "Super Saloons",
+      "Superstocks",
+      "Stockcars",
+      "Youth Ministocks",
+      "Midgets",
+      "TQ Midgets",
+      "Sprintcars",
+      "Sidecars"
+    ],
+    "website": "https://www.kihikihispeedway.co.nz/",
+    "facebook": "https://www.facebook.com/kihikihispeedway",
+    "openingMonths": "Oct–Apr",
+    "description": "Kihikihi Speedway Club based in Kihikihi. Runs Stockcars, Saloons, Ministocks, SuperStocks. Season Oct–Apr.",
+    "facilities": []
+  },
+  {
+    "id": 4,
+    "slug": "palmerston-north-speedway",
+    "name": "Robertson Holden International Speedway",
+    "logo": "/photos/RPIS-logo.webp",
+    "photo": "/photos/rpis-track.webp",
+    "island": "North",
+    "region": "Manawatū-Whanganui",
+    "city": "Palmerston North",
+    "coords": [
+      -40.356317,
+      175.6112388
+    ],
+    "classes": [
+      "Superstocks",
+      "Stockcars",
+      "Super Saloons",
+      "Saloons",
+      "Streetstocks",
+      "Minisprints",
+      "Midgets",
+      "Sprintcars",
+      "Sidecars",
+      "Youth Ministocks",
+      "Historic Stockcars"
+    ],
+    "website": "https://www.pnspeedway.co.nz/",
+    "facebook": "https://www.facebook.com/pnspeedway",
+    "openingMonths": "Oct–Apr",
+    "description": "Palmerston North Speedway based in Palmerston North. Runs Superstocks, Stockcars, Sidecars, Saloons. Season Oct–Apr.",
+    "facilities": []
+  },
+  {
+    "id": 5,
+    "slug": "oceanview-speedway",
+    "name": "Oceanview Speedway",
+    "logo": "/photos/oceanview-family-speedway-logo.webp",
+    "photo": "/photos/oceanview-family-speedway-tack.webp",
+    "island": "North",
+    "region": "Manawatū-Whanganui",
+    "city": "Whanganui",
+    "coords": [
+      -39.95741,
+      175.02278
+    ],
+    "classes": [
+      "Superstocks",
+      "Stockcars",
+      "Adult Ministocks",
+      "Youth Ministocks",
+      "Sidecars",
+      "Production Saloons",
+      "Minisprints",
+      "Midgets"
+    ],
+    "website": "https://www.sporty.co.nz/snzwanganui",
+    "facebook": "https://www.facebook.com/oceanviewspeedway",
+    "openingMonths": "Oct–Apr",
+    "description": "Wanganui Stockcar & Speedway Club based in Whanganui. Runs Stockcars, Superstocks, Production Saloons. Season Oct–Apr.",
+    "facilities": []
+  },
+  {
+    "id": 6,
+    "slug": "stratford-speedway",
+    "name": "Stratford Speedway",
+    "logo": "/photos/stratford-logo.webp",
+    "photo": "/photos/stratford-speedway-track.webp",
+    "island": "North",
+    "region": "Taranaki",
+    "city": "Stratford",
+    "coords": [
+      -39.32205,
+      174.27952
+    ],
+    "classes": [
+      "Stockcars",
+      "Superstocks",
+      "Streetstocks",
+      "Modifieds",
+      "Saloons",
+      "Super Saloons",
+      "Minisprints",
+      "Youth Ministocks",
+      "Adult Ministocks"
+    ],
+    "website": "https://stratford-speedway.co.nz/",
+    "facebook": "https://www.facebook.com/profile.php?id=100064023930896",
+    "openingMonths": "Oct–Apr",
+    "description": "Stratford Speedway Association based in Stratford. Runs Stockcars, Saloons, Midgets, Sprintcars. Season Oct–Apr.",
+    "facilities": []
+  },
+  {
+    "id": 7,
+    "slug": "meeanee-speedway",
+    "name": "Meeanee Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/meeanee-speedway.png",
+    "island": "North",
+    "region": "Hawke’s Bay",
+    "city": "Napier",
+    "coords": [
+      -39.54941,
+      176.88463
+    ],
+    "classes": [
+      "Youth Ministocks",
+      "Streetstocks",
+      "Stockcars",
+      "Superstocks",
+      "Production Saloons",
+      "Saloons",
+      "Super Saloons",
+      "TQ Midgets",
+      "Sidecars"
+    ],
+    "facebook": "https://www.facebook.com/meeaneespeedway",
+    "openingMonths": "Oct–Apr",
+    "description": "Hawke’s Bay Speedway Club based in Napier. Runs Stockcars, Saloons, Sprintcars, Ministocks. Season Oct–Apr.",
+    "facilities": []
+  },
+  {
+    "id": 8,
+    "slug": "baypark-speedway",
+    "name": "Baypark Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/baypark-speedway.png",
+    "island": "North",
+    "region": "Bay of Plenty",
+    "city": "Tauranga",
+    "coords": [
+      -37.6859006,
+      176.167505
+    ],
+    "classes": [
+      "Sprintcars",
+      "Super Saloons",
+      "Midgets",
+      "Superstocks",
+      "Stockcars",
+      "F2 Midgets",
+      "Youth Ministocks"
+    ],
+    "facebook": "https://www.facebook.com/bayparkspeedway",
+    "openingMonths": "Oct–Apr",
+    "description": "Baypark Speedway based in Tauranga. Runs Sprintcars, Saloons, Super Saloons. Season Oct–Apr.",
+    "facilities": []
+  },
+  {
+    "id": 9,
+    "slug": "woodford-glen-speedway",
+    "name": "Woodford Glen Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/woodford-glen-speedway.png",
+    "island": "South",
+    "region": "Canterbury",
+    "city": "Christchurch",
+    "coords": [
+      -43.3988506,
+      172.6618588
+    ],
+    "classes": [
+      "Adult Ministocks",
+      "Stockcars",
+      "Superstocks",
+      "Streetstocks",
+      "Production Saloons",
+      "Saloons",
+      "Super Saloons",
+      "Modifieds"
+    ],
+    "facebook": "https://www.facebook.com/woodfordglen",
+    "openingMonths": "Oct–Apr",
+    "description": "Woodford Glen Association based in Christchurch. Runs Super Saloons, Stockcars, Modifieds. Season Oct–Apr.",
+    "facilities": []
+  },
+  {
+    "id": 10,
+    "slug": "ruapuna-speedway",
+    "name": "Ruapuna Speedway (Canterbury)",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/ruapuna-speedway.png",
+    "island": "South",
+    "region": "Canterbury",
+    "city": "Christchurch",
+    "coords": [
+      -43.5504418,
+      172.4770079
+    ],
+    "classes": [
+      "Sprintcars",
+      "Midgets",
+      "TQ Midgets",
+      "Modified Sprints",
+      "Six Shooters"
+    ],
+    "facebook": "https://www.facebook.com/ruapunaspeedway",
+    "openingMonths": "Oct–Apr",
+    "description": "Canterbury Speedway Association based in Christchurch. Runs Sprintcars, Midgets, TQ. Season Oct–Apr.",
+    "facilities": []
+  },
+  {
+    "id": 11,
+    "slug": "riverside-speedway",
+    "name": "Riverside Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/riverside-speedway.png",
+    "island": "South",
+    "region": "Southland",
+    "city": "Invercargill",
+    "coords": [
+      -46.4118465,
+      168.3470632
+    ],
+    "classes": [
+      "Stockcars",
+      "Streetstocks",
+      "Super Saloons",
+      "Saloons",
+      "Sprintcars",
+      "Production Saloons",
+      "Lightning Sprints",
+      "Youth Saloons",
+      "Six Shooters"
+    ],
+    "facebook": "https://www.facebook.com/riversidespeedway",
+    "openingMonths": "Oct–Apr",
+    "description": "Southland Sports Car Club based in Invercargill. Runs Stockcars, Saloons, Production Saloons. Season Oct–Apr.",
+    "facilities": []
+  },
+  {
+    "id": 12,
+    "slug": "greenstone-park-speedway",
+    "name": "Greenstone Park Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/greenstone-park-speedway.png",
+    "island": "South",
+    "region": "West Coast",
+    "city": "Greymouth",
+    "coords": [
+      -42.4401,
+      171.19583
+    ],
+    "classes": [
+      "Stockcars",
+      "Streetstocks",
+      "Youth Ministocks",
+      "Adult Ministocks",
+      "Production Saloons",
+      "Modifieds",
+      "TQ Midgets"
+    ],
+    "facebook": "https://www.facebook.com/greenstoneparkspeedway",
+    "openingMonths": "Oct–Apr",
+    "description": "Greymouth Stockcar Club based in Greymouth. Runs Stockcars, Streetstocks, Saloons. Season Oct–Apr.",
+    "facilities": []
+  },
+  {
+    "id": 13,
+    "slug": "waikaraka-park-speedway",
+    "name": "Waikaraka Park Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/baypark-speedway.png",
+    "island": "North",
+    "region": "Auckland",
+    "city": "Onehunga",
+    "coords": [
+      -36.93,
+      174.79
+    ],
+    "classes": [
+      "Youth Ministocks",
+      "Stockcars",
+      "Superstocks",
+      "Streetstocks",
+      "Saloons",
+      "Super Saloons",
+      "Modifieds",
+      "Six Shooters"
+    ],
+    "website": "https://waikarakafamilyspeedway.co.nz",
+    "facebook": "https://www.facebook.com/waikarakaparkfamilyspeedway/",
+    "openingMonths": "",
+    "description": "Waikaraka Park family speedway in Onehunga, Auckland.",
+    "facilities": []
+  },
+  {
+    "id": 14,
+    "slug": "wellington-family-speedway",
+    "name": "Wellington Family Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/western-spring.webp",
+    "island": "North",
+    "region": "Wellington",
+    "city": "Upper Hutt",
+    "coords": [
+      -41.122,
+      175.06
+    ],
+    "classes": [
+      "Superstocks",
+      "Stockcars",
+      "Super Saloons",
+      "Modifieds",
+      "Saloons",
+      "Streetstocks",
+      "Production Saloons",
+      "Youth Ministocks",
+      "TQ Midgets"
+    ],
+    "website": "https://wellingtonspeedway.co.nz",
+    "facebook": "https://www.facebook.com/wellingtonfamilyfpeedwa23a/",
+    "openingMonths": "",
+    "description": "Wellington Family Speedway at Te Marua, Upper Hutt.",
+    "facilities": []
+  },
+  {
+    "id": 15,
+    "slug": "awapuni-speedway",
+    "name": "Awapuni Speedway (Gisborne Speedway)",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/meeanee-speedway.png",
+    "island": "North",
+    "region": "Gisborne",
+    "city": "Gisborne",
+    "coords": [
+      -38.661,
+      178.018
+    ],
+    "classes": [
+      "Youth Ministocks",
+      "Stockcars",
+      "Superstocks",
+      "Streetstocks",
+      "Saloons",
+      "Production Saloons",
+      "Sidecars",
+      "Six Shooters"
+    ],
+    "website": "https://gisbornespeedway.co.nz",
+    "facebook": "https://www.facebook.com/awapuni.speedway/",
+    "openingMonths": "",
+    "description": "Awapuni Speedway in Gisborne.",
+    "facilities": []
+  },
+  {
+    "id": 16,
+    "slug": "ferndene-park-speedway",
+    "name": "Ferndene Park Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/greenstone-park-speedway.png",
+    "island": "North",
+    "region": "Taranaki",
+    "city": "Egmont Village",
+    "coords": [
+      -39.2205,
+      174.2005
+    ],
+    "classes": [
+      "Adult Ministocks",
+      "Youth Ministocks",
+      "C-Grade Stockcars",
+      "Production Saloons",
+      "Saloons",
+      "Stockcars",
+      "Streetstocks",
+      "Historic Stockcars"
+    ],
+    "facebook": "https://www.facebook.com/p/Ferndene-Speedway-Taranaki-Speedway-Association-Inc-100057660841050/",
+    "openingMonths": "",
+    "description": "Historic Ferndene Park Speedway in Egmont Village, Taranaki.",
+    "facilities": []
+  },
+  {
+    "id": 17,
+    "slug": "paradise-valley-speedway",
+    "name": "Paradise Valley Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/meeanee-speedway.png",
+    "island": "North",
+    "region": "Bay of Plenty",
+    "city": "Rotorua",
+    "coords": [
+      -38.159,
+      176.222
+    ],
+    "classes": [
+      "Youth Ministocks",
+      "Streetstocks",
+      "Stockcars",
+      "Superstocks",
+      "TQ Midgets",
+      "Production Saloons",
+      "Saloons"
+    ],
+    "website": "https://rotoruaspeedway.co.nz",
+    "facebook": "https://www.facebook.com/RotoruaStockcar",
+    "openingMonths": "",
+    "description": "Paradise Valley Speedway, Rotorua Stockcar Club.",
+    "facilities": []
+  },
+  {
+    "id": 18,
+    "slug": "rosebank-speedway",
+    "name": "Rosebank Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/western-spring.webp",
+    "island": "North",
+    "region": "Auckland",
+    "city": "Avondale",
+    "coords": [
+      -36.882,
+      174.676
+    ],
+    "classes": [
+      "Solo Bikes",
+      "Sidecars",
+      "Quarter Midgets",
+      "Junior Solos"
+    ],
+    "website": "https://rosebankspeedway.kiwi.nz",
+    "openingMonths": "",
+    "description": "Rosebank Motorcycle Speedway in Avondale, Auckland.",
+    "facilities": []
+  },
+  {
+    "id": 19,
+    "slug": "auckland-vintage-speedway",
+    "name": "Auckland Vintage Speedway Club",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/western-spring.webp",
+    "island": "North",
+    "region": "Auckland",
+    "city": "Auckland",
+    "coords": [
+      -36.85,
+      174.76
+    ],
+    "classes": [
+      "Vintage Midgets",
+      "Vintage Sprintcars",
+      "Vintage TQ Midgets",
+      "Vintage Stockcars",
+      "Vintage Solo Bikes",
+      "Vintage Sidecars"
+    ],
+    "website": "https://www.themotorsportnetwork.com/circuits/auckland-vintage-speedway",
+    "facebook": "https://www.facebook.com/p/Auckland-Vintage-Speedway-Club-100057768065339/",
+    "openingMonths": "",
+    "description": "Auckland Vintage Speedway Club events in Auckland.",
+    "facilities": []
+  },
+  {
+    "id": 20,
+    "slug": "eastern-states-speedway",
+    "name": "Eastern States Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/woodford-glen-speedway.png",
+    "island": "South",
+    "region": "Marlborough",
+    "city": "Renwick",
+    "coords": [
+      -41.499,
+      173.829
+    ],
+    "classes": [
+      "Youth Ministocks",
+      "Stockcars",
+      "Superstocks",
+      "Production Saloons",
+      "Saloons",
+      "Super Saloons",
+      "Streetstocks",
+      "Sidecars",
+      "Modifieds"
+    ],
+    "website": "https://easternstatesspeedway.net.nz",
+    "facebook": "https://www.facebook.com/EasternStatesSpeedway",
+    "openingMonths": "",
+    "description": "Eastern States Speedway in Renwick/Blenheim.",
+    "facilities": []
+  },
+  {
+    "id": 21,
+    "slug": "central-motor-speedway",
+    "name": "Central Motor Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/riverside-speedway.png",
+    "island": "South",
+    "region": "Otago",
+    "city": "Cromwell",
+    "coords": [
+      -45.048,
+      169.203
+    ],
+    "classes": [
+      "Youth Ministocks",
+      "Streetstocks",
+      "Production Saloons",
+      "Saloons",
+      "Super Saloons",
+      "Sprintcars",
+      "Sidecars"
+    ],
+    "website": "https://centralmotorspeedway.co.nz",
+    "facebook": "https://www.facebook.com/centralmotorspeedway",
+    "openingMonths": "",
+    "description": "Central Motor Speedway in Cromwell, Central Otago.",
+    "facilities": []
+  },
+  {
+    "id": 22,
+    "slug": "top-of-the-south-speedway",
+    "name": "Top of the South Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/woodford-glen-speedway.png",
+    "island": "South",
+    "region": "Tasman",
+    "city": "Richmond",
+    "coords": [
+      -41.334,
+      173.184
+    ],
+    "classes": [
+      "Youth Ministocks",
+      "Stockcars",
+      "Superstocks",
+      "TQ Midgets",
+      "Midgets",
+      "Super Saloons",
+      "Production Saloons",
+      "Streetstocks",
+      "Sidecars"
+    ],
+    "website": "https://nelsonspeedway.co.nz",
+    "facebook": "https://www.facebook.com/NelsonSpeedway",
+    "openingMonths": "",
+    "description": "Milestone Homes Top of the South Speedway in Richmond, Nelson.",
+    "facilities": []
+  },
+  {
+    "id": 23,
+    "slug": "ashburton-speedway",
+    "name": "Ashburton Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/riverside-speedway.png",
+    "island": "South",
+    "region": "Canterbury",
+    "city": "Ashburton",
+    "coords": [
+      -43.908,
+      171.748
+    ],
+    "classes": [
+      "Adult Ministocks",
+      "Youth Ministocks",
+      "C-Grade Stockcars",
+      "Production Saloons",
+      "Saloons",
+      "Stockcars",
+      "Streetstocks"
+    ],
+    "website": "https://www.ctraspeedway.co.nz/tracks-clubs/ashburton-speedway",
+    "facebook": "https://www.facebook.com/groups/ashburtonspeedway/",
+    "openingMonths": "",
+    "description": "Ashburton Speedway (CTRA) at Ashburton Airport.",
+    "facilities": []
+  },
+  {
+    "id": 24,
+    "slug": "beachlands-speedway",
+    "name": "Beachlands Speedway",
+    "logo": "/logos/default.svg",
+    "photo": "/photos/riverside-speedway.png",
+    "island": "South",
+    "region": "Otago",
+    "city": "Dunedin",
+    "coords": [
+      -45.874,
+      170.503
+    ],
+    "classes": [
+      "Streetstocks",
+      "Stockcars",
+      "Superstocks",
+      "Production Saloons",
+      "Saloons",
+      "Super Saloons",
+      "Youth Ministocks"
+    ],
+    "website": "https://www.beachlandsspeedway.co.nz",
+    "facebook": "https://www.facebook.com/BeachlandsSpeedway",
+    "openingMonths": "Oct–Apr",
+    "description": "Beachlands Speedway in Dunedin.",
+    "facilities": []
+  }
+]

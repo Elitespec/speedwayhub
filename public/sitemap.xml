@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://speedwayhub.nz/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://speedwayhub.nz/events</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://speedwayhub.nz/news</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://speedwayhub.nz/live-timing</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://speedwayhub.nz/drivers</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://speedwayhub.nz/classes</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Track: Western Springs Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/western-springs</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Huntly Placemakers Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/huntly-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: McDonald's Kihikihi Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/kihikihi-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Robertson Prestige International Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/palmerston-north-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Oceanview Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/oceanview-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Stratford Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/stratford-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Meeanee Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/meeanee-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Baypark Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/baypark-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Woodford Glen Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/woodford-glen-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Ruapuna Speedway (Canterbury) -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/ruapuna-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Riverside Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/riverside-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Greenstone Park Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/greenstone-park-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Lucas Oil Waikaraka Family Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/waikaraka-park-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Max Motors Family Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/wellington-family-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Eastland Group Raceway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/awapuni-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Ferndene Park Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/ferndene-park-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: TWS Paradise Valley Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/paradise-valley-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Lucas Oil Auckland Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/rosebank-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Auckland Vintage Speedway Club -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/auckland-vintage-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Eastern States Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/eastern-states-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Central Motor Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/central-motor-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Tahuna Beach Holiday Park Top of the South Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/top-of-the-south-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Ashburton Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/ashburton-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Beachlands Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/beachlands-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Oreti Park Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/oreti-park-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Moore Park Motorcycle Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/moore-park-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Track: Sunset Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/tracks/sunset-speedway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Event: Shearings Earthmoving Hydraulink War of the Wings -->
+  <url>
+    <loc>https://speedwayhub.nz/events/war-of-the-wings-ruapuna-speedway-2025-12-13</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Opening Night & Fireworks -->
+  <url>
+    <loc>https://speedwayhub.nz/events/opening-night-lucas-oil-auckland-speedway-2025-12-13</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Machinery Specialists Stockcar Teams Invasion -->
+  <url>
+    <loc>https://speedwayhub.nz/events/stockcar-teams-invasion-palmerston-north-speedway-2025-12-13</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Remembrance Champs -->
+  <url>
+    <loc>https://speedwayhub.nz/events/remembrance-champs-eastern-states-speedway-2025-12-13</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: South Island Teams Night -->
+  <url>
+    <loc>https://speedwayhub.nz/events/south-island-teams-night-woodford-glen-speedway-2025-12-13</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Hill Country Fencing Best Pairs Night & Stockcar Turf Wars -->
+  <url>
+    <loc>https://speedwayhub.nz/events/best-pairs-night-huntly-speedway-2025-12-13</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Taranaki Modified Champs -->
+  <url>
+    <loc>https://speedwayhub.nz/events/taranaki-modified-champs-stratford-speedway-2025-12-13</loc>
+    <lastmod>2025-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Hydro Vision NZ Auckland Solo and Junior Champs -->
+  <url>
+    <loc>https://speedwayhub.nz/events/auckland-solo-junior-champs-rosebank-speedway-2025-12-14</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Caravan & Boat Demolition Derby -->
+  <url>
+    <loc>https://speedwayhub.nz/events/caravan-boat-demolition-derby-palmerston-north-speedway-2025-12-27</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: North Island Saloon Champs -->
+  <url>
+    <loc>https://speedwayhub.nz/events/north-island-saloon-champs-palmerston-north-speedway-2026-01-03</loc>
+    <lastmod>2026-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand Streetstock Champs -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-streetstock-champs-nelson-speedway-2026-01-10</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand Superstock Grand Prix -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-superstock-gp-stratford-speedway-2026-01-10</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: FH Group New Zealand Superstock Championship - Qualifying -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-superstock-champs-qualifying-wellington-speedway-2026-01-16</loc>
+    <lastmod>2026-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: FH Group New Zealand Superstock Championship - Finals -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-superstock-champs-finals-wellington-speedway-2026-01-17</loc>
+    <lastmod>2026-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand Midget Championship -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-midget-champs-baypark-speedway-2026-01-17</loc>
+    <lastmod>2026-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand Saloon Grand Prix -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-saloon-gp-waikaraka-speedway-2026-01-17</loc>
+    <lastmod>2026-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: North Island Minisprint Champs -->
+  <url>
+    <loc>https://speedwayhub.nz/events/north-island-minisprint-champs-palmerston-north-speedway-2026-01-24</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand TQ Midget Championship -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-tq-midget-champs-waikaraka-speedway-2026-01-24</loc>
+    <lastmod>2026-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand Streetstock GP -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-streetstock-gp-eastern-states-speedway-2026-01-16</loc>
+    <lastmod>2026-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand Sidecar Champs -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-sidecar-champs-kihikihi-speedway-2026-01-31</loc>
+    <lastmod>2026-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Bike the Track + Black Sheep Construction Wellington Ministock Champs + Dykstra Modified Challenge + Tri-Series Teams -->
+  <url>
+    <loc>https://speedwayhub.nz/events/wellington-ministock-champs-wellington-speedway-2026-01-31</loc>
+    <lastmod>2026-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Stockcar Open Champs + Streetstocks Bragging Rights -->
+  <url>
+    <loc>https://speedwayhub.nz/events/stockcar-open-champs-eastern-states-speedway-2026-01-31</loc>
+    <lastmod>2026-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: ENZED/Dewtec Superstock Teams Champs - Qualifying -->
+  <url>
+    <loc>https://speedwayhub.nz/events/superstock-teams-champs-palmerston-north-speedway-2026-02-07</loc>
+    <lastmod>2026-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: ENZED/Dewtec Superstock Teams Champs - Finals -->
+  <url>
+    <loc>https://speedwayhub.nz/events/superstock-teams-champs-finals-palmerston-north-speedway-2026-02-08</loc>
+    <lastmod>2026-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: War of the Wings -->
+  <url>
+    <loc>https://speedwayhub.nz/events/war-of-the-wings-eastern-states-speedway-2026-02-13</loc>
+    <lastmod>2026-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Black Sheep Construction North Island Super Saloons + Skylight Specialists Wellington TQ Champs -->
+  <url>
+    <loc>https://speedwayhub.nz/events/ni-super-saloons-wellington-tq-champs-wellington-speedway-2026-02-14</loc>
+    <lastmod>2026-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Superstock 248 Global Challenge + NZ Midget Grand Prix -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-midget-grand-prix-palmerston-north-speedway-2026-02-21</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand Stockcar GP -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-stockcar-gp-eastern-states-speedway-2026-02-27</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Kiwi Car Removals Demolition Derby + Ministock Capital City Cup + AVKiwi Wellington Production Saloon Champs -->
+  <url>
+    <loc>https://speedwayhub.nz/events/demolition-derby-ministock-cup-wellington-speedway-2026-02-28</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Capital Pools & Spas Wellington Stockcar Champs + A&K Plumbing Production Saloon Autumn Champs -->
+  <url>
+    <loc>https://speedwayhub.nz/events/wellington-stockcar-champs-wellington-speedway-2026-03-14</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Bill Moffat Memorial & Racetech Tony Durney Stockcar Teams -->
+  <url>
+    <loc>https://speedwayhub.nz/events/bill-moffat-memorial-wellington-speedway-2026-03-28</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: FDM Construction Wellington Saloon Champs + Custom Paintworks Stockcar Eliminator + Flat Track Bikes -->
+  <url>
+    <loc>https://speedwayhub.nz/events/wellington-saloon-champs-wellington-speedway-2026-04-11</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Wellington Speedway Season Grand Finale -->
+  <url>
+    <loc>https://speedwayhub.nz/events/wellington-season-finale-wellington-speedway-2026-04-18</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Superstocks Champs -->
+  <url>
+    <loc>https://speedwayhub.nz/events/superstocks-champs-palmerston-north-speedway-2025-12-06</loc>
+    <lastmod>2025-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Sprintcar Shootout -->
+  <url>
+    <loc>https://speedwayhub.nz/events/sprintcar-shootout-western-springs-2025-11-15</loc>
+    <lastmod>2025-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Season Opener -->
+  <url>
+    <loc>https://speedwayhub.nz/events/season-opener-huntly-speedway-2025-10-25</loc>
+    <lastmod>2025-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Super Stock Rumble -->
+  <url>
+    <loc>https://speedwayhub.nz/events/super-stock-rumble-baypark-speedway-2025-03-30</loc>
+    <lastmod>2025-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: 2J Engineering Stockcar Teams Invitation -->
+  <url>
+    <loc>https://speedwayhub.nz/events/2j-engineering-stockcar-teams-invitation-huntly-2026-01-17</loc>
+    <lastmod>2026-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Central Metals Open Wheel Night & TWS Saloon Masters -->
+  <url>
+    <loc>https://speedwayhub.nz/events/central-metals-open-wheel-night-huntly-2026-01-31</loc>
+    <lastmod>2026-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Porter Group Show Down & Hazelton Stock Car Memorial -->
+  <url>
+    <loc>https://speedwayhub.nz/events/porter-group-show-down-huntly-2026-02-14</loc>
+    <lastmod>2026-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Waikato Superstocks Championship, Dirtona 4 & Waikato Ministock Championship -->
+  <url>
+    <loc>https://speedwayhub.nz/events/waikato-superstocks-championship-huntly-2026-02-28</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Addis Containers North Island Modified Championship -->
+  <url>
+    <loc>https://speedwayhub.nz/events/ni-modified-championship-huntly-2026-03-07</loc>
+    <lastmod>2026-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Future of Speedway -->
+  <url>
+    <loc>https://speedwayhub.nz/events/future-of-speedway-huntly-2026-03-14</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Open Wheel Spectacular Part 2 & Waikato TQ Midget Championship -->
+  <url>
+    <loc>https://speedwayhub.nz/events/open-wheel-spectacular-2-huntly-2026-03-28</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Stockcar Carby Cup -->
+  <url>
+    <loc>https://speedwayhub.nz/events/stockcar-carby-cup-huntly-2026-04-11</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Huntly Quarries Double Points Finale & Demo Derby -->
+  <url>
+    <loc>https://speedwayhub.nz/events/double-points-finale-huntly-2026-04-18</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand Sprintcar Championship -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-sprintcar-champs-central-motor-2026-01-10</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand Stockcar Championship -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-stockcar-champs-woodford-glen-2026-02-22</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand Super Saloon Championship -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-super-saloon-champs-meeanee-2026-03-01</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: ENZED NZ Superstock Teams Championship -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-superstock-teams-champs-rpis-2026-02-07</loc>
+    <lastmod>2026-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand Stockcar Teams Championship -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-stockcar-teams-champs-rotorua-2026-03-08</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand Solo Championship -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-solo-champs-oreti-park-2026-02-23</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand Saloon Championship -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-saloon-champs-stratford-2026-02-21</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: New Zealand Super Saloon Grand Prix -->
+  <url>
+    <loc>https://speedwayhub.nz/events/nz-super-saloon-gp-rpis-2026-03-07</loc>
+    <lastmod>2026-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Bay Showdown - BOP Championships -->
+  <url>
+    <loc>https://speedwayhub.nz/events/bay-showdown-baypark-2026-03-14</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Bay Rumble -->
+  <url>
+    <loc>https://speedwayhub.nz/events/bay-rumble-baypark-2026-03-21</loc>
+    <lastmod>2026-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Demo Der-Bay - Season Finale -->
+  <url>
+    <loc>https://speedwayhub.nz/events/demo-der-bay-baypark-2026-04-04</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: NI Minisprint Champs + Saloon King of Arena -->
+  <url>
+    <loc>https://speedwayhub.nz/events/ni-minisprint-champs-rpis-2026-03-14</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Peter Barry Memorial Derby Teams -->
+  <url>
+    <loc>https://speedwayhub.nz/events/peter-barry-memorial-rpis-2026-03-21</loc>
+    <lastmod>2026-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: Stockcar King of the Arena + Season Finale -->
+  <url>
+    <loc>https://speedwayhub.nz/events/rpis-season-finale-2026-04-04</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: RPIS Grand Finale -->
+  <url>
+    <loc>https://speedwayhub.nz/events/rpis-grand-finale-2026-04-11</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: North Island Sprintcar Championship -->
+  <url>
+    <loc>https://speedwayhub.nz/events/ni-sprintcar-champs-waikaraka-2026-03-07</loc>
+    <lastmod>2026-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Event: King of the Park Grand Final -->
+  <url>
+    <loc>https://speedwayhub.nz/events/king-of-the-park-waikaraka-2026-05-02</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Driver: Peter Rees -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/peter-rees</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Michael Pickens -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/michael-pickens</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Jayden Ward -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/jayden-ward</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Ethan Rees -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/ethan-rees</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Brad Lane -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/brad-lane</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Scott Tennant -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/scott-tennant</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Todd Hemingway -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/todd-hemingway</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Sam Hughes -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/sam-hughes</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Ben Morrison -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/ben-morrison</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Alec Insley -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/alec-insley</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Daniel Thomas -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/daniel-thomas</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Chris Cowling -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/chris-cowling</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Mitch Fabish -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/mitch-fabish</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Brad Mosen -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/brad-mosen</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Josh Buchanan -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/josh-buchanan</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Steve Scoles -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/steve-scoles</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Shanarrah Stronach -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/shanarrah-stronach</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Luke Fallow -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/luke-fallow</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Jacob Boulton -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/jacob-boulton</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Luke Molloy -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/luke-molloy</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Ben Jenkins -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/ben-jenkins</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Ryan Musgrove -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/ryan-musgrove</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Daniel Burmeister -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/daniel-burmeister</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Grant Flynn -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/grant-flynn</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Ashleigh King -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/ashleigh-king</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Glen McCutcheon -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/glen-mccutcheon</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Boston Joblin -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/boston-joblin</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Adam Evans -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/adam-evans</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Mason Whelan -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/mason-whelan</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Brian Ellison -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/brian-ellison</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Olly Stephen -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/olly-stephen</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Lucee Scott -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/lucee-scott</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Ryder Harris -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/ryder-harris</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Buddy Kofoid -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/buddy-kofoid</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Frankie Wainman Jr -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/frankie-wainman-jr</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Bradley Korff -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/bradley-korff</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Jareb Verdoner -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/jareb-verdoner</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Asher Rees -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/asher-rees</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Jamie Larsen -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/jamie-larsen</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Brad Uhlenberg -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/brad-uhlenberg</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Aaron Hodgson -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/aaron-hodgson</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Caleb Ireland -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/caleb-ireland</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Sam Wright -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/sam-wright</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Casey McEwan -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/casey-mcewan</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Harley Robb -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/harley-robb</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Riley Eathorne -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/riley-eathorne</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Driver: Hayden Brookland -->
+  <url>
+    <loc>https://speedwayhub.nz/drivers/hayden-brookland</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- News: crushers-stockcar-teams -->
+  <url>
+    <loc>https://speedwayhub.nz/news/crushers-stockcar-teams</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: cowling-third-super-saloon-crown -->
+  <url>
+    <loc>https://speedwayhub.nz/news/cowling-third-super-saloon-crown</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: caleb-ireland-back-to-back -->
+  <url>
+    <loc>https://speedwayhub.nz/news/caleb-ireland-back-to-back</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: gisborne-giants-teams -->
+  <url>
+    <loc>https://speedwayhub.nz/news/gisborne-giants-teams</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: hodgson-nz-midget-champs -->
+  <url>
+    <loc>https://speedwayhub.nz/news/hodgson-nz-midget-champs</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: ethan-rees-world-240s -->
+  <url>
+    <loc>https://speedwayhub.nz/news/ethan-rees-world-240s</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: brad-lane-modifier-champs -->
+  <url>
+    <loc>https://speedwayhub.nz/news/brad-lane-modifier-champs</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: glen-eagles-hat-trick -->
+  <url>
+    <loc>https://speedwayhub.nz/news/glen-eagles-hat-trick</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: waikaraka-park-reopening -->
+  <url>
+    <loc>https://speedwayhub.nz/news/waikaraka-park-reopening</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: ben-jenkins-tri-series -->
+  <url>
+    <loc>https://speedwayhub.nz/news/ben-jenkins-tri-series</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: daniel-thomas-nz-sprintcar -->
+  <url>
+    <loc>https://speedwayhub.nz/news/daniel-thomas-nz-sprintcar</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: 2025-2026-season-results -->
+  <url>
+    <loc>https://speedwayhub.nz/news/2025-2026-season-results</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: nz-speedway-intro -->
+  <url>
+    <loc>https://speedwayhub.nz/news/nz-speedway-intro</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: full-contact-combat -->
+  <url>
+    <loc>https://speedwayhub.nz/news/full-contact-combat</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: multi-million-dollar-investment -->
+  <url>
+    <loc>https://speedwayhub.nz/news/multi-million-dollar-investment</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: drivers-age-5-to-75 -->
+  <url>
+    <loc>https://speedwayhub.nz/news/drivers-age-5-to-75</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: dirt-track-gone-digital -->
+  <url>
+    <loc>https://speedwayhub.nz/news/dirt-track-gone-digital</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- News: speedwayhub-launch-preview -->
+  <url>
+    <loc>https://speedwayhub.nz/news/speedwayhub-launch-preview</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>

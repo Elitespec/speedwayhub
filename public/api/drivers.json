@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Peter Rees",
+    "number": "10G",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "palmerston-north-speedway",
+    "region": "Manawatū-Whanganui",
+    "team": "Rees Race Team",
+    "sponsors": [
+      "Rees Race Cars"
+    ],
+    "facebook": "https://www.facebook.com/pnspeedway/",
+    "car": "Superstock",
+    "championships": [
+      "TWS World 240s Runner-up (Jan 2026)",
+      "RPIS Superstocks Points Leader (40 pts)"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Michael Pickens",
+    "number": "54A",
+    "classes": [
+      "Midgets",
+      "Sprintcars"
+    ],
+    "homeTrack": "western-springs",
+    "region": "Auckland",
+    "sponsors": [
+      "CRC"
+    ],
+    "facebook": "https://www.facebook.com/westernspringsspeedway1929/",
+    "car": "Midget",
+    "championships": [
+      "Western Springs Midget Derby Winner (Boxing Night 2025)",
+      "Western Springs Sprintcar Feature Winner (Boxing Night 2025)",
+      "Baypark Bay Superstars Winner (2025)",
+      "Waikaraka Park New Year Feature Winner (2026)"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Jayden Ward",
+    "number": "971p",
+    "classes": [
+      "Stockcars"
+    ],
+    "homeTrack": "palmerston-north-speedway",
+    "region": "Manawatū-Whanganui",
+    "team": "Team Ward",
+    "sponsors": [
+      "Local partners"
+    ],
+    "facebook": "https://www.facebook.com/pnspeedway/",
+    "car": "Stockcar"
+  },
+  {
+    "id": 4,
+    "name": "Ethan Rees",
+    "number": "127G",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "rotorua-speedway",
+    "region": "Bay of Plenty",
+    "championships": [
+      "TWS World 240s Champion (Jan 2026)"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Brad Lane",
+    "number": "TBC",
+    "classes": [
+      "Modifieds"
+    ],
+    "homeTrack": "wellington-speedway",
+    "region": "Wellington",
+    "championships": [
+      "NZ Modified Champion 2025/26 (4th career title)"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Scott Tennant",
+    "number": "808C",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "kihikihi-speedway",
+    "region": "Waikato",
+    "championships": [
+      "North Island Superstock Champion (Dec 2025)"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Todd Hemingway",
+    "number": "1NZ",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "baypark-speedway",
+    "region": "Bay of Plenty",
+    "championships": [
+      "NZ Superstock National Champion",
+      "Baypark Feature Winner (Oct/Nov 2025)"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sam Hughes",
+    "number": "77G",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "TBC",
+    "region": "TBC",
+    "championships": [
+      "North Island Superstock Championship 3rd (Dec 2025)"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Ben Morrison",
+    "number": "97A",
+    "classes": [
+      "Midgets"
+    ],
+    "homeTrack": "baypark-speedway",
+    "region": "Bay of Plenty",
+    "championships": [
+      "Baypark Bay Superstars 2nd (2025)"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Alec Insley",
+    "number": "71A",
+    "classes": [
+      "Midgets"
+    ],
+    "homeTrack": "baypark-speedway",
+    "region": "Bay of Plenty",
+    "championships": [
+      "Baypark Bay Superstars 3rd (2025)"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Daniel Thomas",
+    "number": "2NZ",
+    "classes": [
+      "Sprintcars"
+    ],
+    "homeTrack": "baypark-speedway",
+    "region": "Bay of Plenty",
+    "championships": [
+      "Baypark Season Opener Winner (Oct 2025)",
+      "Baypark Feature Winner (Nov 8 2025)"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Chris Cowling",
+    "number": "1NZ",
+    "classes": [
+      "Super Saloons"
+    ],
+    "homeTrack": "baypark-speedway",
+    "region": "Bay of Plenty",
+    "car": "CB2 Chassis",
+    "championships": [
+      "Baypark Opening Night Clean Sweep (Oct 2025)"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Mitch Fabish",
+    "number": "95K",
+    "classes": [
+      "Midgets"
+    ],
+    "homeTrack": "robertson-prestige-international-speedway",
+    "region": "Manawatū-Whanganui",
+    "championships": [
+      "Baypark Season Opener Winner (Oct 2025)",
+      "RPIS Midgets Points Leader (43 pts)"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Brad Mosen",
+    "number": "10A",
+    "classes": [
+      "Midgets"
+    ],
+    "homeTrack": "baypark-speedway",
+    "region": "Bay of Plenty",
+    "championships": [
+      "Bill Buckley Midget Car Classic Winner (Nov 8 2025)"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Josh Buchanan",
+    "number": "TBC",
+    "classes": [
+      "Sprintcars"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 1st (Sprintcars)"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Steve Scoles",
+    "number": "TBC",
+    "classes": [
+      "Sprintcars"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 2nd (Sprintcars)"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Shanarrah Stronach",
+    "number": "TBC",
+    "classes": [
+      "Sprintcars"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 3rd (Sprintcars)"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Luke Fallow",
+    "number": "TBC",
+    "classes": [
+      "Stockcars"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 1st (Stockcars)"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Jacob Boulton",
+    "number": "TBC",
+    "classes": [
+      "Stockcars"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 2nd (Stockcars)"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Luke Molloy",
+    "number": "TBC",
+    "classes": [
+      "Stockcars"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 3rd (Stockcars)"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Ben Jenkins",
+    "number": "TBC",
+    "classes": [
+      "Streetstocks"
+    ],
+    "homeTrack": "TBC",
+    "region": "South Island",
+    "championships": [
+      "Streetstock Tri-Series Champion (198 pts)"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Ryan Musgrove",
+    "number": "TBC",
+    "classes": [
+      "Streetstocks"
+    ],
+    "homeTrack": "TBC",
+    "region": "South Island",
+    "championships": [
+      "Streetstock Tri-Series Runner-up (195 pts)"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Daniel Burmeister",
+    "number": "172P",
+    "classes": [
+      "Stockcars"
+    ],
+    "homeTrack": "robertson-prestige-international-speedway",
+    "region": "Manawatū-Whanganui",
+    "championships": [
+      "RPIS Stockcars Points Leader (77 pts)"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Grant Flynn",
+    "number": "6B",
+    "classes": [
+      "Super Saloons"
+    ],
+    "homeTrack": "robertson-prestige-international-speedway",
+    "region": "Bay of Plenty",
+    "championships": [
+      "RPIS Super Saloons Points Leader (51 pts)"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Ashleigh King",
+    "number": "242P",
+    "classes": [
+      "Saloons"
+    ],
+    "homeTrack": "robertson-prestige-international-speedway",
+    "region": "Manawatū-Whanganui",
+    "championships": [
+      "RPIS Saloons Points Leader (50 pts)"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Glen McCutcheon",
+    "number": "2NZP",
+    "classes": [
+      "Minisprints"
+    ],
+    "homeTrack": "robertson-prestige-international-speedway",
+    "region": "Manawatū-Whanganui",
+    "championships": [
+      "RPIS Minisprints Points Leader (65 pts)"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Boston Joblin",
+    "number": "52P",
+    "classes": [
+      "Youth Ministocks"
+    ],
+    "homeTrack": "robertson-prestige-international-speedway",
+    "region": "Manawatū-Whanganui",
+    "championships": [
+      "RPIS Youth Ministocks Points Leader (105 pts)"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Adam Evans",
+    "number": "TBC",
+    "classes": [
+      "Six Shooters"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 1st (Six Shooters)"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Mason Whelan",
+    "number": "TBC",
+    "classes": [
+      "Six Shooters"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 2nd (Six Shooters)"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Brian Ellison",
+    "number": "TBC",
+    "classes": [
+      "Six Shooters"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 3rd (Six Shooters)"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Olly Stephen",
+    "number": "TBC",
+    "classes": [
+      "Youth Ministocks"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 1st (Youth Ministocks)"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Lucee Scott",
+    "number": "TBC",
+    "classes": [
+      "Youth Ministocks"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 2nd (Youth Ministocks)"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Ryder Harris",
+    "number": "TBC",
+    "classes": [
+      "Youth Ministocks"
+    ],
+    "homeTrack": "central-motor-speedway",
+    "region": "Otago",
+    "championships": [
+      "Central Motor Speedway Winner Takes All 3rd (Youth Ministocks)"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Buddy Kofoid",
+    "number": "USA",
+    "classes": [
+      "Midgets"
+    ],
+    "homeTrack": "international",
+    "region": "International",
+    "championships": [
+      "Baypark Bay 51 Winner (2025)"
+    ],
+    "bio": "American midget racing star competing in the New Zealand Midget World Series"
+  },
+  {
+    "id": 35,
+    "name": "Frankie Wainman Jr",
+    "number": "515GB",
+    "classes": [
+      "Superstocks"
+    ],
+    "homeTrack": "international",
+    "region": "International",
+    "championships": [
+      "TWS World 240s 3rd Place (Jan 2026)"
+    ],
+    "bio": "International stock car racing legend from Great Britain"
+  }
+]

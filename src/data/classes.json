@@ -1,0 +1,348 @@
+[
+  {
+    "id": "sprintcars",
+    "name": "Sprintcars",
+    "slug": "sprintcars",
+    "description": "The fastest cars in New Zealand speedway racing. Open-wheel, winged race cars with 410ci V8 engines producing 900+ horsepower. Can reach speeds of 150km/h+ on dirt ovals.",
+    "photo": "/photos/classes/sprintcars.webp",
+    "specifications": {
+      "engine": "410ci (6.7L) V8",
+      "horsepower": "900+ HP",
+      "weight": "680kg minimum",
+      "topSpeed": "150+ km/h",
+      "tires": "Hoosier Racing Tire"
+    },
+    "rules": {
+      "contact": "Limited contact - primarily a speed class",
+      "bodywork": "Open wheel with large top wing",
+      "ageRequirement": "16+ years"
+    },
+    "teams": [
+      {
+        "name": "International Sprintcar Series",
+        "description": "Top-level sprintcar competition with international drivers"
+      }
+    ],
+    "championships": [
+      "NZ Sprintcar Championship",
+      "North Island Championship",
+      "South Island Championship"
+    ]
+  },
+  {
+    "id": "superstocks",
+    "name": "Superstocks",
+    "slug": "superstocks",
+    "description": "Full-contact, high-powered V8 stockcars. The most popular class in NZ speedway. Purpose-built race cars with massive V8 engines designed for aggressive racing and spectacular crashes.",
+    "photo": "/photos/classes/superstocks.webp",
+    "specifications": {
+      "engine": "350-400ci V8",
+      "horsepower": "600-700 HP",
+      "weight": "1300kg minimum",
+      "topSpeed": "140+ km/h",
+      "chassis": "Purpose-built tube frame"
+    },
+    "rules": {
+      "contact": "Full contact allowed and encouraged",
+      "bodywork": "Sedan-style body, heavily reinforced",
+      "ageRequirement": "18+ years"
+    },
+    "teams": [
+      {
+        "name": "Superstock Teams Racing",
+        "description": "Tag-team format where drivers work in teams to accumulate points. One of the most exciting formats in speedway."
+      },
+      {
+        "name": "World 240s",
+        "description": "240-lap endurance race, the premier superstock event in New Zealand"
+      }
+    ],
+    "championships": [
+      "NZ Superstock Championship",
+      "North Island Championship",
+      "South Island Championship",
+      "Teams Championship"
+    ]
+  },
+  {
+    "id": "stockcars",
+    "name": "Stockcars",
+    "slug": "stockcars",
+    "description": "The original full-contact class. Smaller engines than Superstocks but equally aggressive racing. Known for demolition-derby style action and strategic team racing.",
+    "photo": "/photos/classes/stockcars.webp",
+    "specifications": {
+      "engine": "Up to 350ci V8",
+      "horsepower": "400-500 HP",
+      "weight": "1200kg minimum",
+      "topSpeed": "120+ km/h",
+      "chassis": "Modified production car chassis"
+    },
+    "rules": {
+      "contact": "Full contact - hitting is part of strategy",
+      "bodywork": "Sedan body, reinforced for contact",
+      "ageRequirement": "16+ years"
+    },
+    "teams": [
+      {
+        "name": "Stockcar Teams Racing",
+        "description": "Teams compete for overall points across multiple races"
+      }
+    ],
+    "championships": [
+      "NZ Stockcar Championship",
+      "Regional Championships"
+    ]
+  },
+  {
+    "id": "midgets",
+    "name": "Midgets",
+    "slug": "midgets",
+    "description": "Small, purpose-built open-wheel race cars with 4-cylinder engines. Spectacular to watch with sideways driving style. Part of the international midget racing circuit.",
+    "photo": "/photos/classes/midgets.webp",
+    "specifications": {
+      "engine": "4-cylinder, normally aspirated",
+      "horsepower": "250-300 HP",
+      "weight": "450kg minimum",
+      "topSpeed": "130+ km/h",
+      "wheelbase": "1900mm"
+    },
+    "rules": {
+      "contact": "Limited contact - speed-focused",
+      "bodywork": "Open wheel with roll cage",
+      "ageRequirement": "15+ years"
+    },
+    "subclasses": [
+      {
+        "name": "TQ Midgets",
+        "description": "Three-quarter scale midgets for younger or developing drivers"
+      },
+      {
+        "name": "F2 Midgets",
+        "description": "Formula 2 specification midgets"
+      }
+    ],
+    "championships": [
+      "NZ Midget Championship",
+      "Midget World Series (International)"
+    ]
+  },
+  {
+    "id": "modifieds",
+    "name": "Modifieds",
+    "slug": "modifieds",
+    "description": "Open-wheel race cars with big-block V8 engines. Highly modified chassis and suspension for maximum cornering speed. No wings unlike sprintcars.",
+    "photo": "/photos/classes/modifieds.webp",
+    "specifications": {
+      "engine": "Up to 460ci V8",
+      "horsepower": "700+ HP",
+      "weight": "800kg minimum",
+      "topSpeed": "140+ km/h",
+      "chassis": "Custom tube frame"
+    },
+    "rules": {
+      "contact": "Light contact acceptable",
+      "bodywork": "Open wheel, no wings",
+      "ageRequirement": "16+ years"
+    },
+    "championships": [
+      "NZ Modified Championship"
+    ]
+  },
+  {
+    "id": "streetstocks",
+    "name": "Streetstocks",
+    "slug": "streetstocks",
+    "description": "Entry-level full-contact class using modified production sedans. Affordable racing with close competition. Road car-based but heavily modified for racing.",
+    "photo": "/photos/classes/streetstocks.webp",
+    "specifications": {
+      "engine": "Production-based, up to 2000cc",
+      "horsepower": "150-200 HP",
+      "weight": "1100kg minimum",
+      "topSpeed": "100+ km/h",
+      "chassis": "Production car chassis"
+    },
+    "rules": {
+      "contact": "Moderate contact allowed",
+      "bodywork": "Production sedan body",
+      "ageRequirement": "16+ years"
+    },
+    "championships": [
+      "NZ Streetstock Championship",
+      "Tri-Series Championship"
+    ]
+  },
+  {
+    "id": "saloons",
+    "name": "Saloons / Production Saloons",
+    "slug": "saloons",
+    "description": "Modified production sedans with safety equipment. More stock than Streetstocks, providing affordable entry into speedway racing.",
+    "photo": "/photos/classes/saloons.webp",
+    "specifications": {
+      "engine": "Production-based",
+      "horsepower": "120-180 HP",
+      "weight": "1000kg+",
+      "topSpeed": "90+ km/h",
+      "chassis": "Stock production chassis"
+    },
+    "rules": {
+      "contact": "Light contact only",
+      "bodywork": "Near-stock appearance",
+      "ageRequirement": "16+ years"
+    },
+    "championships": [
+      "North Island Saloon Championship"
+    ]
+  },
+  {
+    "id": "super-saloons",
+    "name": "Super Saloons",
+    "slug": "super-saloons",
+    "description": "Highly modified saloons with V8 engines. Faster than stockcars but with limited contact rules. Spectacular speed in a sedan body.",
+    "photo": "/photos/classes/super-saloons.webp",
+    "specifications": {
+      "engine": "V8, various sizes",
+      "horsepower": "500-600 HP",
+      "weight": "1150kg minimum",
+      "topSpeed": "130+ km/h",
+      "chassis": "Custom tube frame"
+    },
+    "rules": {
+      "contact": "Very limited contact",
+      "bodywork": "Sedan body on tube frame",
+      "ageRequirement": "18+ years"
+    },
+    "championships": [
+      "Super Saloon Championship"
+    ]
+  },
+  {
+    "id": "youth-ministocks",
+    "name": "Youth Ministocks",
+    "slug": "youth-ministocks",
+    "description": "Entry-level racing for young drivers aged 12-16. Restricted 1300cc engines in safe, purpose-built race cars. Teaches racecraft and car control.",
+    "photo": "/photos/classes/youth-ministocks.webp",
+    "specifications": {
+      "engine": "1300cc 4-cylinder (restricted)",
+      "horsepower": "60-80 HP",
+      "weight": "650kg minimum",
+      "topSpeed": "70 km/h",
+      "chassis": "Purpose-built safety chassis"
+    },
+    "rules": {
+      "contact": "Minimal contact only",
+      "bodywork": "Full safety equipment required",
+      "ageRequirement": "12-16 years"
+    },
+    "subclasses": [
+      {
+        "name": "Ministocks",
+        "description": "Adult version with less power restrictions (16+)"
+      }
+    ],
+    "championships": [
+      "Youth Ministock Championship"
+    ]
+  },
+  {
+    "id": "six-shooters",
+    "name": "Six Shooters",
+    "slug": "six-shooters",
+    "description": "Small, affordable entry-level class. 1300cc front-wheel-drive cars with basic safety mods. Perfect for beginners and budget racing.",
+    "photo": "/photos/classes/six-shooters.webp",
+    "specifications": {
+      "engine": "1300cc 4-cylinder FWD",
+      "horsepower": "80-100 HP",
+      "weight": "750kg minimum",
+      "topSpeed": "80 km/h",
+      "chassis": "Production FWD car"
+    },
+    "rules": {
+      "contact": "Light contact acceptable",
+      "bodywork": "Production sedan",
+      "ageRequirement": "16+ years"
+    },
+    "championships": [
+      "Six Shooter Championship"
+    ]
+  },
+  {
+    "id": "minisprints",
+    "name": "Minisprints",
+    "slug": "minisprints",
+    "description": "Scaled-down open-wheel race cars with motorcycle engines. Wings and open wheels like sprintcars. Great stepping stone to full-size sprintcars.",
+    "photo": "/photos/classes/minisprints.webp",
+    "specifications": {
+      "engine": "600cc motorcycle engine",
+      "horsepower": "100-120 HP",
+      "weight": "350kg minimum",
+      "topSpeed": "100+ km/h",
+      "chassis": "Tube frame with wings"
+    },
+    "rules": {
+      "contact": "No contact",
+      "bodywork": "Open wheel with top wing",
+      "ageRequirement": "14+ years"
+    },
+    "championships": [
+      "Minisprint Championship"
+    ]
+  },
+  {
+    "id": "sidecars",
+    "name": "Sidecars",
+    "slug": "sidecars",
+    "description": "Motorcycle and sidecar combination racing on dirt ovals. Passenger acts as ballast, leaning dramatically through corners. Unique and spectacular racing.",
+    "photo": "/photos/classes/sidecars.webp",
+    "specifications": {
+      "engine": "1000cc+ motorcycle engine",
+      "horsepower": "150+ HP",
+      "weight": "400kg minimum (combo)",
+      "topSpeed": "120+ km/h",
+      "crew": "Driver + passenger"
+    },
+    "rules": {
+      "contact": "No contact",
+      "bodywork": "Motorcycle with attached sidecar",
+      "ageRequirement": "18+ years (driver)"
+    },
+    "championships": [
+      "Sidecar Championship"
+    ]
+  },
+  {
+    "id": "quarter-midgets",
+    "name": "Quarter Midgets",
+    "slug": "quarter-midgets",
+    "description": "Purpose-built race cars for children aged 5-16. Quarter-scale of full midgets. Teaches young drivers racecraft in a safe environment.",
+    "photo": "/photos/classes/quarter-midgets.webp",
+    "specifications": {
+      "engine": "Single-cylinder, various sizes",
+      "horsepower": "5-20 HP (age dependent)",
+      "weight": "120-150kg",
+      "topSpeed": "40-60 km/h",
+      "chassis": "Purpose-built 1/4 scale"
+    },
+    "rules": {
+      "contact": "No contact",
+      "bodywork": "Full safety equipment",
+      "ageRequirement": "5-16 years"
+    },
+    "subclasses": [
+      {
+        "name": "Rookie (5-8 years)",
+        "description": "Entry level with restricted engines"
+      },
+      {
+        "name": "Junior (9-12 years)",
+        "description": "Moderate power increase"
+      },
+      {
+        "name": "Senior (13-16 years)",
+        "description": "Full power quarter midgets"
+      }
+    ],
+    "championships": [
+      "NZ Quarter Midget Championship"
+    ]
+  }
+]
