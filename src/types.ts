@@ -72,4 +72,16 @@ export type Driver = {
   photo?: string
   championships?: string[]
   bio?: string
+  slug: string
+}
+
+export type Team = {
+  id: number
+  name: string
+  slug: string
+  class: string
+  homeTrack: string
+  region: string
+  championships: string[]
+  description: string
 }

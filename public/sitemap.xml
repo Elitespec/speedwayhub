@@ -48,6 +48,20 @@
   </url>
 
   <url>
+    <loc>https://speedwayhub.nz/results</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://speedwayhub.nz/teams</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
     <loc>https://speedwayhub.nz/classes</loc>
     <lastmod>2026-03-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -774,6 +788,14 @@
     <priority>0.6</priority>
   </url>
 
+  <!-- Event: Battle of the Bay -->
+  <url>
+    <loc>https://speedwayhub.nz/events/battle-of-the-bay-baypark-2026-02-14</loc>
+    <lastmod>2026-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <!-- Driver: Peter Rees -->
   <url>
     <loc>https://speedwayhub.nz/drivers/peter-rees</loc>
@@ -1145,6 +1167,86 @@
   <!-- Driver: Hayden Brookland -->
   <url>
     <loc>https://speedwayhub.nz/drivers/hayden-brookland</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Team: Gisborne Giants -->
+  <url>
+    <loc>https://speedwayhub.nz/teams/gisborne-giants</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Team: Canterbury Crushers -->
+  <url>
+    <loc>https://speedwayhub.nz/teams/canterbury-crushers</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Team: Rotorua Rascals -->
+  <url>
+    <loc>https://speedwayhub.nz/teams/rotorua-rascals</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Team: Canterbury Glen Eagles -->
+  <url>
+    <loc>https://speedwayhub.nz/teams/canterbury-glen-eagles</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Team: Baypark Busters -->
+  <url>
+    <loc>https://speedwayhub.nz/teams/baypark-busters</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Team: Stratford Stormers -->
+  <url>
+    <loc>https://speedwayhub.nz/teams/stratford-stormers</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Team: Whanganui Vulcans -->
+  <url>
+    <loc>https://speedwayhub.nz/teams/whanganui-vulcans</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Team: Waikato Raiders -->
+  <url>
+    <loc>https://speedwayhub.nz/teams/waikato-raiders</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Team: Kihikihi Kings -->
+  <url>
+    <loc>https://speedwayhub.nz/teams/kihikihi-kings</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Team: Palmerston North Pumas -->
+  <url>
+    <loc>https://speedwayhub.nz/teams/palmerston-north-pumas</loc>
     <lastmod>2026-03-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

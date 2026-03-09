@@ -45,8 +45,10 @@ export const Header: React.FC = () => {
           <nav className="hidden lg:flex items-center gap-6">
             <NavLink href="/tracks" label="Tracks" />
             <NavLink href="/events" label="Events" />
+            <NavLink href="/results" label="Results" />
             <NavLink href="/live-timing" label="Live" />
             <NavLink href="/drivers" label="Drivers" />
+            <NavLink href="/teams" label="Teams" />
             <NavLink href="/news" label="News" />
             <a
               href="https://www.facebook.com/profile.php?id=61582865643058"
@@ -87,8 +89,10 @@ export const Header: React.FC = () => {
             <div className="flex flex-col px-4 py-4">
               <a href="/tracks" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Tracks</a>
               <a href="/events" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Events</a>
+              <a href="/results" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Results</a>
               <a href="/live-timing" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Live Timing</a>
               <a href="/drivers" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Drivers</a>
+              <a href="/teams" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Teams</a>
               <a href="/classes" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Classes</a>
               <a href="/news" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">News</a>
               <a

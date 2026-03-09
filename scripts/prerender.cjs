@@ -40,6 +40,7 @@ function getAllRoutes() {
     '/tracks',
     '/events',
     '/drivers',
+    '/teams',
     '/classes',
     '/news',
     '/about',
@@ -47,6 +48,7 @@ function getAllRoutes() {
     '/live-timing',
     '/submit',
     '/sponsors',
+    '/results',
     '/drivers/create',
   ]
 
@@ -67,6 +69,12 @@ function getAllRoutes() {
   const drivers = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'drivers.json'), 'utf-8'))
   for (const driver of drivers) {
     routes.push(`/drivers/${driver.slug}`)
+  }
+
+  // Team pages
+  const teams = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'teams.json'), 'utf-8'))
+  for (const team of teams) {
+    routes.push(`/teams/${team.slug}`)
   }
 
   // News pages (parse from newsIndex — read filenames for slugs)

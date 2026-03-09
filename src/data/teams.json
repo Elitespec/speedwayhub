@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Gisborne Giants",
+    "slug": "gisborne-giants",
+    "class": "Superstocks",
+    "homeTrack": "awapuni-speedway",
+    "region": "Gisborne",
+    "championships": ["ENZED NZ Superstock Teams Champion 2025/26"],
+    "description": "The Gisborne Giants won their first Superstock Teams title in 10 years since reforming, taking the ENZED championship at RPIS in February 2026."
+  },
+  {
+    "id": 2,
+    "name": "Canterbury Crushers",
+    "slug": "canterbury-crushers",
+    "class": "Stockcars",
+    "homeTrack": "woodford-glen-speedway",
+    "region": "Canterbury",
+    "championships": ["NZ Stockcar Teams Champion 2025/26"],
+    "description": "The Canterbury Crushers took the NZ Stockcar Teams title south, winning at Rotorua in March 2026 and denying the Rascals a rare three-peat."
+  },
+  {
+    "id": 3,
+    "name": "Rotorua Rascals",
+    "slug": "rotorua-rascals",
+    "class": "Stockcars",
+    "homeTrack": "paradise-valley-speedway",
+    "region": "Bay of Plenty",
+    "championships": ["NZ Stockcar Teams Champion 2023/24", "NZ Stockcar Teams Champion 2024/25"],
+    "description": "The Rotorua Rascals are back-to-back NZ Stockcar Teams Champions (2024, 2025). Fell short of a three-peat at home in March 2026."
+  },
+  {
+    "id": 4,
+    "name": "Canterbury Glen Eagles",
+    "slug": "canterbury-glen-eagles",
+    "class": "Superstocks",
+    "homeTrack": "woodford-glen-speedway",
+    "region": "Canterbury",
+    "championships": ["Superstock Teams Extravaganza Hat-Trick (2025)"],
+    "description": "The Canterbury Glen Eagles achieved a historic hat-trick at the Superstock Teams Extravaganza at RPIS in December 2025."
+  },
+  {
+    "id": 5,
+    "name": "Baypark Busters",
+    "slug": "baypark-busters",
+    "class": "Superstocks",
+    "homeTrack": "baypark-speedway",
+    "region": "Bay of Plenty",
+    "championships": [],
+    "description": "Baypark's Superstock Teams entry, based at Baypark Speedway in Tauranga."
+  },
+  {
+    "id": 6,
+    "name": "Stratford Stormers",
+    "slug": "stratford-stormers",
+    "class": "Superstocks",
+    "homeTrack": "stratford-speedway",
+    "region": "Taranaki",
+    "championships": [],
+    "description": "Taranaki's Superstock Teams contenders from Stratford Speedway."
+  },
+  {
+    "id": 7,
+    "name": "Whanganui Vulcans",
+    "slug": "whanganui-vulcans",
+    "class": "Superstocks",
+    "homeTrack": "oceanview-speedway",
+    "region": "Manawatū-Whanganui",
+    "championships": [],
+    "description": "Whanganui's Superstock team from Oceanview Speedway."
+  },
+  {
+    "id": 8,
+    "name": "Waikato Raiders",
+    "slug": "waikato-raiders",
+    "class": "Superstocks",
+    "homeTrack": "huntly-speedway",
+    "region": "Waikato",
+    "championships": [],
+    "description": "Waikato's Superstock Teams entry based at Huntly International Speedway."
+  },
+  {
+    "id": 9,
+    "name": "Kihikihi Kings",
+    "slug": "kihikihi-kings",
+    "class": "Superstocks",
+    "homeTrack": "kihikihi-speedway",
+    "region": "Waikato",
+    "championships": [],
+    "description": "Kihikihi's Superstock Teams contenders from McDonald's Kihikihi Speedway."
+  },
+  {
+    "id": 10,
+    "name": "Palmerston North Pumas",
+    "slug": "palmerston-north-pumas",
+    "class": "Superstocks",
+    "homeTrack": "palmerston-north-speedway",
+    "region": "Manawatū-Whanganui",
+    "championships": [],
+    "description": "Manawatu's Superstock Teams entry from Robertson Prestige International Speedway."
+  }
+]

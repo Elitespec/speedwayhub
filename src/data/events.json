@@ -271,7 +271,11 @@
     "gateOpenTime": "5:00 PM",
     "results": {
       "winner": "Aaron Hodgson (35M)",
-      "podium": ["Aaron Hodgson (35M)", "Brad Mosen (10A)", "Ben Morrison (97A)"],
+      "podium": [
+        "Aaron Hodgson (35M)",
+        "Brad Mosen (10A)",
+        "Ben Morrison (97A)"
+      ],
       "highlights": "Aaron Hodgson charged from the 3rd row to win by 1.3 seconds. Teenage star Alec Insley was top qualifier."
     },
     "classes": [
@@ -878,10 +882,16 @@
     "status": "completed",
     "startTime": "6:00 PM",
     "gateOpenTime": "4:00 PM",
-    "classes": ["Sprintcars"],
+    "classes": [
+      "Sprintcars"
+    ],
     "results": {
       "winner": "Daniel Thomas (2NZ)",
-      "podium": ["Daniel Thomas (2NZ)", "Joey Myers Jr (3NZ)", "Kaleb Montgomery (95US)"],
+      "podium": [
+        "Daniel Thomas (2NZ)",
+        "Joey Myers Jr (3NZ)",
+        "Kaleb Montgomery (95US)"
+      ],
       "highlights": "Daniel Thomas led all 25 laps against a strong field including American challengers Joey Myers Jr and Kaleb Montgomery."
     }
   },
@@ -895,10 +905,16 @@
     "status": "completed",
     "startTime": "6:00 PM",
     "gateOpenTime": "4:00 PM",
-    "classes": ["Stockcars"],
+    "classes": [
+      "Stockcars"
+    ],
     "results": {
       "winner": "Caleb Ireland",
-      "podium": ["Caleb Ireland (82 pts)", "Harley Robb (81 pts)", "Riley Eathorne (78 pts)"],
+      "podium": [
+        "Caleb Ireland (82 pts)",
+        "Harley Robb (81 pts)",
+        "Riley Eathorne (78 pts)"
+      ],
       "highlights": "Caleb Ireland became only the second driver to win back-to-back NZ Stockcar titles, after Peter Rees in 2012-13. Won by just 1 point."
     }
   },
@@ -912,7 +928,9 @@
     "status": "completed",
     "startTime": "6:00 PM",
     "gateOpenTime": "4:00 PM",
-    "classes": ["Super Saloons"],
+    "classes": [
+      "Super Saloons"
+    ],
     "results": {
       "winner": "Chris Cowling",
       "highlights": "Chris Cowling claims his third NZ Super Saloon crown in a thriller at Meeanee Speedway."
@@ -928,7 +946,9 @@
     "status": "completed",
     "startTime": "6:00 PM",
     "gateOpenTime": "5:00 PM",
-    "classes": ["Superstocks"],
+    "classes": [
+      "Superstocks"
+    ],
     "results": {
       "winner": "Gisborne Giants",
       "highlights": "Gisborne Giants win their first Superstock Teams title in 10 years since reforming."
@@ -944,7 +964,9 @@
     "status": "completed",
     "startTime": "6:00 PM",
     "gateOpenTime": "4:00 PM",
-    "classes": ["Stockcars"],
+    "classes": [
+      "Stockcars"
+    ],
     "results": {
       "winner": "Canterbury Crushers",
       "highlights": "Canterbury Crushers take the Stockcar Teams title south, denying the Rotorua Rascals a rare three-peat."
@@ -960,7 +982,9 @@
     "status": "completed",
     "startTime": "2:00 PM",
     "gateOpenTime": "12:00 PM",
-    "classes": ["Solo Bikes"],
+    "classes": [
+      "Solo Bikes"
+    ],
     "results": {
       "winner": "Congreve",
       "highlights": "Congreve wins an epic NZ Solo Championship at Oreti Park."
@@ -976,7 +1000,9 @@
     "status": "completed",
     "startTime": "6:30 PM",
     "gateOpenTime": "5:00 PM",
-    "classes": ["Saloons"]
+    "classes": [
+      "Saloons"
+    ]
   },
   {
     "id": 56,
@@ -988,7 +1014,12 @@
     "status": "completed",
     "startTime": "6:30 PM",
     "gateOpenTime": "5:00 PM",
-    "classes": ["Super Saloons", "Stockcars", "Superstocks", "Youth Ministocks"]
+    "classes": [
+      "Super Saloons",
+      "Stockcars",
+      "Superstocks",
+      "Youth Ministocks"
+    ]
   },
   {
     "id": 57,
@@ -1000,7 +1031,13 @@
     "status": "upcoming",
     "startTime": "6:30 PM",
     "gateOpenTime": "5:00 PM",
-    "classes": ["Sprintcars", "F2 Midgets", "Stockcars", "Six Shooters", "Superstocks"]
+    "classes": [
+      "Sprintcars",
+      "F2 Midgets",
+      "Stockcars",
+      "Six Shooters",
+      "Superstocks"
+    ]
   },
   {
     "id": 58,
@@ -1012,7 +1049,12 @@
     "status": "upcoming",
     "startTime": "6:30 PM",
     "gateOpenTime": "5:00 PM",
-    "classes": ["Sprintcars", "Superstocks", "Midgets", "Stockcars"]
+    "classes": [
+      "Sprintcars",
+      "Superstocks",
+      "Midgets",
+      "Stockcars"
+    ]
   },
   {
     "id": 59,
@@ -1024,7 +1066,13 @@
     "status": "upcoming",
     "startTime": "6:30 PM",
     "gateOpenTime": "5:00 PM",
-    "classes": ["Stockcars", "Sprintcars", "F2 Midgets", "Youth Ministocks", "Demo Derby"]
+    "classes": [
+      "Stockcars",
+      "Sprintcars",
+      "F2 Midgets",
+      "Youth Ministocks",
+      "Demo Derby"
+    ]
   },
   {
     "id": 60,
@@ -1036,7 +1084,12 @@
     "status": "upcoming",
     "startTime": "6:30 PM",
     "gateOpenTime": "5:00 PM",
-    "classes": ["Minisprints", "Saloons", "Sidecars", "Stockcars"]
+    "classes": [
+      "Minisprints",
+      "Saloons",
+      "Sidecars",
+      "Stockcars"
+    ]
   },
   {
     "id": 61,
@@ -1048,7 +1101,13 @@
     "status": "upcoming",
     "startTime": "6:30 PM",
     "gateOpenTime": "5:00 PM",
-    "classes": ["Adult Ministocks", "Demo Derby", "Minisprints", "Stockcars", "Streetstocks"]
+    "classes": [
+      "Adult Ministocks",
+      "Demo Derby",
+      "Minisprints",
+      "Stockcars",
+      "Streetstocks"
+    ]
   },
   {
     "id": 62,
@@ -1060,7 +1119,13 @@
     "status": "upcoming",
     "startTime": "6:30 PM",
     "gateOpenTime": "5:00 PM",
-    "classes": ["Midgets", "Stockcars", "Streetstocks", "Super Saloons", "Superstocks"]
+    "classes": [
+      "Midgets",
+      "Stockcars",
+      "Streetstocks",
+      "Super Saloons",
+      "Superstocks"
+    ]
   },
   {
     "id": 63,
@@ -1072,7 +1137,12 @@
     "status": "upcoming",
     "startTime": "6:30 PM",
     "gateOpenTime": "5:00 PM",
-    "classes": ["Sidecars", "Stockcars", "Super Saloons", "Superstocks"]
+    "classes": [
+      "Sidecars",
+      "Stockcars",
+      "Super Saloons",
+      "Superstocks"
+    ]
   },
   {
     "id": 64,
@@ -1084,7 +1154,9 @@
     "status": "completed",
     "startTime": "6:30 PM",
     "gateOpenTime": "4:00 PM",
-    "classes": ["Sprintcars"]
+    "classes": [
+      "Sprintcars"
+    ]
   },
   {
     "id": 65,
@@ -1096,6 +1168,31 @@
     "status": "upcoming",
     "startTime": "6:30 PM",
     "gateOpenTime": "4:00 PM",
-    "classes": ["Sprintcars", "Midgets", "TQ Midgets", "Stockcars", "Super Saloons", "Modifieds"]
+    "classes": [
+      "Sprintcars",
+      "Midgets",
+      "TQ Midgets",
+      "Stockcars",
+      "Super Saloons",
+      "Modifieds"
+    ]
+  },
+  {
+    "id": 66,
+    "slug": "battle-of-the-bay-baypark-2026-02-14",
+    "title": "Battle of the Bay",
+    "date": "2026-02-14",
+    "trackSlug": "baypark-speedway",
+    "summary": "Battle of the Bay featuring the Aotearoa F2 Midgetcar Title, BOP Sprintcar Championship, and Harry Fredrickson Stockcar Gold Cup. Gates and Fanzone open 4:30pm, racing starts 6:30pm.",
+    "status": "completed",
+    "startTime": "6:30 PM",
+    "gateOpenTime": "4:30 PM",
+    "ticketUrl": "https://bayparkspeedway.flicket.co.nz/",
+    "classes": [
+      "Sprintcars",
+      "F2 Midgets",
+      "Stockcars"
+    ],
+    "url": "https://www.bayparkspeedway.co.nz"
   }
 ]

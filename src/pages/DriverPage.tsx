@@ -3,6 +3,7 @@ import { driversBySlug } from '../driversStore'
 import { tracksBySlug } from '../tracksStore'
 import { events } from '../eventsStore'
 import { SEO } from '../components/SEO'
+import { SchemaOrg, createDriverSchema } from '../components/SchemaOrg'
 import { AdSenseRectangle, AdSenseHorizontal } from '../components/AdSense'
 
 type Props = {
@@ -37,6 +38,8 @@ export const DriverPage: React.FC<Props> = ({ slug }) => {
         type="article"
         keywords={`${driver.name}, ${driver.classes.join(', ')}, ${driver.region} speedway, NZ speedway driver`}
       />
+
+      <SchemaOrg schema={createDriverSchema(driver)} />
 
       <main className="mx-auto max-w-5xl px-4 py-6 space-y-6">
         {/* Driver Header */}

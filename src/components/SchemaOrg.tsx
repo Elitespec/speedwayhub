@@ -69,6 +69,70 @@ export const createWebsiteSchema = () => ({
   },
 })
 
+export const createSportsEventSchema = (event: any, track: any) => {
+  const schema: any = {
+    '@context': 'https://schema.org',
+    '@type': 'SportsEvent',
+    name: event.title,
+    startDate: event.date,
+    eventStatus: event.status === 'cancelled'
+      ? 'https://schema.org/EventCancelled'
+      : event.status === 'postponed'
+        ? 'https://schema.org/EventPostponed'
+        : 'https://schema.org/EventScheduled',
+    eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+    sport: 'Speedway Racing',
+    ...(event.summary && { description: event.summary }),
+    organizer: {
+      '@type': 'Organization',
+      name: 'SpeedwayHub NZ',
+      url: 'https://speedwayhub.nz',
+    },
+  }
+
+  if (track) {
+    schema.location = {
+      '@type': 'Place',
+      name: track.name,
+      url: `https://speedwayhub.nz/tracks/${track.slug}`,
+      address: {
+        '@type': 'PostalAddress',
+        addressLocality: track.city,
+        addressRegion: track.region,
+        addressCountry: 'NZ',
+      },
+    }
+    if (track.coords) {
+      schema.location.geo = {
+        '@type': 'GeoCoordinates',
+        latitude: track.coords[0],
+        longitude: track.coords[1],
+      }
+    }
+  }
+
+  if (event.startTime) {
+    schema.doorTime = event.gateOpenTime || undefined
+  }
+
+  if (event.ticketUrl) {
+    schema.offers = {
+      '@type': 'Offer',
+      url: event.ticketUrl,
+      availability: event.status === 'upcoming' ? 'https://schema.org/InStock' : 'https://schema.org/SoldOut',
+    }
+  }
+
+  if (event.results?.winner) {
+    schema.competitor = {
+      '@type': 'Person',
+      name: event.results.winner,
+    }
+  }
+
+  return schema
+}
+
 export const createEventSchema = (event: {
   title: string
   date: string
@@ -104,6 +168,16 @@ export const createEventSchema = (event: {
     name: 'SpeedwayHub NZ',
     url: 'https://speedwayhub.nz',
   },
+})
+
+export const createDriverSchema = (driver: any) => ({
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: driver.name,
+  description: driver.bio || undefined,
+  url: `https://speedwayhub.nz/drivers/${driver.slug}`,
+  sameAs: [driver.facebook, driver.instagram, driver.website].filter(Boolean),
+  award: driver.championships?.length ? driver.championships : undefined,
 })
 
 export const createTrackSchema = (track: {

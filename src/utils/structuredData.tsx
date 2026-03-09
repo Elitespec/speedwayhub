@@ -77,8 +77,10 @@ export const TrackStructuredData: React.FC<{ track: Track }> = ({ track }) => {
           longitude: track.coords[1],
         },
         description: track.description,
+        ...(track.photo && { image: `https://speedwayhub.nz${track.photo}` }),
         ...(track.website && { url: track.website }),
         ...(track.phone && { telephone: track.phone }),
+        sameAs: [track.website, track.facebook].filter(Boolean),
       },
       // LocalBusiness schema for local SEO
       {

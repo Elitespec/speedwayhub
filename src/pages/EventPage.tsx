@@ -2,7 +2,7 @@ import React from 'react'
 import { eventsBySlug } from '../eventsStore'
 import { tracksBySlug } from '../tracksStore'
 import { TrackWeather } from '../components/TrackWeather'
-import { SchemaOrg, createEventSchema } from '../components/SchemaOrg'
+import { SchemaOrg, createSportsEventSchema } from '../components/SchemaOrg'
 import { SEO } from '../components/SEO'
 import { Breadcrumbs } from '../components/Breadcrumbs'
 
@@ -32,14 +32,7 @@ export const EventPage: React.FC<Props> = ({ slug }) => {
                 description={event.summary}
                 path={`/events/${slug}`}
             />
-            {track && <SchemaOrg schema={createEventSchema({
-                title: event.title,
-                date: event.date,
-                trackName: track.name,
-                trackSlug: track.slug,
-                description: event.summary,
-                status: event.status
-            })} />}
+            <SchemaOrg schema={createSportsEventSchema(event, track)} />
 
             <main className="mx-auto max-w-5xl px-4 py-6 space-y-8">
                 <Breadcrumbs items={[

@@ -5,6 +5,7 @@ const path = require('path')
 const tracks = require('../src/data/tracks.json')
 const events = require('../src/data/events.json')
 const drivers = require('../src/data/drivers.json')
+const teams = require('../src/data/teams.json')
 
 const baseUrl = 'https://speedwayhub.nz'
 const today = new Date().toISOString().split('T')[0]
@@ -54,6 +55,20 @@ let sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 
   <url>
     <loc>${baseUrl}/drivers</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>${baseUrl}/results</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>${baseUrl}/teams</loc>
     <lastmod>${today}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -110,6 +125,21 @@ drivers.forEach((driver) => {
   }
 })
 
+// Add all team pages
+teams.forEach((team) => {
+  if (team.slug) {
+    sitemap += `  <!-- Team: ${team.name} -->
+  <url>
+    <loc>${baseUrl}/teams/${team.slug}</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+`
+  }
+})
+
 // News posts - we'll add these based on the newsIndex
 const newsSlugs = [
   'crushers-stockcar-teams',
@@ -151,4 +181,5 @@ const publicDir = path.join(__dirname, '../public')
 fs.writeFileSync(path.join(publicDir, 'sitemap.xml'), sitemap)
 console.log('✓ Sitemap generated at public/sitemap.xml')
 const driverCount = drivers.filter(d => d.slug).length
-console.log(`✓ Total URLs: ${tracks.length + events.length + driverCount + newsSlugs.length + 7}`)
+const teamCount = teams.filter(t => t.slug).length
+console.log(`✓ Total URLs: ${tracks.length + events.length + driverCount + teamCount + newsSlugs.length + 8}`)

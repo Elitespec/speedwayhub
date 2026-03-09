@@ -15,8 +15,11 @@ import { Classes } from './pages/Classes'
 import { LiveTiming } from './pages/LiveTiming'
 import { EventPage } from './pages/EventPage'
 import { CreateDriverProfile } from './pages/CreateDriverProfile'
+import { Teams } from './pages/Teams'
+import { TeamPage } from './pages/TeamPage'
 import { About } from './pages/About'
 import { FAQ } from './pages/FAQ'
+import { Results } from './pages/Results'
 
 const getRoute = () => {
   const path = window.location.pathname
@@ -34,12 +37,16 @@ const getRoute = () => {
   if (segments[0] === 'drivers' && segments[1] === 'create') return { page: 'createDriverProfile' as const }
   if (segments[0] === 'drivers' && segments.length === 2)
     return { page: 'driver', slug: segments[1] as string }
+  if (segments[0] === 'teams' && segments.length === 1) return { page: 'teams' as const }
+  if (segments[0] === 'teams' && segments.length === 2)
+    return { page: 'team', slug: segments[1] as string }
   if (segments[0] === 'classes') return { page: 'classes' as const }
   if (segments[0] === 'submit') return { page: 'submit' as const }
   if (segments[0] === 'sponsors') return { page: 'sponsors' as const }
   if (segments[0] === 'news' && segments.length === 1) return { page: 'news' as const }
   if (segments[0] === 'news' && segments.length === 2)
     return { page: 'newsPost', slug: segments[1] as string }
+  if (segments[0] === 'results') return { page: 'results' as const }
   if (segments[0] === 'about') return { page: 'about' as const }
   if (segments[0] === 'faq') return { page: 'faq' as const }
 
@@ -88,6 +95,12 @@ export default function App() {
     case 'createDriverProfile':
       content = <CreateDriverProfile />
       break
+    case 'teams':
+      content = <Teams />
+      break
+    case 'team':
+      content = <TeamPage slug={route.slug!} />
+      break
     case 'classes':
       content = <Classes />
       break
@@ -102,6 +115,9 @@ export default function App() {
       break
     case 'sponsors':
       content = <Sponsors />
+      break
+    case 'results':
+      content = <Results />
       break
     case 'about':
       content = <About />
