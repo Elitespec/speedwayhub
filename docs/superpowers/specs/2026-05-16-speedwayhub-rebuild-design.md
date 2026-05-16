@@ -223,13 +223,18 @@ Background pacing. No phase blocks Forge work. Each phase is independent + shipp
 | **5** | Forge upsell automation in claim welcome email | 2-3h | Depends on Phase 3 |
 | **Total** | | 26-37h | |
 
-### Order of value
-1. Phase 1 stops the bleeding (data stops going stale). Highest leverage per hour.
-2. Phase 3 + 4 + 5 unlock revenue. Highest dollar per hour.
-3. Phase 2 polish. Highest brand per hour. Can ship in parallel with 3.
+### Order of value (REVISED 2026-05-16 after volume-priority feedback)
+1. Phase 4 (volume engine: seed scrape + directory pages) is the *first* thing to ship. Without listings the site has no directory and "rebuild" lands on nothing. **Volume wins.**
+2. Phase 3 (claim flow + Stripe) right after 4: now that stubs exist, businesses can claim them.
+3. Phase 5 (Forge upsell on claim) layers on 3.
+4. Phase 1 (events automation) is correct but season-irrelevant in May. Defer to September pre-season.
+5. Phase 2 (visual rebuild) ships in parallel or after revenue is flowing.
 
-### Recommended sequence
-0 → 1 → 3 → 4 → 5 → 2 (revenue path before visual polish)
+### Recommended sequence (REVISED)
+0 → **4 → 3 → 5** → 2 → 1 (volume + revenue first, polish + automation later)
+
+### Rationale for revised order
+Original sequence assumed automation was the bleeding fix. Reality check: it's May, off-season, no events to scrape anyway. The directory itself is empty. Fix the empty-directory problem first via auto-seed, not the stale-events problem.
 
 ---
 

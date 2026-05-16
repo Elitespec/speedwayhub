@@ -6,7 +6,7 @@
   <!-- Homepage -->
   <url>
     <loc>https://speedwayhub.nz/</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -14,64 +14,92 @@
   <!-- Main Pages -->
   <url>
     <loc>https://speedwayhub.nz/tracks</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://speedwayhub.nz/events</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://speedwayhub.nz/news</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://speedwayhub.nz/live-timing</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://speedwayhub.nz/drivers</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://speedwayhub.nz/results</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://speedwayhub.nz/teams</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
+    <loc>https://speedwayhub.nz/calendar</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
     <loc>https://speedwayhub.nz/classes</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://speedwayhub.nz/sponsors</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://speedwayhub.nz/suppliers</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://speedwayhub.nz/advertise</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <!-- Track: Western Springs Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/western-springs</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -79,7 +107,7 @@
   <!-- Track: Huntly Placemakers Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/huntly-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -87,7 +115,7 @@
   <!-- Track: McDonald's Kihikihi Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/kihikihi-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -95,7 +123,7 @@
   <!-- Track: Robertson Prestige International Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/palmerston-north-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -103,7 +131,7 @@
   <!-- Track: Oceanview Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/oceanview-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -111,7 +139,7 @@
   <!-- Track: Stratford Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/stratford-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -119,7 +147,7 @@
   <!-- Track: Meeanee Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/meeanee-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -127,7 +155,7 @@
   <!-- Track: Baypark Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/baypark-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -135,7 +163,7 @@
   <!-- Track: Woodford Glen Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/woodford-glen-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -143,7 +171,7 @@
   <!-- Track: Ruapuna Speedway (Canterbury) -->
   <url>
     <loc>https://speedwayhub.nz/tracks/ruapuna-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -151,7 +179,7 @@
   <!-- Track: Riverside Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/riverside-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -159,7 +187,7 @@
   <!-- Track: Greenstone Park Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/greenstone-park-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -167,7 +195,7 @@
   <!-- Track: Lucas Oil Waikaraka Family Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/waikaraka-park-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -175,7 +203,7 @@
   <!-- Track: Max Motors Family Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/wellington-family-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -183,7 +211,7 @@
   <!-- Track: Eastland Group Raceway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/awapuni-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -191,7 +219,7 @@
   <!-- Track: Ferndene Park Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/ferndene-park-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -199,15 +227,15 @@
   <!-- Track: TWS Paradise Valley Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/paradise-valley-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <!-- Track: Lucas Oil Auckland Speedway -->
+  <!-- Track: Rosebank Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/rosebank-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -215,7 +243,7 @@
   <!-- Track: Auckland Vintage Speedway Club -->
   <url>
     <loc>https://speedwayhub.nz/tracks/auckland-vintage-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -223,7 +251,7 @@
   <!-- Track: Eastern States Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/eastern-states-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -231,7 +259,7 @@
   <!-- Track: Central Motor Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/central-motor-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -239,7 +267,7 @@
   <!-- Track: Tahuna Beach Holiday Park Top of the South Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/top-of-the-south-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -247,7 +275,7 @@
   <!-- Track: Ashburton Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/ashburton-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -255,7 +283,7 @@
   <!-- Track: Beachlands Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/beachlands-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -263,7 +291,7 @@
   <!-- Track: Oreti Park Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/oreti-park-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,7 +299,7 @@
   <!-- Track: Moore Park Motorcycle Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/moore-park-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -279,7 +307,7 @@
   <!-- Track: Sunset Speedway -->
   <url>
     <loc>https://speedwayhub.nz/tracks/sunset-speedway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -799,7 +827,7 @@
   <!-- Driver: Peter Rees -->
   <url>
     <loc>https://speedwayhub.nz/drivers/peter-rees</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -807,7 +835,7 @@
   <!-- Driver: Michael Pickens -->
   <url>
     <loc>https://speedwayhub.nz/drivers/michael-pickens</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -815,7 +843,7 @@
   <!-- Driver: Jayden Ward -->
   <url>
     <loc>https://speedwayhub.nz/drivers/jayden-ward</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -823,7 +851,7 @@
   <!-- Driver: Ethan Rees -->
   <url>
     <loc>https://speedwayhub.nz/drivers/ethan-rees</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -831,7 +859,7 @@
   <!-- Driver: Brad Lane -->
   <url>
     <loc>https://speedwayhub.nz/drivers/brad-lane</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -839,7 +867,7 @@
   <!-- Driver: Scott Tennant -->
   <url>
     <loc>https://speedwayhub.nz/drivers/scott-tennant</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -847,7 +875,7 @@
   <!-- Driver: Todd Hemingway -->
   <url>
     <loc>https://speedwayhub.nz/drivers/todd-hemingway</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -855,7 +883,7 @@
   <!-- Driver: Sam Hughes -->
   <url>
     <loc>https://speedwayhub.nz/drivers/sam-hughes</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -863,7 +891,7 @@
   <!-- Driver: Ben Morrison -->
   <url>
     <loc>https://speedwayhub.nz/drivers/ben-morrison</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -871,7 +899,7 @@
   <!-- Driver: Alec Insley -->
   <url>
     <loc>https://speedwayhub.nz/drivers/alec-insley</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -879,7 +907,7 @@
   <!-- Driver: Daniel Thomas -->
   <url>
     <loc>https://speedwayhub.nz/drivers/daniel-thomas</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -887,7 +915,7 @@
   <!-- Driver: Chris Cowling -->
   <url>
     <loc>https://speedwayhub.nz/drivers/chris-cowling</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -895,7 +923,7 @@
   <!-- Driver: Mitch Fabish -->
   <url>
     <loc>https://speedwayhub.nz/drivers/mitch-fabish</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -903,7 +931,7 @@
   <!-- Driver: Brad Mosen -->
   <url>
     <loc>https://speedwayhub.nz/drivers/brad-mosen</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -911,7 +939,7 @@
   <!-- Driver: Josh Buchanan -->
   <url>
     <loc>https://speedwayhub.nz/drivers/josh-buchanan</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -919,7 +947,7 @@
   <!-- Driver: Steve Scoles -->
   <url>
     <loc>https://speedwayhub.nz/drivers/steve-scoles</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -927,7 +955,7 @@
   <!-- Driver: Shanarrah Stronach -->
   <url>
     <loc>https://speedwayhub.nz/drivers/shanarrah-stronach</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -935,7 +963,7 @@
   <!-- Driver: Luke Fallow -->
   <url>
     <loc>https://speedwayhub.nz/drivers/luke-fallow</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -943,7 +971,7 @@
   <!-- Driver: Jacob Boulton -->
   <url>
     <loc>https://speedwayhub.nz/drivers/jacob-boulton</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -951,7 +979,7 @@
   <!-- Driver: Luke Molloy -->
   <url>
     <loc>https://speedwayhub.nz/drivers/luke-molloy</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -959,7 +987,7 @@
   <!-- Driver: Ben Jenkins -->
   <url>
     <loc>https://speedwayhub.nz/drivers/ben-jenkins</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -967,7 +995,7 @@
   <!-- Driver: Ryan Musgrove -->
   <url>
     <loc>https://speedwayhub.nz/drivers/ryan-musgrove</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -975,7 +1003,7 @@
   <!-- Driver: Daniel Burmeister -->
   <url>
     <loc>https://speedwayhub.nz/drivers/daniel-burmeister</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -983,7 +1011,7 @@
   <!-- Driver: Grant Flynn -->
   <url>
     <loc>https://speedwayhub.nz/drivers/grant-flynn</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -991,7 +1019,7 @@
   <!-- Driver: Ashleigh King -->
   <url>
     <loc>https://speedwayhub.nz/drivers/ashleigh-king</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -999,7 +1027,7 @@
   <!-- Driver: Glen McCutcheon -->
   <url>
     <loc>https://speedwayhub.nz/drivers/glen-mccutcheon</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1007,7 +1035,7 @@
   <!-- Driver: Boston Joblin -->
   <url>
     <loc>https://speedwayhub.nz/drivers/boston-joblin</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1015,7 +1043,7 @@
   <!-- Driver: Adam Evans -->
   <url>
     <loc>https://speedwayhub.nz/drivers/adam-evans</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1023,7 +1051,7 @@
   <!-- Driver: Mason Whelan -->
   <url>
     <loc>https://speedwayhub.nz/drivers/mason-whelan</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1031,7 +1059,7 @@
   <!-- Driver: Brian Ellison -->
   <url>
     <loc>https://speedwayhub.nz/drivers/brian-ellison</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1039,7 +1067,7 @@
   <!-- Driver: Olly Stephen -->
   <url>
     <loc>https://speedwayhub.nz/drivers/olly-stephen</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1047,7 +1075,7 @@
   <!-- Driver: Lucee Scott -->
   <url>
     <loc>https://speedwayhub.nz/drivers/lucee-scott</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1055,7 +1083,7 @@
   <!-- Driver: Ryder Harris -->
   <url>
     <loc>https://speedwayhub.nz/drivers/ryder-harris</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1063,7 +1091,7 @@
   <!-- Driver: Buddy Kofoid -->
   <url>
     <loc>https://speedwayhub.nz/drivers/buddy-kofoid</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1071,7 +1099,7 @@
   <!-- Driver: Frankie Wainman Jr -->
   <url>
     <loc>https://speedwayhub.nz/drivers/frankie-wainman-jr</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1079,7 +1107,7 @@
   <!-- Driver: Bradley Korff -->
   <url>
     <loc>https://speedwayhub.nz/drivers/bradley-korff</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1087,7 +1115,7 @@
   <!-- Driver: Jareb Verdoner -->
   <url>
     <loc>https://speedwayhub.nz/drivers/jareb-verdoner</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1095,7 +1123,7 @@
   <!-- Driver: Asher Rees -->
   <url>
     <loc>https://speedwayhub.nz/drivers/asher-rees</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1103,7 +1131,7 @@
   <!-- Driver: Jamie Larsen -->
   <url>
     <loc>https://speedwayhub.nz/drivers/jamie-larsen</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1111,7 +1139,7 @@
   <!-- Driver: Brad Uhlenberg -->
   <url>
     <loc>https://speedwayhub.nz/drivers/brad-uhlenberg</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1119,7 +1147,7 @@
   <!-- Driver: Aaron Hodgson -->
   <url>
     <loc>https://speedwayhub.nz/drivers/aaron-hodgson</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1127,7 +1155,7 @@
   <!-- Driver: Caleb Ireland -->
   <url>
     <loc>https://speedwayhub.nz/drivers/caleb-ireland</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1135,7 +1163,7 @@
   <!-- Driver: Sam Wright -->
   <url>
     <loc>https://speedwayhub.nz/drivers/sam-wright</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1143,7 +1171,7 @@
   <!-- Driver: Casey McEwan -->
   <url>
     <loc>https://speedwayhub.nz/drivers/casey-mcewan</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1151,7 +1179,7 @@
   <!-- Driver: Harley Robb -->
   <url>
     <loc>https://speedwayhub.nz/drivers/harley-robb</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1159,7 +1187,7 @@
   <!-- Driver: Riley Eathorne -->
   <url>
     <loc>https://speedwayhub.nz/drivers/riley-eathorne</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1167,7 +1195,7 @@
   <!-- Driver: Hayden Brookland -->
   <url>
     <loc>https://speedwayhub.nz/drivers/hayden-brookland</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1175,7 +1203,7 @@
   <!-- Team: Gisborne Giants -->
   <url>
     <loc>https://speedwayhub.nz/teams/gisborne-giants</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1183,7 +1211,7 @@
   <!-- Team: Canterbury Crushers -->
   <url>
     <loc>https://speedwayhub.nz/teams/canterbury-crushers</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1191,7 +1219,7 @@
   <!-- Team: Rotorua Rascals -->
   <url>
     <loc>https://speedwayhub.nz/teams/rotorua-rascals</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1199,7 +1227,7 @@
   <!-- Team: Canterbury Glen Eagles -->
   <url>
     <loc>https://speedwayhub.nz/teams/canterbury-glen-eagles</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1207,7 +1235,7 @@
   <!-- Team: Baypark Busters -->
   <url>
     <loc>https://speedwayhub.nz/teams/baypark-busters</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1215,7 +1243,7 @@
   <!-- Team: Stratford Stormers -->
   <url>
     <loc>https://speedwayhub.nz/teams/stratford-stormers</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1223,7 +1251,7 @@
   <!-- Team: Whanganui Vulcans -->
   <url>
     <loc>https://speedwayhub.nz/teams/whanganui-vulcans</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1231,7 +1259,7 @@
   <!-- Team: Waikato Raiders -->
   <url>
     <loc>https://speedwayhub.nz/teams/waikato-raiders</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1239,7 +1267,7 @@
   <!-- Team: Kihikihi Kings -->
   <url>
     <loc>https://speedwayhub.nz/teams/kihikihi-kings</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1247,7 +1275,7 @@
   <!-- Team: Palmerston North Pumas -->
   <url>
     <loc>https://speedwayhub.nz/teams/palmerston-north-pumas</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1255,7 +1283,7 @@
   <!-- News: crushers-stockcar-teams -->
   <url>
     <loc>https://speedwayhub.nz/news/crushers-stockcar-teams</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1263,7 +1291,7 @@
   <!-- News: cowling-third-super-saloon-crown -->
   <url>
     <loc>https://speedwayhub.nz/news/cowling-third-super-saloon-crown</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1271,7 +1299,7 @@
   <!-- News: caleb-ireland-back-to-back -->
   <url>
     <loc>https://speedwayhub.nz/news/caleb-ireland-back-to-back</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1279,7 +1307,7 @@
   <!-- News: gisborne-giants-teams -->
   <url>
     <loc>https://speedwayhub.nz/news/gisborne-giants-teams</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1287,7 +1315,7 @@
   <!-- News: hodgson-nz-midget-champs -->
   <url>
     <loc>https://speedwayhub.nz/news/hodgson-nz-midget-champs</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1295,7 +1323,7 @@
   <!-- News: ethan-rees-world-240s -->
   <url>
     <loc>https://speedwayhub.nz/news/ethan-rees-world-240s</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1303,7 +1331,7 @@
   <!-- News: brad-lane-modifier-champs -->
   <url>
     <loc>https://speedwayhub.nz/news/brad-lane-modifier-champs</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1311,7 +1339,7 @@
   <!-- News: glen-eagles-hat-trick -->
   <url>
     <loc>https://speedwayhub.nz/news/glen-eagles-hat-trick</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1319,7 +1347,7 @@
   <!-- News: waikaraka-park-reopening -->
   <url>
     <loc>https://speedwayhub.nz/news/waikaraka-park-reopening</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1327,7 +1355,7 @@
   <!-- News: ben-jenkins-tri-series -->
   <url>
     <loc>https://speedwayhub.nz/news/ben-jenkins-tri-series</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1335,7 +1363,7 @@
   <!-- News: daniel-thomas-nz-sprintcar -->
   <url>
     <loc>https://speedwayhub.nz/news/daniel-thomas-nz-sprintcar</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1343,7 +1371,7 @@
   <!-- News: 2025-2026-season-results -->
   <url>
     <loc>https://speedwayhub.nz/news/2025-2026-season-results</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1351,7 +1379,7 @@
   <!-- News: nz-speedway-intro -->
   <url>
     <loc>https://speedwayhub.nz/news/nz-speedway-intro</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1359,7 +1387,7 @@
   <!-- News: full-contact-combat -->
   <url>
     <loc>https://speedwayhub.nz/news/full-contact-combat</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1367,7 +1395,7 @@
   <!-- News: multi-million-dollar-investment -->
   <url>
     <loc>https://speedwayhub.nz/news/multi-million-dollar-investment</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1375,7 +1403,7 @@
   <!-- News: drivers-age-5-to-75 -->
   <url>
     <loc>https://speedwayhub.nz/news/drivers-age-5-to-75</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1383,7 +1411,7 @@
   <!-- News: dirt-track-gone-digital -->
   <url>
     <loc>https://speedwayhub.nz/news/dirt-track-gone-digital</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1391,9 +1419,697 @@
   <!-- News: speedwayhub-launch-preview -->
   <url>
     <loc>https://speedwayhub.nz/news/speedwayhub-launch-preview</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+
+  <!-- Business: Repco Huntly -->
+  <url>
+    <loc>https://speedwayhub.nz/business/repco-huntly</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: LinkUp BOP -->
+  <url>
+    <loc>https://speedwayhub.nz/business/linkup-bop</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Pollock Cranes -->
+  <url>
+    <loc>https://speedwayhub.nz/business/pollock-cranes</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: The Tank Guy -->
+  <url>
+    <loc>https://speedwayhub.nz/business/the-tank-guy</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Central Metals -->
+  <url>
+    <loc>https://speedwayhub.nz/business/central-metals</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Advance Joinery -->
+  <url>
+    <loc>https://speedwayhub.nz/business/advance-joinery</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Outback 4x4 -->
+  <url>
+    <loc>https://speedwayhub.nz/business/outback-4x4</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Savvy Hair Studio -->
+  <url>
+    <loc>https://speedwayhub.nz/business/savvy-hair-studio</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Vazey Engineering -->
+  <url>
+    <loc>https://speedwayhub.nz/business/vazey-engineering</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: CLR -->
+  <url>
+    <loc>https://speedwayhub.nz/business/clr-business-services</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: The Rock -->
+  <url>
+    <loc>https://speedwayhub.nz/business/the-rock-radio</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: GA Pickford Roofing -->
+  <url>
+    <loc>https://speedwayhub.nz/business/ga-pickford-roofing</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: 180 Photography -->
+  <url>
+    <loc>https://speedwayhub.nz/business/180-photography</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Addis -->
+  <url>
+    <loc>https://speedwayhub.nz/business/addis</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: McDonald's -->
+  <url>
+    <loc>https://speedwayhub.nz/business/mcdonalds</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Waipa Hire -->
+  <url>
+    <loc>https://speedwayhub.nz/business/waipa-hire</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Edwards Engineering -->
+  <url>
+    <loc>https://speedwayhub.nz/business/edwards-engineering</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Placemakers -->
+  <url>
+    <loc>https://speedwayhub.nz/business/placemakers</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Pitbull Photography -->
+  <url>
+    <loc>https://speedwayhub.nz/business/pitbull-photography</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Engage Digital -->
+  <url>
+    <loc>https://speedwayhub.nz/business/engage-digital</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: AFC Motorcycles -->
+  <url>
+    <loc>https://speedwayhub.nz/business/afc-motorcycles</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Auto Interiors -->
+  <url>
+    <loc>https://speedwayhub.nz/business/auto-interiors</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Big Barrel -->
+  <url>
+    <loc>https://speedwayhub.nz/business/big-barrel</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: CEG Motors & Pumps -->
+  <url>
+    <loc>https://speedwayhub.nz/business/ceg-motors-and-pumps</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Central Energy Trust Arena -->
+  <url>
+    <loc>https://speedwayhub.nz/business/central-energy-trust-arena</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Christies -->
+  <url>
+    <loc>https://speedwayhub.nz/business/christies</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Copthorne Hotel Palmerston North -->
+  <url>
+    <loc>https://speedwayhub.nz/business/copthorne-hotel-palmerston-north</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: D.M.R Metal Recyclers -->
+  <url>
+    <loc>https://speedwayhub.nz/business/dmr-metal-recyclers</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Fast Lane Spares -->
+  <url>
+    <loc>https://speedwayhub.nz/business/fast-lane-spares</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Hell Pizza -->
+  <url>
+    <loc>https://speedwayhub.nz/business/hell-pizza</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Jack Links -->
+  <url>
+    <loc>https://speedwayhub.nz/business/jack-links</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Lucas Oil NZ -->
+  <url>
+    <loc>https://speedwayhub.nz/business/lucas-oil-nz</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Machinery Specialists -->
+  <url>
+    <loc>https://speedwayhub.nz/business/machinery-specialists</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Manawatu Nissan -->
+  <url>
+    <loc>https://speedwayhub.nz/business/manawatu-nissan</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Mike Murphy Auto Electrical -->
+  <url>
+    <loc>https://speedwayhub.nz/business/mike-murphy-auto-electrical</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: More FM 92.2 -->
+  <url>
+    <loc>https://speedwayhub.nz/business/more-fm-922</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Motor Machinists -->
+  <url>
+    <loc>https://speedwayhub.nz/business/motor-machinists</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: OfficeDNA -->
+  <url>
+    <loc>https://speedwayhub.nz/business/office-dna</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Palmerston North PartsWorld -->
+  <url>
+    <loc>https://speedwayhub.nz/business/palmerston-north-partsworld</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Palmfield Motors -->
+  <url>
+    <loc>https://speedwayhub.nz/business/palmfield-motors</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Regent Motors -->
+  <url>
+    <loc>https://speedwayhub.nz/business/regent-motors</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Robertson Prestige -->
+  <url>
+    <loc>https://speedwayhub.nz/business/robertson-prestige</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Total Sheetmetals -->
+  <url>
+    <loc>https://speedwayhub.nz/business/total-sheetmetals</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: TransAg Centre -->
+  <url>
+    <loc>https://speedwayhub.nz/business/transag-centre</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Travel Managers (Margaret Scott) -->
+  <url>
+    <loc>https://speedwayhub.nz/business/travel-managers-margaret-scott</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Muz Creative -->
+  <url>
+    <loc>https://speedwayhub.nz/business/muz-creative</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Koken Tools -->
+  <url>
+    <loc>https://speedwayhub.nz/business/koken-tools</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Suck It Up -->
+  <url>
+    <loc>https://speedwayhub.nz/business/suck-it-up</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Big Boy Digital Marketing -->
+  <url>
+    <loc>https://speedwayhub.nz/business/big-boy-digital-marketing</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Advanced Automotive -->
+  <url>
+    <loc>https://speedwayhub.nz/business/advanced-automotive</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Rees Race Cars -->
+  <url>
+    <loc>https://speedwayhub.nz/business/rees-race-cars</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Aotea Electric -->
+  <url>
+    <loc>https://speedwayhub.nz/business/aotea-electric</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Back 9 Creative Studio -->
+  <url>
+    <loc>https://speedwayhub.nz/business/back-9-creative-studio</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Brian FM Marlborough -->
+  <url>
+    <loc>https://speedwayhub.nz/business/brian-fm-marlborough</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Marlborough Weekly -->
+  <url>
+    <loc>https://speedwayhub.nz/business/marlborough-weekly</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Valk Designs -->
+  <url>
+    <loc>https://speedwayhub.nz/business/valk-designs</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: MTF Finance Blenheim -->
+  <url>
+    <loc>https://speedwayhub.nz/business/mtf-finance-blenheim</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Picton Manufacturing -->
+  <url>
+    <loc>https://speedwayhub.nz/business/picton-manufacturing</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Tyre General -->
+  <url>
+    <loc>https://speedwayhub.nz/business/tyre-general</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Renwick Meats -->
+  <url>
+    <loc>https://speedwayhub.nz/business/renwick-meats</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Fulton Hogan -->
+  <url>
+    <loc>https://speedwayhub.nz/business/fulton-hogan</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: MVIP -->
+  <url>
+    <loc>https://speedwayhub.nz/business/mvip</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: HR Installation Services -->
+  <url>
+    <loc>https://speedwayhub.nz/business/hr-installation-services</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Richard Bateman Motors -->
+  <url>
+    <loc>https://speedwayhub.nz/business/richard-bateman-motors</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Multidig Services -->
+  <url>
+    <loc>https://speedwayhub.nz/business/multidig-services</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Bridgestone Tyres -->
+  <url>
+    <loc>https://speedwayhub.nz/business/bridgestone-tyres</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Crafar Crouch Construction -->
+  <url>
+    <loc>https://speedwayhub.nz/business/crafar-crouch-construction</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Ultraquip -->
+  <url>
+    <loc>https://speedwayhub.nz/business/ultraquip</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: MD Freighting -->
+  <url>
+    <loc>https://speedwayhub.nz/business/md-freighting</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Woodbourne Tavern -->
+  <url>
+    <loc>https://speedwayhub.nz/business/woodbourne-tavern</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Greer Vineyard Services -->
+  <url>
+    <loc>https://speedwayhub.nz/business/greer-vineyard-services</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: The Blue Door -->
+  <url>
+    <loc>https://speedwayhub.nz/business/the-blue-door</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Willpower Electrical -->
+  <url>
+    <loc>https://speedwayhub.nz/business/willpower-electrical</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Allied Concrete -->
+  <url>
+    <loc>https://speedwayhub.nz/business/allied-concrete</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Martin Motors -->
+  <url>
+    <loc>https://speedwayhub.nz/business/martin-motors</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Radiator Services NZ -->
+  <url>
+    <loc>https://speedwayhub.nz/business/radiator-services-nz</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Blenheim Accounting -->
+  <url>
+    <loc>https://speedwayhub.nz/business/blenheim-accounting</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Bings Motel -->
+  <url>
+    <loc>https://speedwayhub.nz/business/bings-motel</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Hirepool -->
+  <url>
+    <loc>https://speedwayhub.nz/business/hirepool</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Contour -->
+  <url>
+    <loc>https://speedwayhub.nz/business/contour-services</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Pelorus Trust -->
+  <url>
+    <loc>https://speedwayhub.nz/business/pelorus-trust</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Porter Equipment -->
+  <url>
+    <loc>https://speedwayhub.nz/business/porter-equipment</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Totalspan -->
+  <url>
+    <loc>https://speedwayhub.nz/business/totalspan</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: Lion Foundation -->
+  <url>
+    <loc>https://speedwayhub.nz/business/lion-foundation</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: A1 Dry Cleaning -->
+  <url>
+    <loc>https://speedwayhub.nz/business/a1-dry-cleaning</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Business: KS Callanan -->
+  <url>
+    <loc>https://speedwayhub.nz/business/ks-callanan</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 
 </urlset>

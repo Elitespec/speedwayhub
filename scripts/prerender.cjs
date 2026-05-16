@@ -16,7 +16,7 @@ const puppeteer = require('puppeteer-core')
 const DIST_DIR = path.resolve(__dirname, '..', 'dist')
 const DATA_DIR = path.resolve(__dirname, '..', 'src', 'data')
 const NEWS_DIR = path.resolve(__dirname, '..', 'src', 'news')
-const PORT = 4173
+const PORT = 4199
 const BASE_URL = `http://localhost:${PORT}`
 
 // Find Chrome executable
@@ -48,7 +48,10 @@ function getAllRoutes() {
     '/live-timing',
     '/submit',
     '/sponsors',
+    '/suppliers',
+    '/advertise',
     '/results',
+    '/calendar',
     '/drivers/create',
   ]
 
@@ -81,6 +84,7 @@ function getAllRoutes() {
   const newsFiles = fs.readdirSync(NEWS_DIR).filter(f => f.endsWith('.md') && !f.includes('sample'))
   // Map filenames to slugs (same pattern used in newsIndex.ts)
   const newsSlugs = [
+    'beachlands-speedway-tragedy',
     'crushers-stockcar-teams',
     'cowling-third-super-saloon-crown',
     'caleb-ireland-back-to-back',
@@ -102,6 +106,12 @@ function getAllRoutes() {
   ]
   for (const slug of newsSlugs) {
     routes.push(`/news/${slug}`)
+  }
+
+  // Business pages (suppliers + sponsors)
+  const businesses = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'businesses.json'), 'utf-8'))
+  for (const business of businesses) {
+    if (business.slug) routes.push(`/business/${business.slug}`)
   }
 
   return routes

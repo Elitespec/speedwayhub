@@ -1,33 +1,31 @@
 import React from 'react'
-import { sponsors, SPONSOR_CATEGORY_LABELS } from '../businessesStore'
+import { suppliers, SUPPLIER_CATEGORY_LABELS } from '../businessesStore'
 import { BusinessCard } from '../components/BusinessCard'
 import { SEO } from '../components/SEO'
-import type { SponsorCategory } from '../types'
+import type { SupplierCategory } from '../types'
 
-const CATEGORY_KEYS = Object.keys(SPONSOR_CATEGORY_LABELS) as SponsorCategory[]
+const CATEGORY_KEYS = Object.keys(SUPPLIER_CATEGORY_LABELS) as SupplierCategory[]
 
-export const Sponsors: React.FC = () => {
+export const Suppliers: React.FC = () => {
   const [q, setQ] = React.useState('')
-  const [cat, setCat] = React.useState<'All' | SponsorCategory>('All')
-  const [island, setIsland] = React.useState<'All' | 'North' | 'South'>('All')
+  const [cat, setCat] = React.useState<'All' | SupplierCategory>('All')
 
   const filtered = React.useMemo(() => {
-    return sponsors.filter((b) => {
-      if (cat !== 'All' && !(b.sponsorCategories || []).includes(cat)) return false
-      if (island !== 'All' && b.island && b.island !== island) return false
+    return suppliers.filter((b) => {
+      if (cat !== 'All' && !(b.supplierCategories || []).includes(cat)) return false
       if (q.trim().length > 0) {
         const s = q.toLowerCase()
-        const hay = `${b.name} ${b.town || ''} ${b.region || ''} ${(b.sponsorCategories || []).join(' ')}`.toLowerCase()
+        const hay = `${b.name} ${b.town || ''} ${b.region || ''} ${(b.supplierCategories || []).join(' ')}`.toLowerCase()
         if (!hay.includes(s)) return false
       }
       return true
     })
-  }, [cat, island, q])
+  }, [cat, q])
 
   const grouped = React.useMemo(() => {
-    const map = new Map<SponsorCategory, typeof sponsors>()
+    const map = new Map<SupplierCategory, typeof suppliers>()
     for (const b of filtered) {
-      for (const c of b.sponsorCategories || []) {
+      for (const c of b.supplierCategories || []) {
         if (!map.has(c)) map.set(c, [])
         map.get(c)!.push(b)
       }
@@ -38,27 +36,26 @@ export const Sponsors: React.FC = () => {
   return (
     <>
       <SEO
-        title="NZ Speedway Sponsors Directory"
-        description={`${sponsors.length} businesses backing NZ speedway. The community of sponsors keeping drivers, teams, tracks and events on the dirt. Free directory for fans.`}
-        path="/sponsors"
+        title="NZ Speedway Suppliers Directory"
+        description={`Find ${suppliers.length} businesses supplying the NZ speedway scene: engine builders, fabricators, fuel, parts, race wear, photographers and more. Free directory for fans and competitors.`}
+        path="/suppliers"
       />
       <main className="mx-auto max-w-6xl space-y-4 px-4 py-6">
         <header className="space-y-1">
           <p className="text-[11px] uppercase tracking-[0.25em] text-slate-400">Directory</p>
-          <h1 className="text-xl font-semibold md:text-2xl">NZ Speedway Sponsors</h1>
+          <h1 className="text-xl font-semibold md:text-2xl">NZ Speedway Suppliers</h1>
           <p className="text-sm text-slate-300">
-            The local businesses, trades, retailers and brands backing NZ speedway. Drivers stay free.
-            Tracks stay free. Sponsors get the spotlight.
+            Engine builders, fabricators, fuel, parts, race wear, photographers and the rest of the supply chain that keeps the cars on the track.
           </p>
         </header>
 
-        <section className="card grid gap-3 md:grid-cols-4">
+        <section className="card grid gap-3 md:grid-cols-3">
           <label className="flex flex-col gap-1 text-xs uppercase tracking-[0.18em] text-slate-300">
             Search
             <input
               value={q}
               onChange={(e) => setQ(e.target.value)}
-              placeholder="Sponsor, town, category..."
+              placeholder="Business name, town, category..."
               className="rounded-md border border-slate-700 bg-slate-900 px-3 py-2 text-sm text-white"
             />
           </label>
@@ -66,40 +63,28 @@ export const Sponsors: React.FC = () => {
             Category
             <select
               value={cat}
-              onChange={(e) => setCat(e.target.value as 'All' | SponsorCategory)}
+              onChange={(e) => setCat(e.target.value as 'All' | SupplierCategory)}
               className="rounded-md border border-slate-700 bg-slate-900 px-3 py-2 text-sm text-white"
             >
               <option value="All">All categories</option>
               {CATEGORY_KEYS.map((k) => (
                 <option key={k} value={k}>
-                  {SPONSOR_CATEGORY_LABELS[k]}
+                  {SUPPLIER_CATEGORY_LABELS[k]}
                 </option>
               ))}
             </select>
           </label>
-          <label className="flex flex-col gap-1 text-xs uppercase tracking-[0.18em] text-slate-300">
-            Island
-            <select
-              value={island}
-              onChange={(e) => setIsland(e.target.value as 'All' | 'North' | 'South')}
-              className="rounded-md border border-slate-700 bg-slate-900 px-3 py-2 text-sm text-white"
-            >
-              <option>All</option>
-              <option>North</option>
-              <option>South</option>
-            </select>
-          </label>
           <div className="flex items-end">
             <p className="text-xs text-slate-400">
-              {filtered.length} {filtered.length === 1 ? 'sponsor' : 'sponsors'}
-              {sponsors.length !== filtered.length && ` of ${sponsors.length}`}
+              {filtered.length} {filtered.length === 1 ? 'supplier' : 'suppliers'}
+              {suppliers.length !== filtered.length && ` of ${suppliers.length}`}
             </p>
           </div>
         </section>
 
         {filtered.length === 0 ? (
           <div className="card text-sm text-slate-300">
-            No sponsors match. Try clearing filters, or{' '}
+            No suppliers match. Try clearing filters, or{' '}
             <a href="/submit" className="text-hub-red underline">add your business</a>.
           </div>
         ) : cat === 'All' ? (
@@ -110,12 +95,12 @@ export const Sponsors: React.FC = () => {
               return (
                 <section key={c} className="space-y-3">
                   <h2 className="text-base font-semibold text-white">
-                    {SPONSOR_CATEGORY_LABELS[c]}{' '}
+                    {SUPPLIER_CATEGORY_LABELS[c]}{' '}
                     <span className="text-xs font-normal text-slate-400">({items.length})</span>
                   </h2>
                   <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
                     {items.map((b) => (
-                      <BusinessCard key={b.id} business={b} emphasiseRole="sponsor" />
+                      <BusinessCard key={b.id} business={b} emphasiseRole="supplier" />
                     ))}
                   </div>
                 </section>
@@ -125,16 +110,15 @@ export const Sponsors: React.FC = () => {
         ) : (
           <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
             {filtered.map((b) => (
-              <BusinessCard key={b.id} business={b} emphasiseRole="sponsor" />
+              <BusinessCard key={b.id} business={b} emphasiseRole="supplier" />
             ))}
           </div>
         )}
 
         <section className="card mt-8 space-y-2 text-sm text-slate-300">
-          <h2 className="text-base font-semibold text-white">Sponsor NZ speedway?</h2>
+          <h2 className="text-base font-semibold text-white">Supply NZ speedway?</h2>
           <p>
-            We auto-list sponsors we find on track sites and Facebook pages. Don&rsquo;t see your
-            business, or want to claim and enrich your listing?
+            We auto-list businesses we find supplying the sport. Don&rsquo;t see yourself, or want to claim your listing?
           </p>
           <div className="flex flex-wrap gap-3 pt-1">
             <a href="/submit" className="rounded-full bg-hub-red px-4 py-2 text-xs font-semibold text-black hover:brightness-110">

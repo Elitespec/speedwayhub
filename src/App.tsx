@@ -20,6 +20,10 @@ import { TeamPage } from './pages/TeamPage'
 import { About } from './pages/About'
 import { FAQ } from './pages/FAQ'
 import { Results } from './pages/Results'
+import { Calendar } from './pages/Calendar'
+import { Suppliers } from './pages/Suppliers'
+import { Advertise } from './pages/Advertise'
+import { BusinessPage } from './pages/BusinessPage'
 
 const getRoute = () => {
   const path = window.location.pathname
@@ -43,9 +47,14 @@ const getRoute = () => {
   if (segments[0] === 'classes') return { page: 'classes' as const }
   if (segments[0] === 'submit') return { page: 'submit' as const }
   if (segments[0] === 'sponsors') return { page: 'sponsors' as const }
+  if (segments[0] === 'suppliers') return { page: 'suppliers' as const }
+  if (segments[0] === 'advertise') return { page: 'advertise' as const }
+  if (segments[0] === 'business' && segments.length === 2)
+    return { page: 'business', slug: segments[1] as string }
   if (segments[0] === 'news' && segments.length === 1) return { page: 'news' as const }
   if (segments[0] === 'news' && segments.length === 2)
     return { page: 'newsPost', slug: segments[1] as string }
+  if (segments[0] === 'calendar') return { page: 'calendar' as const }
   if (segments[0] === 'results') return { page: 'results' as const }
   if (segments[0] === 'about') return { page: 'about' as const }
   if (segments[0] === 'faq') return { page: 'faq' as const }
@@ -115,6 +124,18 @@ export default function App() {
       break
     case 'sponsors':
       content = <Sponsors />
+      break
+    case 'suppliers':
+      content = <Suppliers />
+      break
+    case 'advertise':
+      content = <Advertise />
+      break
+    case 'business':
+      content = <BusinessPage slug={route.slug!} />
+      break
+    case 'calendar':
+      content = <Calendar />
       break
     case 'results':
       content = <Results />

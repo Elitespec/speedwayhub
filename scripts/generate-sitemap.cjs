@@ -6,6 +6,7 @@ const tracks = require('../src/data/tracks.json')
 const events = require('../src/data/events.json')
 const drivers = require('../src/data/drivers.json')
 const teams = require('../src/data/teams.json')
+const businesses = require('../src/data/businesses.json')
 
 const baseUrl = 'https://speedwayhub.nz'
 const today = new Date().toISOString().split('T')[0]
@@ -75,10 +76,38 @@ let sitemap = `<?xml version="1.0" encoding="UTF-8"?>
   </url>
 
   <url>
+    <loc>${baseUrl}/calendar</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
     <loc>${baseUrl}/classes</loc>
     <lastmod>${today}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>${baseUrl}/sponsors</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>${baseUrl}/suppliers</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>${baseUrl}/advertise</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
 `
@@ -174,6 +203,21 @@ newsSlugs.forEach((slug) => {
 `
 })
 
+// Add all business (supplier + sponsor) pages
+businesses.forEach((business) => {
+  if (business.slug) {
+    sitemap += `  <!-- Business: ${business.name} -->
+  <url>
+    <loc>${baseUrl}/business/${business.slug}</loc>
+    <lastmod>${business.addedAt || today}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+`
+  }
+})
+
 sitemap += `</urlset>`
 
 // Write sitemap
@@ -182,4 +226,5 @@ fs.writeFileSync(path.join(publicDir, 'sitemap.xml'), sitemap)
 console.log('✓ Sitemap generated at public/sitemap.xml')
 const driverCount = drivers.filter(d => d.slug).length
 const teamCount = teams.filter(t => t.slug).length
-console.log(`✓ Total URLs: ${tracks.length + events.length + driverCount + teamCount + newsSlugs.length + 8}`)
+const businessCount = businesses.filter(b => b.slug).length
+console.log(`✓ Total URLs: ${tracks.length + events.length + driverCount + teamCount + newsSlugs.length + businessCount + 11}`)

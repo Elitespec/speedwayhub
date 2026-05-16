@@ -44,12 +44,15 @@ export const Header: React.FC = () => {
           {/* Desktop Navigation */}
           <nav className="hidden lg:flex items-center gap-6">
             <NavLink href="/tracks" label="Tracks" />
+            <NavLink href="/calendar" label="Calendar" />
             <NavLink href="/events" label="Events" />
             <NavLink href="/results" label="Results" />
             <NavLink href="/live-timing" label="Live" />
             <NavLink href="/drivers" label="Drivers" />
             <NavLink href="/teams" label="Teams" />
             <NavLink href="/news" label="News" />
+            <NavLink href="/sponsors" label="Sponsors" />
+            <NavLink href="/suppliers" label="Suppliers" />
             <a
               href="https://www.facebook.com/profile.php?id=61582865643058"
               target="_blank"
@@ -88,6 +91,7 @@ export const Header: React.FC = () => {
           <nav className="lg:hidden border-t border-slate-800 bg-slate-950">
             <div className="flex flex-col px-4 py-4">
               <a href="/tracks" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Tracks</a>
+              <a href="/calendar" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Calendar</a>
               <a href="/events" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Events</a>
               <a href="/results" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Results</a>
               <a href="/live-timing" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Live Timing</a>
@@ -95,6 +99,8 @@ export const Header: React.FC = () => {
               <a href="/teams" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Teams</a>
               <a href="/classes" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Classes</a>
               <a href="/news" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">News</a>
+              <a href="/sponsors" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Sponsors</a>
+              <a href="/suppliers" onClick={() => setMobileMenuOpen(false)} className="py-3 text-base text-slate-200 border-b border-slate-800">Suppliers</a>
               <a
                 href="/submit"
                 onClick={() => setMobileMenuOpen(false)}
