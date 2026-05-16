@@ -2,6 +2,14 @@ import React from 'react'
 import type { Business } from '../types'
 import { SPONSOR_CATEGORY_LABELS, SUPPLIER_CATEGORY_LABELS } from '../businessesStore'
 
+function isRecent(isoDate?: string): boolean {
+  if (!isoDate) return false
+  const added = new Date(isoDate + 'T00:00:00')
+  const now = new Date()
+  const diffDays = (now.getTime() - added.getTime()) / (1000 * 60 * 60 * 24)
+  return diffDays >= 0 && diffDays <= 7
+}
+
 export const BusinessCard: React.FC<{ business: Business; emphasiseRole?: 'supplier' | 'sponsor' }> = ({
   business,
   emphasiseRole,
@@ -15,18 +23,27 @@ export const BusinessCard: React.FC<{ business: Business; emphasiseRole?: 'suppl
           ...(business.sponsorCategories || []).map((c) => SPONSOR_CATEGORY_LABELS[c]),
         ]
 
+  const isNew = isRecent(business.addedAt)
+
   return (
     <a
       href={`/business/${business.slug}`}
       className="group flex h-full flex-col gap-2 rounded-2xl border border-slate-800 bg-slate-900 p-4 transition-colors hover:border-hub-red"
     >
-      <div className="flex items-start justify-between gap-3">
+      <div className="flex items-start justify-between gap-2">
         <h3 className="text-base font-semibold text-white group-hover:text-hub-red">{business.name}</h3>
-        {!business.claimed && (
-          <span className="rounded-full border border-slate-700 px-2 py-0.5 text-[10px] uppercase tracking-[0.18em] text-slate-400">
-            Unclaimed
-          </span>
-        )}
+        <div className="flex shrink-0 flex-col items-end gap-1">
+          {isNew && (
+            <span className="rounded-full bg-hub-red px-2 py-0.5 text-[10px] font-semibold uppercase tracking-[0.18em] text-black">
+              New
+            </span>
+          )}
+          {!business.claimed && (
+            <span className="rounded-full border border-slate-700 px-2 py-0.5 text-[10px] uppercase tracking-[0.18em] text-slate-400">
+              Unclaimed
+            </span>
+          )}
+        </div>
       </div>
       {(business.town || business.region) && (
         <p className="text-xs text-slate-400">

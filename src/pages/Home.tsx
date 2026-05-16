@@ -1,6 +1,7 @@
 import React from 'react'
 import { events } from '../eventsStore'
 import { tracks } from '../tracksStore'
+import { businesses, suppliers, sponsors } from '../businessesStore'
 import { newsPosts } from '../newsIndex'
 import { EventCard } from '../components/EventCard'
 import { PhotoHero } from '../components/PhotoHero'
@@ -153,23 +154,22 @@ export const Home: React.FC = () => {
           </a>
         </section>
 
-        {/* Uncomment and add your YouTube or Facebook video IDs below */}
-        {/* <VideoSection
-        videos={[
-          {
-            type: 'youtube',
-            videoId: 'YOUR_VIDEO_ID_HERE',
-            title: 'NZ Sprintcar Racing Highlights',
-            description: 'Experience the intensity of New Zealand sprintcar racing'
-          },
-          {
-            type: 'youtube',
-            videoId: 'YOUR_VIDEO_ID_HERE',
-            title: 'NZ Stockcar Action',
-            description: 'Full-contact stockcar racing at its finest'
-          }
-        ]}
-      /> */}
+        <VideoSection
+          videos={[
+            {
+              type: 'youtube',
+              videoId: 'ZESlE54KlGg',
+              title: 'NZ Midget GP + 248 Superstock Global Challenge',
+              description: 'Full contact carnage at Robertson Prestige International Speedway'
+            },
+            {
+              type: 'youtube',
+              videoId: 'VEwZBifc3cs',
+              title: '2026 NZ Superstock Championship Highlights',
+              description: 'Wellington Family Speedway hosts the biggest event in NZ speedway'
+            }
+          ]}
+        />
 
         {/* AdSense - Mid-page Banner */}
         <AdSenseHorizontal slot="7159506882" className="my-4" />
@@ -282,6 +282,44 @@ export const Home: React.FC = () => {
             <div className="rounded-xl overflow-hidden border border-slate-800 shadow-2xl">
               <FacebookEmbed url="https://www.facebook.com/profile.php?id=61582865643058" />
             </div>
+          </div>
+        </section>
+
+        {/* Directory teaser - sponsors + suppliers */}
+        <section className="rounded-2xl border border-slate-800 bg-gradient-to-br from-slate-900 to-slate-950 p-6 shadow-card">
+          <div className="flex flex-wrap items-start justify-between gap-3">
+            <div>
+              <p className="text-[11px] uppercase tracking-[0.25em] text-slate-400">Directory</p>
+              <h2 className="text-xl font-bold text-white">
+                {businesses.length} NZ businesses powering the sport
+              </h2>
+              <p className="mt-1 text-sm text-slate-300">
+                Local sponsors backing drivers, teams and tracks. Suppliers keeping the cars on the dirt.
+                Free to browse, free to claim, free for fans.
+              </p>
+            </div>
+          </div>
+          <div className="mt-4 grid gap-3 sm:grid-cols-2">
+            <a
+              href="/sponsors"
+              className="group flex items-center justify-between rounded-xl border border-slate-800 bg-slate-900 p-4 hover:border-hub-red"
+            >
+              <div>
+                <p className="text-base font-semibold text-white group-hover:text-hub-red">Sponsors</p>
+                <p className="text-xs text-slate-400">{sponsors.length} backing the racing</p>
+              </div>
+              <span className="text-2xl text-hub-red">→</span>
+            </a>
+            <a
+              href="/suppliers"
+              className="group flex items-center justify-between rounded-xl border border-slate-800 bg-slate-900 p-4 hover:border-hub-red"
+            >
+              <div>
+                <p className="text-base font-semibold text-white group-hover:text-hub-red">Suppliers</p>
+                <p className="text-xs text-slate-400">{suppliers.length} keeping the cars running</p>
+              </div>
+              <span className="text-2xl text-hub-red">→</span>
+            </a>
           </div>
         </section>
 

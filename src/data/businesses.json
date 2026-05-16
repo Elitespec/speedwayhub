@@ -1,88 +1,2131 @@
 [
-  { "id": 1, "slug": "repco-huntly", "name": "Repco Huntly", "roles": ["sponsor", "supplier"], "sponsorCategories": ["automotive-retail"], "supplierCategories": ["parts"], "town": "Huntly", "region": "Waikato", "island": "North", "website": "https://www.repco.co.nz/store/Repco_Huntly", "activeAtTracks": ["huntly"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 2, "slug": "linkup-bop", "name": "LinkUp BOP", "roles": ["sponsor"], "sponsorCategories": ["professional-services"], "region": "Bay of Plenty", "island": "North", "website": "https://www.linkupbop.co.nz/", "activeAtTracks": ["huntly"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 3, "slug": "pollock-cranes", "name": "Pollock Cranes", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["transport"], "website": "https://pollockcranes.co.nz/", "activeAtTracks": ["huntly"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 4, "slug": "the-tank-guy", "name": "The Tank Guy", "roles": ["sponsor", "supplier"], "sponsorCategories": ["fuel-and-energy"], "supplierCategories": ["fuel-and-lubes"], "website": "https://thetankguy.co.nz/", "activeAtTracks": ["huntly"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 5, "slug": "central-metals", "name": "Central Metals", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["fabricators"], "website": "https://www.centralmetals.co.nz/", "activeAtTracks": ["huntly"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 6, "slug": "advance-joinery", "name": "Advance Joinery", "roles": ["sponsor"], "sponsorCategories": ["trades-and-construction"], "facebook": "https://www.facebook.com/advancejoinery2015/", "activeAtTracks": ["huntly"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 7, "slug": "outback-4x4", "name": "Outback 4x4", "roles": ["sponsor", "supplier"], "sponsorCategories": ["automotive-retail"], "supplierCategories": ["parts"], "website": "https://www.outback4x4.co.nz/", "activeAtTracks": ["huntly"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 8, "slug": "savvy-hair-studio", "name": "Savvy Hair Studio", "roles": ["sponsor"], "sponsorCategories": ["retail"], "facebook": "https://www.facebook.com/Savvyhairstudio/", "activeAtTracks": ["huntly"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 9, "slug": "vazey-engineering", "name": "Vazey Engineering", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["fabricators", "engine-builders"], "website": "https://www.vazeyengineering.co.nz/", "activeAtTracks": ["huntly"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 10, "slug": "clr-business-services", "name": "CLR", "roles": ["sponsor"], "sponsorCategories": ["professional-services"], "website": "https://www.clr.net.nz/", "activeAtTracks": ["huntly"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 11, "slug": "the-rock-radio", "name": "The Rock", "roles": ["sponsor"], "sponsorCategories": ["media-and-marketing"], "website": "https://www.rova.nz/radio/the-rock", "activeAtTracks": ["huntly", "woodford", "pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 12, "slug": "ga-pickford-roofing", "name": "GA Pickford Roofing", "roles": ["sponsor"], "sponsorCategories": ["trades-and-construction"], "website": "https://gapickfordroofing.co.nz/", "activeAtTracks": ["huntly"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 13, "slug": "180-photography", "name": "180 Photography", "roles": ["sponsor", "supplier"], "sponsorCategories": ["media-and-marketing"], "supplierCategories": ["photographers"], "website": "https://180photography.co.nz/", "activeAtTracks": ["huntly"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 14, "slug": "addis", "name": "Addis", "roles": ["sponsor"], "sponsorCategories": ["retail"], "website": "https://www.addis.co.nz/", "activeAtTracks": ["huntly"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 15, "slug": "mcdonalds", "name": "McDonald's", "roles": ["sponsor"], "sponsorCategories": ["hospitality"], "website": "https://mcdonalds.co.nz/", "activeAtTracks": ["kihikihi"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 16, "slug": "waipa-hire", "name": "Waipa Hire", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["other"], "town": "Te Awamutu", "region": "Waikato", "island": "North", "website": "https://waipahire.co.nz/", "activeAtTracks": ["kihikihi"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 17, "slug": "edwards-engineering", "name": "Edwards Engineering", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["fabricators", "engine-builders"], "website": "https://www.edwardsengineering.co.nz/", "activeAtTracks": ["kihikihi"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 18, "slug": "placemakers", "name": "Placemakers", "roles": ["sponsor"], "sponsorCategories": ["trades-and-construction"], "website": "https://www.placemakers.co.nz/", "activeAtTracks": ["kihikihi"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 19, "slug": "pitbull-photography", "name": "Pitbull Photography", "roles": ["sponsor", "supplier"], "sponsorCategories": ["media-and-marketing"], "supplierCategories": ["photographers"], "facebook": "https://www.facebook.com/pittypics/", "activeAtTracks": ["baypark"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 20, "slug": "engage-digital", "name": "Engage Digital", "roles": ["sponsor"], "sponsorCategories": ["media-and-marketing"], "website": "https://engagedigital.co.nz/", "activeAtTracks": ["baypark"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 21, "slug": "afc-motorcycles", "name": "AFC Motorcycles", "roles": ["sponsor", "supplier"], "sponsorCategories": ["automotive-retail"], "supplierCategories": ["parts"], "website": "https://afc.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 22, "slug": "auto-interiors", "name": "Auto Interiors", "roles": ["sponsor", "supplier"], "sponsorCategories": ["automotive-retail"], "supplierCategories": ["other"], "website": "https://www.autointeriors.net.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 23, "slug": "big-barrel", "name": "Big Barrel", "roles": ["sponsor"], "sponsorCategories": ["retail"], "website": "https://www.bigbarrel.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 24, "slug": "ceg-motors-and-pumps", "name": "CEG Motors & Pumps", "roles": ["sponsor", "supplier"], "sponsorCategories": ["automotive-retail"], "supplierCategories": ["engine-builders"], "website": "http://www.ceg.co", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 25, "slug": "central-energy-trust-arena", "name": "Central Energy Trust Arena", "roles": ["sponsor"], "sponsorCategories": ["hospitality"], "town": "Palmerston North", "region": "Manawatu", "island": "North", "website": "https://venuespn.co.nz/central-energy-trust-arena", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 26, "slug": "christies", "name": "Christies", "roles": ["sponsor"], "sponsorCategories": ["retail"], "website": "https://www.christies.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 27, "slug": "copthorne-hotel-palmerston-north", "name": "Copthorne Hotel Palmerston North", "roles": ["sponsor"], "sponsorCategories": ["hospitality"], "town": "Palmerston North", "region": "Manawatu", "island": "North", "website": "https://www.millenniumhotels.com/en/palmerston-north/copthorne-hotel-palmerston-north", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 28, "slug": "dmr-metal-recyclers", "name": "D.M.R Metal Recyclers", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["other"], "facebook": "https://www.facebook.com/DMR-LTD-Scrapmetal-1136253239853617", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 29, "slug": "fast-lane-spares", "name": "Fast Lane Spares", "roles": ["sponsor", "supplier"], "sponsorCategories": ["automotive-retail"], "supplierCategories": ["parts"], "website": "https://fastlanespares.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 30, "slug": "hell-pizza", "name": "Hell Pizza", "roles": ["sponsor"], "sponsorCategories": ["hospitality"], "website": "https://hellpizza.com", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 31, "slug": "jack-links", "name": "Jack Links", "roles": ["sponsor"], "sponsorCategories": ["retail"], "website": "https://jacklinks.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 32, "slug": "lucas-oil-nz", "name": "Lucas Oil NZ", "roles": ["sponsor", "supplier"], "sponsorCategories": ["fuel-and-energy"], "supplierCategories": ["fuel-and-lubes"], "facebook": "https://www.facebook.com/lucasoilnz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 33, "slug": "machinery-specialists", "name": "Machinery Specialists", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["fabricators"], "website": "https://machineryspecialists.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 34, "slug": "manawatu-nissan", "name": "Manawatu Nissan", "roles": ["sponsor"], "sponsorCategories": ["automotive-retail"], "town": "Palmerston North", "region": "Manawatu", "island": "North", "website": "https://www.manawatunissan.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 35, "slug": "mike-murphy-auto-electrical", "name": "Mike Murphy Auto Electrical", "roles": ["sponsor", "supplier"], "sponsorCategories": ["automotive-retail"], "supplierCategories": ["electronics-and-comms"], "website": "http://www.mikemurphy.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 36, "slug": "more-fm-922", "name": "More FM 92.2", "roles": ["sponsor"], "sponsorCategories": ["media-and-marketing"], "website": "https://www.morefm.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 37, "slug": "motor-machinists", "name": "Motor Machinists", "roles": ["sponsor", "supplier"], "sponsorCategories": ["automotive-retail"], "supplierCategories": ["engine-builders"], "website": "http://www.motormachinists.com", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 38, "slug": "office-dna", "name": "OfficeDNA", "roles": ["sponsor"], "sponsorCategories": ["professional-services"], "website": "https://officedna.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 39, "slug": "palmerston-north-partsworld", "name": "Palmerston North PartsWorld", "roles": ["sponsor", "supplier"], "sponsorCategories": ["automotive-retail"], "supplierCategories": ["parts"], "town": "Palmerston North", "region": "Manawatu", "island": "North", "website": "http://www.pnpartsworld.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 40, "slug": "palmfield-motors", "name": "Palmfield Motors", "roles": ["sponsor"], "sponsorCategories": ["automotive-retail"], "website": "https://www.palmfeilds.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 41, "slug": "regent-motors", "name": "Regent Motors", "roles": ["sponsor"], "sponsorCategories": ["automotive-retail"], "website": "http://www.regentmotors.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 42, "slug": "robertson-prestige", "name": "Robertson Prestige", "roles": ["sponsor"], "sponsorCategories": ["automotive-retail"], "website": "https://www.robertsonprestige.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 43, "slug": "total-sheetmetals", "name": "Total Sheetmetals", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["fabricators"], "website": "https://www.totalsheetmetals.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 44, "slug": "transag-centre", "name": "TransAg Centre", "roles": ["sponsor", "supplier"], "sponsorCategories": ["farming-and-rural"], "supplierCategories": ["transport"], "website": "https://www.transag.co.nz", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 45, "slug": "travel-managers-margaret-scott", "name": "Travel Managers (Margaret Scott)", "roles": ["sponsor"], "sponsorCategories": ["professional-services"], "website": "https://travelmanagers.co.nz/specialist/313/Margaret-Scott", "activeAtTracks": ["pn-speedway"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 46, "slug": "muz-creative", "name": "Muz Creative", "roles": ["sponsor"], "sponsorCategories": ["media-and-marketing"], "website": "http://www.muzcreative.com", "activeAtTracks": ["wellington"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 47, "slug": "koken-tools", "name": "Koken Tools", "roles": ["sponsor", "supplier"], "sponsorCategories": ["automotive-retail"], "supplierCategories": ["parts"], "website": "https://www.hobeca.co.nz/Brand-Overview/Koken", "activeAtTracks": ["woodford"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 48, "slug": "suck-it-up", "name": "Suck It Up", "roles": ["sponsor"], "sponsorCategories": ["trades-and-construction"], "website": "https://suckitup.co.nz/", "activeAtTracks": ["woodford"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 49, "slug": "big-boy-digital-marketing", "name": "Big Boy Digital Marketing", "roles": ["sponsor"], "sponsorCategories": ["media-and-marketing"], "website": "https://www.bigboywebsites.co.nz/welcome", "activeAtTracks": ["woodford"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 50, "slug": "advanced-automotive", "name": "Advanced Automotive", "roles": ["sponsor", "supplier"], "sponsorCategories": ["automotive-retail"], "supplierCategories": ["parts"], "activeAtTracks": ["oceanview"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 51, "slug": "rees-race-cars", "name": "Rees Race Cars", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["fabricators", "engine-builders"], "activeAtTracks": ["oceanview"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 52, "slug": "aotea-electric", "name": "Aotea Electric", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["electronics-and-comms"], "town": "Invercargill", "region": "Southland", "island": "South", "website": "https://aoteagroup.nz/where-we-are/aotea-electric-invercargill/", "activeAtTracks": ["riverside"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 53, "slug": "back-9-creative-studio", "name": "Back 9 Creative Studio", "roles": ["sponsor"], "sponsorCategories": ["media-and-marketing"], "website": "https://www.back9.co.nz/", "activeAtTracks": ["riverside"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 54, "slug": "brian-fm-marlborough", "name": "Brian FM Marlborough", "roles": ["sponsor"], "sponsorCategories": ["media-and-marketing"], "region": "Marlborough", "island": "South", "website": "https://brianfm.com/marlborough/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 55, "slug": "marlborough-weekly", "name": "Marlborough Weekly", "roles": ["sponsor"], "sponsorCategories": ["media-and-marketing"], "region": "Marlborough", "island": "South", "website": "https://marlboroughweekly.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 56, "slug": "valk-designs", "name": "Valk Designs", "roles": ["sponsor"], "sponsorCategories": ["media-and-marketing"], "website": "https://www.valkdesigns.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 57, "slug": "mtf-finance-blenheim", "name": "MTF Finance Blenheim", "roles": ["sponsor"], "sponsorCategories": ["professional-services"], "town": "Blenheim", "region": "Marlborough", "island": "South", "website": "https://www.mtf.co.nz/contact/find-franchise/mtf-finance-blenheim/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 58, "slug": "picton-manufacturing", "name": "Picton Manufacturing", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["fabricators"], "region": "Marlborough", "island": "South", "website": "https://pictonmanufacturing.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 59, "slug": "tyre-general", "name": "Tyre General", "roles": ["sponsor", "supplier"], "sponsorCategories": ["automotive-retail"], "supplierCategories": ["tyres-and-wheels"], "website": "https://www.tyregeneral.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 60, "slug": "renwick-meats", "name": "Renwick Meats", "roles": ["sponsor"], "sponsorCategories": ["retail"], "region": "Marlborough", "island": "South", "facebook": "https://www.facebook.com/RenwickMeats/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 61, "slug": "fulton-hogan", "name": "Fulton Hogan", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["transport"], "website": "https://www.fultonhogan.com/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 62, "slug": "mvip", "name": "MVIP", "roles": ["sponsor"], "sponsorCategories": ["professional-services"], "website": "http://www.mvip.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 63, "slug": "hr-installation-services", "name": "HR Installation Services", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["other"], "town": "Springlands", "region": "Marlborough", "island": "South", "website": "https://yellow.co.nz/y/hr-installation-services-springlands", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 64, "slug": "richard-bateman-motors", "name": "Richard Bateman Motors", "roles": ["sponsor"], "sponsorCategories": ["automotive-retail"], "website": "https://www.richardbatemanmotors.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 65, "slug": "multidig-services", "name": "Multidig Services", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["other"], "website": "https://www.multidigservices.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 66, "slug": "bridgestone-tyres", "name": "Bridgestone Tyres", "roles": ["sponsor", "supplier"], "sponsorCategories": ["automotive-retail"], "supplierCategories": ["tyres-and-wheels"], "website": "https://www.bridgestonetyres.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 67, "slug": "crafar-crouch-construction", "name": "Crafar Crouch Construction", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["other"], "website": "https://crafarcrouch.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 68, "slug": "ultraquip", "name": "Ultraquip", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["other"], "website": "https://www.ultraquip.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 69, "slug": "md-freighting", "name": "MD Freighting", "roles": ["sponsor", "supplier"], "sponsorCategories": ["transport-and-logistics"], "supplierCategories": ["transport"], "website": "https://www.mdfreighting.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 70, "slug": "woodbourne-tavern", "name": "Woodbourne Tavern", "roles": ["sponsor"], "sponsorCategories": ["hospitality"], "region": "Marlborough", "island": "South", "website": "https://woodbournetavern.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 71, "slug": "greer-vineyard-services", "name": "Greer Vineyard Services", "roles": ["sponsor"], "sponsorCategories": ["farming-and-rural"], "region": "Marlborough", "island": "South", "facebook": "https://www.facebook.com/Greer-Vineyard-Services-1177672622344419/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 72, "slug": "the-blue-door", "name": "The Blue Door", "roles": ["sponsor"], "sponsorCategories": ["retail"], "website": "http://www.thebluedoor.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 73, "slug": "willpower-electrical", "name": "Willpower Electrical", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["electronics-and-comms"], "website": "http://www.willpowerelectrical.co.nz/maintenance.html", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 74, "slug": "allied-concrete", "name": "Allied Concrete", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["other"], "website": "https://www.alliedconcrete.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 75, "slug": "martin-motors", "name": "Martin Motors", "roles": ["sponsor"], "sponsorCategories": ["automotive-retail"], "facebook": "https://www.facebook.com/MartinMotors14/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 76, "slug": "radiator-services-nz", "name": "Radiator Services NZ", "roles": ["sponsor", "supplier"], "sponsorCategories": ["automotive-retail"], "supplierCategories": ["parts"], "website": "https://radiatorservices.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 77, "slug": "blenheim-accounting", "name": "Blenheim Accounting", "roles": ["sponsor"], "sponsorCategories": ["professional-services"], "town": "Blenheim", "region": "Marlborough", "island": "South", "website": "https://www.blenheimaccounting.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 78, "slug": "bings-motel", "name": "Bings Motel", "roles": ["sponsor"], "sponsorCategories": ["hospitality"], "website": "https://bingsmotel.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 79, "slug": "hirepool", "name": "Hirepool", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["other"], "website": "https://www.hirepool.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 80, "slug": "contour-services", "name": "Contour", "roles": ["sponsor"], "sponsorCategories": ["professional-services"], "website": "https://www.contour.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 81, "slug": "pelorus-trust", "name": "Pelorus Trust", "roles": ["sponsor"], "sponsorCategories": ["professional-services"], "website": "https://www.pelorustrust.net.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 82, "slug": "porter-equipment", "name": "Porter Equipment", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["other"], "website": "https://www.portergroup.co.nz/porter-equipment.html", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 83, "slug": "totalspan", "name": "Totalspan", "roles": ["sponsor", "supplier"], "sponsorCategories": ["trades-and-construction"], "supplierCategories": ["other"], "website": "https://www.totalspan.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 84, "slug": "lion-foundation", "name": "Lion Foundation", "roles": ["sponsor"], "sponsorCategories": ["professional-services"], "website": "https://lionfoundation.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 85, "slug": "a1-dry-cleaning", "name": "A1 Dry Cleaning", "roles": ["sponsor"], "sponsorCategories": ["retail"], "website": "https://www.a1drycleaning.co.nz/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" },
-  { "id": 86, "slug": "ks-callanan", "name": "KS Callanan", "roles": ["sponsor"], "sponsorCategories": ["professional-services"], "facebook": "https://www.facebook.com/kscallanan/", "activeAtTracks": ["eastern-states"], "claimed": false, "source": "auto-seed-from-tracks-2026-05-16", "addedAt": "2026-05-16" }
+  {
+    "id": 1,
+    "slug": "repco-huntly",
+    "name": "Repco Huntly",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "parts"
+    ],
+    "town": "Huntly",
+    "region": "Waikato",
+    "island": "North",
+    "website": "https://www.repco.co.nz/store/Repco_Huntly",
+    "activeAtTracks": [
+      "huntly-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 2,
+    "slug": "linkup-bop",
+    "name": "LinkUp BOP",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "professional-services"
+    ],
+    "region": "Bay of Plenty",
+    "island": "North",
+    "website": "https://www.linkupbop.co.nz/",
+    "activeAtTracks": [
+      "huntly-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 3,
+    "slug": "pollock-cranes",
+    "name": "Pollock Cranes",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "transport"
+    ],
+    "website": "https://pollockcranes.co.nz/",
+    "activeAtTracks": [
+      "huntly-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 4,
+    "slug": "the-tank-guy",
+    "name": "The Tank Guy",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "fuel-and-energy"
+    ],
+    "supplierCategories": [
+      "fuel-and-lubes"
+    ],
+    "website": "https://thetankguy.co.nz/",
+    "activeAtTracks": [
+      "huntly-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 5,
+    "slug": "central-metals",
+    "name": "Central Metals",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "fabricators"
+    ],
+    "website": "https://www.centralmetals.co.nz/",
+    "activeAtTracks": [
+      "huntly-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 6,
+    "slug": "advance-joinery",
+    "name": "Advance Joinery",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "facebook": "https://www.facebook.com/advancejoinery2015/",
+    "activeAtTracks": [
+      "huntly-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 7,
+    "slug": "outback-4x4",
+    "name": "Outback 4x4",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "parts"
+    ],
+    "website": "https://www.outback4x4.co.nz/",
+    "activeAtTracks": [
+      "huntly-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 8,
+    "slug": "savvy-hair-studio",
+    "name": "Savvy Hair Studio",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "retail"
+    ],
+    "facebook": "https://www.facebook.com/Savvyhairstudio/",
+    "activeAtTracks": [
+      "huntly-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 9,
+    "slug": "vazey-engineering",
+    "name": "Vazey Engineering",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "fabricators",
+      "engine-builders"
+    ],
+    "website": "https://www.vazeyengineering.co.nz/",
+    "activeAtTracks": [
+      "huntly-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 10,
+    "slug": "clr-business-services",
+    "name": "CLR",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "professional-services"
+    ],
+    "website": "https://www.clr.net.nz/",
+    "activeAtTracks": [
+      "huntly-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 11,
+    "slug": "the-rock-radio",
+    "name": "The Rock",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "media-and-marketing"
+    ],
+    "website": "https://www.rova.nz/radio/the-rock",
+    "activeAtTracks": [
+      "huntly-speedway",
+      "woodford-glen-speedway",
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 12,
+    "slug": "ga-pickford-roofing",
+    "name": "GA Pickford Roofing",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "website": "https://gapickfordroofing.co.nz/",
+    "activeAtTracks": [
+      "huntly-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 13,
+    "slug": "180-photography",
+    "name": "180 Photography",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "media-and-marketing"
+    ],
+    "supplierCategories": [
+      "photographers"
+    ],
+    "website": "https://180photography.co.nz/",
+    "activeAtTracks": [
+      "huntly-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 14,
+    "slug": "addis",
+    "name": "Addis",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "retail"
+    ],
+    "website": "https://www.addis.co.nz/",
+    "activeAtTracks": [
+      "huntly-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 15,
+    "slug": "mcdonalds",
+    "name": "McDonald's",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "hospitality"
+    ],
+    "website": "https://mcdonalds.co.nz/",
+    "activeAtTracks": [
+      "kihikihi-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 16,
+    "slug": "waipa-hire",
+    "name": "Waipa Hire",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "other"
+    ],
+    "town": "Te Awamutu",
+    "region": "Waikato",
+    "island": "North",
+    "website": "https://waipahire.co.nz/",
+    "activeAtTracks": [
+      "kihikihi-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 17,
+    "slug": "edwards-engineering",
+    "name": "Edwards Engineering",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "fabricators",
+      "engine-builders"
+    ],
+    "website": "https://www.edwardsengineering.co.nz/",
+    "activeAtTracks": [
+      "kihikihi-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 18,
+    "slug": "placemakers",
+    "name": "Placemakers",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "website": "https://www.placemakers.co.nz/",
+    "activeAtTracks": [
+      "kihikihi-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 19,
+    "slug": "pitbull-photography",
+    "name": "Pitbull Photography",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "media-and-marketing"
+    ],
+    "supplierCategories": [
+      "photographers"
+    ],
+    "facebook": "https://www.facebook.com/pittypics/",
+    "activeAtTracks": [
+      "baypark-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 20,
+    "slug": "engage-digital",
+    "name": "Engage Digital",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "media-and-marketing"
+    ],
+    "website": "https://engagedigital.co.nz/",
+    "activeAtTracks": [
+      "baypark-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 21,
+    "slug": "afc-motorcycles",
+    "name": "AFC Motorcycles",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "parts"
+    ],
+    "website": "https://afc.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 22,
+    "slug": "auto-interiors",
+    "name": "Auto Interiors",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "other"
+    ],
+    "website": "https://www.autointeriors.net.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 23,
+    "slug": "big-barrel",
+    "name": "Big Barrel",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "retail"
+    ],
+    "website": "https://www.bigbarrel.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 24,
+    "slug": "ceg-motors-and-pumps",
+    "name": "CEG Motors & Pumps",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "engine-builders"
+    ],
+    "website": "http://www.ceg.co",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 25,
+    "slug": "central-energy-trust-arena",
+    "name": "Central Energy Trust Arena",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "hospitality"
+    ],
+    "town": "Palmerston North",
+    "region": "Manawatu",
+    "island": "North",
+    "website": "https://venuespn.co.nz/central-energy-trust-arena",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 26,
+    "slug": "christies",
+    "name": "Christies",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "retail"
+    ],
+    "website": "https://www.christies.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 27,
+    "slug": "copthorne-hotel-palmerston-north",
+    "name": "Copthorne Hotel Palmerston North",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "hospitality"
+    ],
+    "town": "Palmerston North",
+    "region": "Manawatu",
+    "island": "North",
+    "website": "https://www.millenniumhotels.com/en/palmerston-north/copthorne-hotel-palmerston-north",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 28,
+    "slug": "dmr-metal-recyclers",
+    "name": "D.M.R Metal Recyclers",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "other"
+    ],
+    "facebook": "https://www.facebook.com/DMR-LTD-Scrapmetal-1136253239853617",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 29,
+    "slug": "fast-lane-spares",
+    "name": "Fast Lane Spares",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "parts"
+    ],
+    "website": "https://fastlanespares.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 30,
+    "slug": "hell-pizza",
+    "name": "Hell Pizza",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "hospitality"
+    ],
+    "website": "https://hellpizza.com",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 31,
+    "slug": "jack-links",
+    "name": "Jack Links",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "retail"
+    ],
+    "website": "https://jacklinks.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 32,
+    "slug": "lucas-oil-nz",
+    "name": "Lucas Oil NZ",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "fuel-and-energy"
+    ],
+    "supplierCategories": [
+      "fuel-and-lubes"
+    ],
+    "facebook": "https://www.facebook.com/lucasoilnz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 33,
+    "slug": "machinery-specialists",
+    "name": "Machinery Specialists",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "fabricators"
+    ],
+    "website": "https://machineryspecialists.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 34,
+    "slug": "manawatu-nissan",
+    "name": "Manawatu Nissan",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "town": "Palmerston North",
+    "region": "Manawatu",
+    "island": "North",
+    "website": "https://www.manawatunissan.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 35,
+    "slug": "mike-murphy-auto-electrical",
+    "name": "Mike Murphy Auto Electrical",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "electronics-and-comms"
+    ],
+    "website": "http://www.mikemurphy.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 36,
+    "slug": "more-fm-922",
+    "name": "More FM 92.2",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "media-and-marketing"
+    ],
+    "website": "https://www.morefm.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 37,
+    "slug": "motor-machinists",
+    "name": "Motor Machinists",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "engine-builders"
+    ],
+    "website": "http://www.motormachinists.com",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 38,
+    "slug": "office-dna",
+    "name": "OfficeDNA",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "professional-services"
+    ],
+    "website": "https://officedna.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 39,
+    "slug": "palmerston-north-partsworld",
+    "name": "Palmerston North PartsWorld",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "parts"
+    ],
+    "town": "Palmerston North",
+    "region": "Manawatu",
+    "island": "North",
+    "website": "http://www.pnpartsworld.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 40,
+    "slug": "palmfield-motors",
+    "name": "Palmfield Motors",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "website": "https://www.palmfeilds.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 41,
+    "slug": "regent-motors",
+    "name": "Regent Motors",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "website": "http://www.regentmotors.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 42,
+    "slug": "robertson-prestige",
+    "name": "Robertson Prestige",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "website": "https://www.robertsonprestige.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 43,
+    "slug": "total-sheetmetals",
+    "name": "Total Sheetmetals",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "fabricators"
+    ],
+    "website": "https://www.totalsheetmetals.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 44,
+    "slug": "transag-centre",
+    "name": "TransAg Centre",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "farming-and-rural"
+    ],
+    "supplierCategories": [
+      "transport"
+    ],
+    "website": "https://www.transag.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 45,
+    "slug": "travel-managers-margaret-scott",
+    "name": "Travel Managers (Margaret Scott)",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "professional-services"
+    ],
+    "website": "https://travelmanagers.co.nz/specialist/313/Margaret-Scott",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 46,
+    "slug": "muz-creative",
+    "name": "Muz Creative",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "media-and-marketing"
+    ],
+    "website": "http://www.muzcreative.com",
+    "activeAtTracks": [
+      "wellington-family-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 47,
+    "slug": "koken-tools",
+    "name": "Koken Tools",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "parts"
+    ],
+    "website": "https://www.hobeca.co.nz/Brand-Overview/Koken",
+    "activeAtTracks": [
+      "woodford-glen-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 48,
+    "slug": "suck-it-up",
+    "name": "Suck It Up",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "website": "https://suckitup.co.nz/",
+    "activeAtTracks": [
+      "woodford-glen-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 49,
+    "slug": "big-boy-digital-marketing",
+    "name": "Big Boy Digital Marketing",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "media-and-marketing"
+    ],
+    "website": "https://www.bigboywebsites.co.nz/welcome",
+    "activeAtTracks": [
+      "woodford-glen-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 50,
+    "slug": "advanced-automotive",
+    "name": "Advanced Automotive",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "parts"
+    ],
+    "activeAtTracks": [
+      "oceanview-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 51,
+    "slug": "rees-race-cars",
+    "name": "Rees Race Cars",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "fabricators",
+      "engine-builders"
+    ],
+    "activeAtTracks": [
+      "oceanview-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 52,
+    "slug": "aotea-electric",
+    "name": "Aotea Electric",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "electronics-and-comms"
+    ],
+    "town": "Invercargill",
+    "region": "Southland",
+    "island": "South",
+    "website": "https://aoteagroup.nz/where-we-are/aotea-electric-invercargill/",
+    "activeAtTracks": [
+      "riverside-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 53,
+    "slug": "back-9-creative-studio",
+    "name": "Back 9 Creative Studio",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "media-and-marketing"
+    ],
+    "website": "https://www.back9.co.nz/",
+    "activeAtTracks": [
+      "riverside-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 54,
+    "slug": "brian-fm-marlborough",
+    "name": "Brian FM Marlborough",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "media-and-marketing"
+    ],
+    "region": "Marlborough",
+    "island": "South",
+    "website": "https://brianfm.com/marlborough/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 55,
+    "slug": "marlborough-weekly",
+    "name": "Marlborough Weekly",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "media-and-marketing"
+    ],
+    "region": "Marlborough",
+    "island": "South",
+    "website": "https://marlboroughweekly.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 56,
+    "slug": "valk-designs",
+    "name": "Valk Designs",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "media-and-marketing"
+    ],
+    "website": "https://www.valkdesigns.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 57,
+    "slug": "mtf-finance-blenheim",
+    "name": "MTF Finance Blenheim",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "professional-services"
+    ],
+    "town": "Blenheim",
+    "region": "Marlborough",
+    "island": "South",
+    "website": "https://www.mtf.co.nz/contact/find-franchise/mtf-finance-blenheim/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 58,
+    "slug": "picton-manufacturing",
+    "name": "Picton Manufacturing",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "fabricators"
+    ],
+    "region": "Marlborough",
+    "island": "South",
+    "website": "https://pictonmanufacturing.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 59,
+    "slug": "tyre-general",
+    "name": "Tyre General",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "tyres-and-wheels"
+    ],
+    "website": "https://www.tyregeneral.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 60,
+    "slug": "renwick-meats",
+    "name": "Renwick Meats",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "retail"
+    ],
+    "region": "Marlborough",
+    "island": "South",
+    "facebook": "https://www.facebook.com/RenwickMeats/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 61,
+    "slug": "fulton-hogan",
+    "name": "Fulton Hogan",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "transport"
+    ],
+    "website": "https://www.fultonhogan.com/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 62,
+    "slug": "mvip",
+    "name": "MVIP",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "professional-services"
+    ],
+    "website": "http://www.mvip.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 63,
+    "slug": "hr-installation-services",
+    "name": "HR Installation Services",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "other"
+    ],
+    "town": "Springlands",
+    "region": "Marlborough",
+    "island": "South",
+    "website": "https://yellow.co.nz/y/hr-installation-services-springlands",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 64,
+    "slug": "richard-bateman-motors",
+    "name": "Richard Bateman Motors",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "website": "https://www.richardbatemanmotors.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 65,
+    "slug": "multidig-services",
+    "name": "Multidig Services",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "other"
+    ],
+    "website": "https://www.multidigservices.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 66,
+    "slug": "bridgestone-tyres",
+    "name": "Bridgestone Tyres",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "tyres-and-wheels"
+    ],
+    "website": "https://www.bridgestonetyres.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 67,
+    "slug": "crafar-crouch-construction",
+    "name": "Crafar Crouch Construction",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "other"
+    ],
+    "website": "https://crafarcrouch.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 68,
+    "slug": "ultraquip",
+    "name": "Ultraquip",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "other"
+    ],
+    "website": "https://www.ultraquip.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 69,
+    "slug": "md-freighting",
+    "name": "MD Freighting",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "transport-and-logistics"
+    ],
+    "supplierCategories": [
+      "transport"
+    ],
+    "website": "https://www.mdfreighting.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 70,
+    "slug": "woodbourne-tavern",
+    "name": "Woodbourne Tavern",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "hospitality"
+    ],
+    "region": "Marlborough",
+    "island": "South",
+    "website": "https://woodbournetavern.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 71,
+    "slug": "greer-vineyard-services",
+    "name": "Greer Vineyard Services",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "farming-and-rural"
+    ],
+    "region": "Marlborough",
+    "island": "South",
+    "facebook": "https://www.facebook.com/Greer-Vineyard-Services-1177672622344419/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 72,
+    "slug": "the-blue-door",
+    "name": "The Blue Door",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "retail"
+    ],
+    "website": "http://www.thebluedoor.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 73,
+    "slug": "willpower-electrical",
+    "name": "Willpower Electrical",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "electronics-and-comms"
+    ],
+    "website": "http://www.willpowerelectrical.co.nz/maintenance.html",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 74,
+    "slug": "allied-concrete",
+    "name": "Allied Concrete",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "other"
+    ],
+    "website": "https://www.alliedconcrete.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 75,
+    "slug": "martin-motors",
+    "name": "Martin Motors",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "facebook": "https://www.facebook.com/MartinMotors14/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 76,
+    "slug": "radiator-services-nz",
+    "name": "Radiator Services NZ",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "parts"
+    ],
+    "website": "https://radiatorservices.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 77,
+    "slug": "blenheim-accounting",
+    "name": "Blenheim Accounting",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "professional-services"
+    ],
+    "town": "Blenheim",
+    "region": "Marlborough",
+    "island": "South",
+    "website": "https://www.blenheimaccounting.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 78,
+    "slug": "bings-motel",
+    "name": "Bings Motel",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "hospitality"
+    ],
+    "website": "https://bingsmotel.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 79,
+    "slug": "hirepool",
+    "name": "Hirepool",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "other"
+    ],
+    "website": "https://www.hirepool.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 80,
+    "slug": "contour-services",
+    "name": "Contour",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "professional-services"
+    ],
+    "website": "https://www.contour.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 81,
+    "slug": "pelorus-trust",
+    "name": "Pelorus Trust",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "professional-services"
+    ],
+    "website": "https://www.pelorustrust.net.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 82,
+    "slug": "porter-equipment",
+    "name": "Porter Equipment",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "other"
+    ],
+    "website": "https://www.portergroup.co.nz/porter-equipment.html",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 83,
+    "slug": "totalspan",
+    "name": "Totalspan",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "supplierCategories": [
+      "other"
+    ],
+    "website": "https://www.totalspan.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 84,
+    "slug": "lion-foundation",
+    "name": "Lion Foundation",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "professional-services"
+    ],
+    "website": "https://lionfoundation.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway",
+      "moore-park-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 85,
+    "slug": "a1-dry-cleaning",
+    "name": "A1 Dry Cleaning",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "retail"
+    ],
+    "website": "https://www.a1drycleaning.co.nz/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 86,
+    "slug": "ks-callanan",
+    "name": "KS Callanan",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "professional-services"
+    ],
+    "facebook": "https://www.facebook.com/kscallanan/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-from-tracks-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 87,
+    "slug": "copthorne-hotel",
+    "name": "Copthorne Hotel",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "hospitality"
+    ],
+    "town": "Palmerston North",
+    "website": "https://www.millenniumhotels.com/en/palmerston-north/copthorne-hotel-palmerston-north",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 88,
+    "slug": "d-m-r-metal-recyclers",
+    "name": "D.M.R Metal Recyclers",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "trades-and-construction"
+    ],
+    "website": "https://www.facebook.com/DMR-LTD-Scrapmetal-1136253239853617",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 89,
+    "slug": "lucas-oil",
+    "name": "Lucas Oil",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail",
+      "fuel-and-energy"
+    ],
+    "supplierCategories": [
+      "fuel-and-lubes"
+    ],
+    "website": "https://www.facebook.com/lucasoilnz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 90,
+    "slug": "more-fm-92-2",
+    "name": "More FM 92.2",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "media-and-marketing"
+    ],
+    "website": "https://www.morefm.co.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 91,
+    "slug": "officedna",
+    "name": "OfficeDNA",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "professional-services"
+    ],
+    "website": "https://officedna.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 92,
+    "slug": "the-rock-95-4",
+    "name": "The Rock 95.4",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "media-and-marketing"
+    ],
+    "website": "https://www.therock.net.nz",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 93,
+    "slug": "travel-managers",
+    "name": "Travel Managers",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "other"
+    ],
+    "website": "https://travelmanagers.co.nz/specialist/313/Margaret-Scott",
+    "activeAtTracks": [
+      "palmerston-north-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 94,
+    "slug": "tmg",
+    "name": "TMG",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "other"
+    ],
+    "activeAtTracks": [
+      "baypark-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 95,
+    "slug": "j-swap",
+    "name": "J-Swap",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "other"
+    ],
+    "activeAtTracks": [
+      "baypark-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 96,
+    "slug": "bsl",
+    "name": "BSL",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "other"
+    ],
+    "activeAtTracks": [
+      "baypark-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 97,
+    "slug": "jaxxon",
+    "name": "Jaxxon",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "other"
+    ],
+    "activeAtTracks": [
+      "baypark-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 98,
+    "slug": "power-farming",
+    "name": "Power Farming",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "farming-and-rural"
+    ],
+    "activeAtTracks": [
+      "baypark-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 99,
+    "slug": "rotorua-rebels",
+    "name": "Rotorua Rebels",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "other"
+    ],
+    "town": "Rotorua",
+    "website": "https://www.facebook.com/ROTORUAREBELS/",
+    "activeAtTracks": [
+      "paradise-valley-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 100,
+    "slug": "auckland-vintage-speedway",
+    "name": "Auckland Vintage Speedway",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "other"
+    ],
+    "town": "Auckland",
+    "website": "http://www.vintagespeedway.co.nz",
+    "activeAtTracks": [
+      "auckland-vintage-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 101,
+    "slug": "brian-fm",
+    "name": "Brian FM",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "media-and-marketing"
+    ],
+    "town": "Marlborough",
+    "website": "https://brianfm.com/",
+    "activeAtTracks": [
+      "eastern-states-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 102,
+    "slug": "flicket",
+    "name": "Flicket",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "other"
+    ],
+    "town": "Cromwell",
+    "website": "https://centralmotorspeedway.flicket.co.nz/",
+    "activeAtTracks": [
+      "central-motor-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 103,
+    "slug": "canterbury-demolition",
+    "name": "Canterbury Demolition",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "other"
+    ],
+    "website": "https://canterburydemolition.co.nz/",
+    "activeAtTracks": [
+      "moore-park-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 104,
+    "slug": "southern-trust",
+    "name": "Southern Trust",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "other"
+    ],
+    "website": "https://www.wellbeingnc.org.nz/",
+    "activeAtTracks": [
+      "moore-park-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 105,
+    "slug": "city-van-spares",
+    "name": "City Van Spares",
+    "roles": [
+      "sponsor",
+      "supplier"
+    ],
+    "sponsorCategories": [
+      "automotive-retail"
+    ],
+    "supplierCategories": [
+      "parts"
+    ],
+    "website": "https://www.autodismantlers.co.nz/about.html?company_id=25",
+    "activeAtTracks": [
+      "moore-park-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  },
+  {
+    "id": 106,
+    "slug": "container-waste",
+    "name": "Container Waste",
+    "roles": [
+      "sponsor"
+    ],
+    "sponsorCategories": [
+      "other"
+    ],
+    "website": "http://www.containerwaste.co.nz/",
+    "activeAtTracks": [
+      "moore-park-speedway"
+    ],
+    "claimed": false,
+    "source": "auto-seed-2026-05-16",
+    "addedAt": "2026-05-16"
+  }
 ]

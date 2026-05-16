@@ -1,6 +1,8 @@
 import React from 'react'
 import { tracksBySlug } from '../tracksStore'
 import { events } from '../eventsStore'
+import { businesses } from '../businessesStore'
+import { BusinessCard } from '../components/BusinessCard'
 import { MapEmbed } from '../components/MapEmbed'
 import { TrackWeather } from '../components/TrackWeather'
 import { FacebookEmbed } from '../components/FacebookEmbed'
@@ -32,6 +34,7 @@ export const TrackPage: React.FC<Props> = ({ slug }) => {
     return e.trackSlug === track.slug && (eventDate >= today || status === 'upcoming' || status === 'live' || status === 'postponed')
   })
   const trackImage = track.photo || track.logo
+  const trackBusinesses = businesses.filter((b) => (b.activeAtTracks || []).includes(track.slug))
 
   return (
     <>
@@ -130,13 +133,20 @@ export const TrackPage: React.FC<Props> = ({ slug }) => {
           </div>
 
           {track.status && (
-            <div className="flex items-center gap-3 border-t border-slate-800 pt-3 mt-2">
-              <span className={`px-2.5 py-1 text-xs font-bold uppercase rounded-md tracking-wide ${track.status === 'Open' ? 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/20' :
+            <div className="flex flex-wrap items-center gap-3 border-t border-slate-800 pt-3 mt-2">
+              <span className={`px-2.5 py-1 text-xs font-bold uppercase rounded-md tracking-wide ${
+                track.status === 'Open' ? 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/20' :
+                track.status === 'Heritage' ? 'bg-amber-500/10 text-amber-400 border border-amber-500/20' :
                 track.status === 'Closed' ? 'bg-red-500/10 text-red-400 border border-red-500/20' :
                   'bg-amber-500/10 text-amber-400 border border-amber-500/20'
                 }`}>
-                {track.status}
+                {track.status === 'Heritage' ? 'Heritage Track' : track.status}
               </span>
+              {track.yearsActive && (
+                <span className="text-xs text-slate-400 font-medium tracking-wide">
+                  <span className="text-slate-500">ACTIVE:</span> {track.yearsActive}
+                </span>
+              )}
               {track.trackLength && (
                 <span className="text-xs text-slate-400 font-medium tracking-wide">
                   <span className="text-slate-500">LENGTH:</span> {track.trackLength}
@@ -185,6 +195,34 @@ export const TrackPage: React.FC<Props> = ({ slug }) => {
           </section>
         )}
 
+        {/* Video Highlights */}
+        {track.videos && track.videos.length > 0 && (
+          <section className="space-y-4">
+            <h2 className="text-sm font-semibold uppercase tracking-[0.22em] text-slate-300">
+              Video Highlights
+            </h2>
+            <div className="grid gap-4 md:grid-cols-2">
+              {track.videos.map((video, i) => (
+                <div key={video.id} className="overflow-hidden rounded-xl border border-slate-800 bg-slate-900 shadow-card">
+                  <div className="relative aspect-video">
+                    <iframe
+                      src={`https://www.youtube.com/embed/${video.id}`}
+                      title={video.title}
+                      className="absolute inset-0 h-full w-full"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowFullScreen
+                      loading={i === 0 ? 'eager' : 'lazy'}
+                    />
+                  </div>
+                  <div className="p-3">
+                    <p className="text-sm font-medium text-slate-200 line-clamp-1">{video.title}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
+
         {track.admissionPrices && (
           <section className="space-y-2">
             <h2 className="text-sm font-semibold uppercase tracking-[0.22em] text-slate-300">
@@ -227,6 +265,54 @@ export const TrackPage: React.FC<Props> = ({ slug }) => {
             </p>
           </section>
         )}
+        {/* Heritage / History Section */}
+        {(track.historicalNotes || track.notableEvents || track.formerNames) && (
+          <section className="space-y-4 rounded-xl border border-amber-500/20 bg-amber-500/5 p-6">
+            <div className="flex items-center gap-3">
+              <h2 className="text-lg font-bold text-white">Track History</h2>
+              {track.status === 'Heritage' && (
+                <span className="px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider rounded bg-amber-500/10 text-amber-400 border border-amber-500/20">
+                  Historical Archive
+                </span>
+              )}
+            </div>
+
+            {track.historicalNotes && (
+              <p className="text-sm text-slate-300 leading-relaxed">{track.historicalNotes}</p>
+            )}
+
+            <div className="grid gap-4 sm:grid-cols-2">
+              {track.formerNames && track.formerNames.length > 0 && (
+                <div>
+                  <h3 className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-2">Former Names</h3>
+                  <ul className="space-y-1">
+                    {track.formerNames.map(name => (
+                      <li key={name} className="text-sm text-slate-300">{name}</li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
+              {track.notableEvents && track.notableEvents.length > 0 && (
+                <div>
+                  <h3 className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-2">Notable Events</h3>
+                  <ul className="space-y-1">
+                    {track.notableEvents.map(event => (
+                      <li key={event} className="text-sm text-slate-300">{event}</li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+            </div>
+
+            {track.yearsActive && (
+              <p className="text-xs text-slate-500 border-t border-amber-500/10 pt-3 mt-2">
+                This track was active from {track.yearsActive}. SpeedwayHub preserves the history and records of all New Zealand speedway venues, past and present.
+              </p>
+            )}
+          </section>
+        )}
+
         <section className="space-y-2">
           <h2 className="text-sm font-semibold uppercase tracking-[0.22em] text-slate-300">
             Facilities
@@ -281,6 +367,45 @@ export const TrackPage: React.FC<Props> = ({ slug }) => {
                 Open Official Facebook Page →
               </a>
             </div>
+          </section>
+        )}
+
+        {trackBusinesses.length > 0 && (
+          <section className="space-y-3">
+            <div className="flex flex-wrap items-end justify-between gap-2">
+              <div>
+                <p className="text-[11px] uppercase tracking-[0.25em] text-slate-400">Local backers</p>
+                <h2 className="text-lg font-semibold text-white">
+                  Sponsors &amp; Suppliers at {track.name}
+                </h2>
+                <p className="text-sm text-slate-400">
+                  Businesses we&rsquo;ve spotted backing the racing here.
+                </p>
+              </div>
+              <div className="flex flex-wrap gap-2">
+                <a
+                  href="/sponsors"
+                  className="rounded-full border border-slate-700 px-3 py-1.5 text-xs font-semibold text-slate-200 hover:border-hub-red"
+                >
+                  All sponsors
+                </a>
+                <a
+                  href="/suppliers"
+                  className="rounded-full border border-slate-700 px-3 py-1.5 text-xs font-semibold text-slate-200 hover:border-hub-red"
+                >
+                  All suppliers
+                </a>
+              </div>
+            </div>
+            <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+              {trackBusinesses.map((b) => (
+                <BusinessCard key={b.id} business={b} />
+              ))}
+            </div>
+            <p className="text-xs text-slate-500">
+              Are you a {track.name} sponsor or supplier we missed?{' '}
+              <a href="/submit" className="text-hub-red underline">Add your business</a>.
+            </p>
           </section>
         )}
       </main>
