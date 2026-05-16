@@ -30,11 +30,55 @@ NZ speedway is politically tight. Tracks fight back hard on anything they read a
 ### Forge funnel
 Every paying supplier/sponsor gets a welcome-email upsell: "want a real website too? here's a demo we built you, $29/mo to claim." Reuses proven Forge claim flow (Junk Masters validated 2026-05-12). SpeedwayHub becomes a vertical-niche prospecting engine for the primary $5k/m goal.
 
-### Revenue projection (rough)
-- TAM: ~1500-2500 NZ businesses across suppliers + sponsors
-- Conversion target: 3-7% to paid SpeedwayHub listing = 45-175 paying listings = $1305-5075/mo
-- Forge upsell on top: 10-20% of paid listings also take Forge site = 5-35 additional Forge subs = $145-1015/mo
-- **Combined ceiling: $1450-6090/mo, fully aligned with $5k/m anchor**
+### Revenue model (expanded 2026-05-16)
+
+Listing fees alone undersell what this site can be. The platform owns the audience (fans + drivers + teams), so we monetise *every* layer where money already moves through speedway. Drivers/teams/tracks/fans never get charged. Everything paid below is paid by businesses or via transactions buyers were already going to make.
+
+### Direct subscription revenue (the floor)
+
+| Tier | Price | Audience | Year-2 target |
+|---|---|---|---|
+| Stub listing | Free, unclaimed | All suppliers + sponsors | 1000+ stubs auto-seeded |
+| Verified Free | Free, claimed | Suppliers + sponsors | 200-400 verified |
+| Standard Paid | $29/mo | Suppliers + sponsors | 80-200 paid |
+| **Featured Paid** | **$99/mo** | Top-tier suppliers + sponsors | 15-30 featured |
+
+Standard at 150 × $29 = $4,350/mo. Featured at 20 × $99 = $1,980/mo. Subscription floor: **~$6,330/mo**.
+
+### Transactional + advertising revenue (the ceiling)
+
+| Stream | Mechanic | Year-2 estimate |
+|---|---|---|
+| Newsletter sponsorship | Weekly digest, 1 slot/issue, $200/slot | $800/mo |
+| Photo gallery commission | Photographers list event galleries, fans buy HD downloads, 30% to SpeedwayHub | $300-600/mo |
+| Driver merch commission | Drivers list merch on free profile, 15% transaction cut | $200-500/mo |
+| Fantasy/picks competition | Free to play, sponsored prize pool | $150-300/mo amortised |
+| Sponsored race reports + features | Marked-sponsored content, $300/article | $600-1,500/mo |
+| Job board | Engine builder/fab apprentice posts, $49/post | $200-500/mo |
+| Premium classifieds | Cars/parts/trailers for sale, $19/listing | $200-600/mo |
+| Annual event listings | Swap meets, AGM, awards nights, $99/event | $100-300/mo amortised |
+| Affiliate referrals | Out-clicks to parts/race-wear retailers, 5-10% commission | $100-400/mo |
+
+Transactional ceiling: **~$2,600-5,700/mo**.
+
+### Forge upsell (attributed but accounted separately)
+Every paid SpeedwayHub claim gets a Forge welcome-email upsell. 15-25% conversion typical for warm vertical-niche pipeline. 200 paid claims × 20% = 40 Forge subs × $29 = **$1,160/mo** directly attributable to SpeedwayHub funnel.
+
+### Combined revenue picture
+
+| Horizon | Conservative | Aggressive |
+|---|---|---|
+| Year 1 (slow start, listings only) | $500-1,200/mo | $2,000-3,000/mo |
+| Year 2 (listings + 3-4 streams) | $3,500-5,500/mo | $7,000-9,000/mo |
+| Year 3 (full stack) | $7,000-9,000/mo | $11,000-13,000/mo |
+
+This stops being a side quest at Year 1 if execution holds, and contributes seriously to the $5k/m anchor by Year 2 alone.
+
+### What we still will not do
+- Charge fans for any site access (premium "SpeedwayHub+" idea = killed, conflicts with peace treaty)
+- Charge drivers/teams for any profile, claim, or feature
+- Sell event tickets (track political peace treaty)
+- Compete with tracks for sponsor money on track events
 
 ---
 
@@ -198,6 +242,23 @@ Background pacing. No phase blocks Forge work. Each phase is independent + shipp
 - **Speedway NZ governing body:** courtesy outreach before launch to avoid surprises.
 - **Photographer category special-case:** photographers are both suppliers AND can monetise via gallery sales. Keep simple at first (paid listing only). Gallery sales = Phase 6+.
 
+## 8.5 Future revenue surface (Phase 6+, not in current scope)
+
+Documented here so the Phase 0-5 work does not paint us into a corner. Each is a standalone build after the core platform is earning.
+
+- **Photo gallery commerce** (Phase 6): photographer uploads event gallery, fans buy HD downloads, 70/30 revenue split. Drives photographer claim flow + fan transaction loop.
+- **Driver merch storefront** (Phase 6): driver profiles add a "shop" tab, SpeedwayHub takes 15% on Stripe-processed sales. Drivers stay free, transaction revenue is the cut.
+- **Fantasy speedway / weekly picks** (Phase 7): free for fans, sponsored prize pool, sponsor logo on the leaderboard. Annual sponsor sells for $1500-3000/season.
+- **Sponsored race reports** (Phase 7): supplier or sponsor pays for an AI-assisted + human-edited feature article. Clearly marked as sponsored content. $300/article target.
+- **Job board** (Phase 7): speedway trades hiring (engine builder apprentice, fab welder, parts counter). $49/post 30-day visibility.
+- **Premium classifieds** (Phase 8): cars-for-sale, parts, trailers, race-wear. Free basic listings, $19 premium (featured + photos + boosted). Free version increases fan time-on-site, premium is the revenue.
+- **Annual event paid listings** (Phase 8): swap meets, AGMs, awards nights, training days. $99/event.
+- **Affiliate referrals** (Phase 8): outbound clicks to listed suppliers tagged with affiliate IDs where available. 5-10% commission on tracked sales.
+- **Sponsor matchmaking marketplace** (Phase 9): drivers list "seeking sponsors", sponsors list "available to sponsor by region/class". Free to list both sides. SpeedwayHub takes finder's fee on completed deals (10% of first-year sponsorship value).
+- **Driver email digest sponsorship** (Phase 9): fans follow specific drivers, get a digest. One sponsor slot per digest, $X per send.
+
+Phases 6-9 are not promised in this design but the data model + IA + visual system in Phases 0-5 must not block them.
+
 ---
 
 ## 9. Success criteria
@@ -208,4 +269,12 @@ Background pacing. No phase blocks Forge work. Each phase is independent + shipp
 - Phase 4: ≥ 100 stub listings auto-seeded
 - Phase 5: Forge upsell email click-through ≥ 5% on paid claims
 
-At 12 months post-launch: ≥ 30 paid listings ($870/mo recurring) and/or ≥ 10 Forge subs sourced from SpeedwayHub funnel ($290/mo recurring).
+### Revenue targets
+
+| Horizon | Target | Stretch |
+|---|---|---|
+| 6 months post-launch | ≥ 15 paid listings ($435/mo) + ≥ 3 Forge subs ($87/mo) | ≥ 40 paid + ≥ 10 Forge |
+| 12 months post-launch | ≥ 50 paid listings + ≥ 10 Forge subs + ≥ 2 newsletter sponsors = ~$2,000/mo | ≥ 100 paid + ≥ 25 Forge + 4 newsletter = ~$4,500/mo |
+| 24 months post-launch | ~$5,000/mo combined (subscription + transactional + Forge attribution) | ~$10,000/mo combined |
+
+If 24-month-conservative hits, SpeedwayHub alone meets the $5k/m anchor goal as a single revenue stream. That is the bar we are designing for.
